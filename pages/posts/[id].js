@@ -4,6 +4,7 @@ export default function Post({ post }) {
     return (
         <div>
             <h2>{post.data.title}</h2>
+            <h2>{post.data.discipline}</h2>
             <div dangerouslySetInnerHTML={{ __html: post.content }}></div>
         </div>
     )
