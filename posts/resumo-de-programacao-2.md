@@ -1,10 +1,7 @@
 ---
 title: Resumo de Programação 2
-discipline: Programação2
+discipline: Programação 2
 ---
-#  Resumo de Programação 2 
-
-## Programação 2
 
 ## Ementa
 
