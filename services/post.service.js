@@ -43,7 +43,11 @@ export function getAllDisciplines() {
     const disciplines = new Set();
     fs.readdirSync(postsDir).map((postDir) => {
         const post = readMarkdownFile(postDir);
-        disciplines.add(post.data.discipline)
+        if (post.data.discipline) {
+            disciplines.add(post.data.discipline)
+        } else {
+            console.error("warn: discipline not found " + postDir)
+        }
     });
     return Array.from(disciplines);
 }
@@ -53,7 +57,7 @@ export function getAllDisciplinesPaths() {
         (discipline) => {
             return `/disciplinas/${discipline}`
         }
-    ) 
+    )
 }
 
 export function getAllPostsPaths() {
