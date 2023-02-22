@@ -25,6 +25,37 @@ export function getAllPosts() {
     return posts;
 }
 
+export function getAllPostsByDiscipline(discipline) {
+    const posts = []
+    fs.readdirSync(postsDir).map((postDir) => {
+        const post = readMarkdownFile(postDir);
+        const data = post.data;
+        const content = marked.parse(post.content);
+        const id = getPostId(postDir);
+        if (post.data.discipline == discipline) {
+            posts.push({ id: id, data, content })
+        }
+    })
+    return posts;
+}
+
+export function getAllDisciplines() {
+    const disciplines = new Set();
+    fs.readdirSync(postsDir).map((postDir) => {
+        const post = readMarkdownFile(postDir);
+        disciplines.add(post.data.discipline)
+    });
+    return Array.from(disciplines);
+}
+
+export function getAllDisciplinesPaths() {
+    return getAllDisciplines().map(
+        (discipline) => {
+            return `/disciplinas/${discipline}`
+        }
+    ) 
+}
+
 export function getAllPostsPaths() {
     const paths = [];
     fs.readdirSync(postsDir).map((postDir) => {
