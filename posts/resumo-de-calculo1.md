@@ -1,5 +1,5 @@
 ---
-title: Resumo de Cálculo I
+title: Resumo de Cálculo Diferencial e Integral I
 discipline: Cálculo 1
 ---
 
@@ -34,36 +34,6 @@ Cálculo Diferencial Integral é um ramo da matemática que estuda taxas de vari
 - É interessante assistir algum curso de pré-cálculo, para ficar seguro nos conceitos básicos da disciplina. Você pode encontrar referências bacanas nas [vídeo aulas de links uteis](https://github.com/OpenDevUFCG/Tamburetei/blob/master/calculo1/linksUteis.md#videoaulas).
 
 - É importante sempre ver a correção da sua prova para aprender com seus erros e revisar algum erro de correção.
-
-## Sumário
-
-- [Ementa](#ementa)
-- [Visão Geral](#visão-geral)
-- [Dicas](#dicas)
-- [Sumário](#sumário)
-- [Material de Estudo](#material-de-estudo)
-- [Listas de Exercícios](#listas-de-exercícios)
-  - [2019.2](#20192)
-  - [2019.1](#20191)
-- [Provas](#provas)
-  - [2020.2](#20202)
-  - [2020.1](#20201)
-  - [2019.2](#20192-1)
-  - [2019.1](#20191-1)
-  - [2018.2](#20182)
-  - [2018.1](#20181)
-  - [2017.2](#20172)
-  - [2017.1](#20171)
-  - [2016.2](#20162)
-  - [2016.1](#20161)
-- [Plataformas de Estudo](#plataformas-de-estudo)
-- [Ferramentas](#ferramentas)
-- [Fóruns](#fóruns)
-- [Blogs](#blogs)
-- [Videoaulas](#videoaulas)
-- [Dificuldades Comuns](#dificuldades-comuns)
-  - [Dificuldade Prévia](#dificuldade-prévia)
-  - [Motivação](#motivação)
 
 ## Material de Estudo
 
