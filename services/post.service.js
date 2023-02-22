@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import * as matter from "gray-matter";
 import { marked } from "marked";
+import chalk from "chalk";
 
 const postsDir = path.join(process.cwd(), "posts");
 
@@ -46,7 +47,7 @@ export function getAllDisciplines() {
         if (post.data.discipline) {
             disciplines.add(post.data.discipline)
         } else {
-            console.error("warn: discipline not found " + postDir)
+            console.error(chalk.red(`error: discipline not found (${postDir})`));
         }
     });
     return Array.from(disciplines);
