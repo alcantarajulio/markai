@@ -66,6 +66,7 @@ As 10 unidades consistem em:
 ## Ferramentas
 
 - [Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
+- [Replit](https://replit.com/languages/python3)
 
 ## Exercícios
 
