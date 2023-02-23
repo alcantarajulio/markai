@@ -1,10 +1,11 @@
+import Header from "@/components/Header";
 import { getAllDisciplines } from "@/services/post.service"
 import Link from "next/link";
 
 export default function Page({ disciplines }) {
   return (
     <>
-    <Link href={"/"}>Home</Link>
+    <Header/>
     <ul>
       {disciplines.map((discipline) =>
         <li key={discipline}>

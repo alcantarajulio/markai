@@ -1,0 +1,11 @@
+.Posts {
+    padding: 10px;
+}
+
+.Posts li {
+    padding: 5px;
+}
+
+.Posts a {
+    color: purple;
+}

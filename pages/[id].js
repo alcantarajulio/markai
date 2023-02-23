@@ -1,11 +1,11 @@
+import Header from "@/components/Header";
 import { getAllPostsPaths, getPost } from "@/services/post.service"
-import Link from "next/link";
 
 export default function Page({ post }) {
     return (
         <>
+            <Header/>
             <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "10px" }}>
-                <Link href={"/"}>Voltar</Link>
                 <div>
                     <h1>{post.data.title}</h1>
                     <h2>{post.data.discipline}</h2>

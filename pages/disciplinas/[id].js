@@ -1,16 +1,13 @@
-import { getAllDisciplines, getAllDisciplinesPaths, getAllPostsByDiscipline } from "@/services/post.service"
+import Header from "@/components/Header";
+import Posts from "@/components/Posts";
+import { getAllDisciplinesPaths, getAllPostsByDiscipline } from "@/services/post.service"
 import Link from "next/link";
 
 export default function Page({ posts }) {
   return (
     <>
-      <Link href={"/"}>Home</Link>
-      <ul>
-        {posts.map((post) =>
-          <li key={post.id}>
-            <h2><Link href={`/${post.id}`}>{post.data.title}</Link></h2>
-          </li>)}
-      </ul>
+      <Header />
+      <Posts posts={posts} />
     </>
   )
 }
@@ -24,7 +21,12 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const posts = getAllPostsByDiscipline(params.id);
+  const posts = [];
+  getAllPostsByDiscipline(params.id).map((post) => {
+    const id = post.id;
+    const title = post.data.title
+    posts.push({id, title});
+  })
   return {
     props: { posts: posts }
   }

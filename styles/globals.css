@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+
 h1 {
     font-size: 48px;
 }
@@ -10,8 +17,8 @@ h3 {
     font-size: 28px;
 }
 
-p {
-    font-size: 16px;
+li, p {
+    font-size: 18px;
 }
 
 img {

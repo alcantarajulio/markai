@@ -1,16 +1,12 @@
+import Header from "@/components/Header";
+import Posts from "@/components/Posts";
 import { getAllPosts } from "@/services/post.service"
-import Link from "next/link";
 
 export default function Page({ posts }) {
   return (
     <>
-    <Link href={"/disciplinas"}>filtrar por disciplinas</Link>
-    <ul>
-      {posts.map((post) =>
-        <li key={post.id}>
-          <h2><Link href={`/${post.id}`}>{post.title}</Link></h2>
-        </li>)}
-    </ul>
+    <Header/>
+    <Posts posts={posts}/>
     </>
   )
 }
