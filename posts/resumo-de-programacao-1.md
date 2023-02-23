@@ -75,7 +75,7 @@ As 10 unidades consistem em:
 - [Coding Bat](https://codingbat.com/python)
 - [Codewars](https://www.codewars.com/)
 - [Coding Game](https://www.codingame.com/)
-- [Beecrownd](https://www.beecrowd.com.br/judge/en/login)
+- [Beecrowd](https://www.beecrowd.com.br/judge/en/login)
 - [Dirlididi](http://dirlididi.com/client/index.html#)
 
 ## Requisitos 
