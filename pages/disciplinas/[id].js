@@ -1,7 +1,7 @@
 import { getAllDisciplines, getAllDisciplinesPaths, getAllPostsByDiscipline } from "@/services/post.service"
 import Link from "next/link";
 
-export default function PostsByDiscipline({ posts }) {
+export default function Page({ posts }) {
   return (
     <>
       <Link href={"/"}>Home</Link>

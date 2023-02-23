@@ -1,7 +1,7 @@
 import { getAllPostsPaths, getPost } from "@/services/post.service"
 import Link from "next/link";
 
-export default function Post({ post }) {
+export default function Page({ post }) {
     return (
         <>
             <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "10px" }}>
