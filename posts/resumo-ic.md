@@ -47,6 +47,46 @@ Portanto, Introdução à Computação é a disciplina que vai te dar uma noçã
 - [Material de Joseana](http://www.dsc.ufcg.edu.br/~joseana/IC20181.html)
 - [Curso História da Computação (com legenda)](https://www.youtube.com/watch?v=O5nskjZ_GoI)
   
+## Tópicos
+### Unidade 1
+
+#### Primeiros Conceitos, Evolução e História da Computação.   
+
+#### Introdução aos Sistemas Computacionais por:   
+-  Construção e Geração.   
+-  Natureza e Âmbito.    
+-  Porte.   
+
+
+#### Sistemas de Numeração.
+##### Representação da Informação(Números Naturais).
+- Sistemas de Numeração.   
+- Divisões Sucessivas.
+- Notação Polinomial e Agrupamento de Bits.   
+- Conversões entre sistemas de numeração(Binário, Octal, Decimal e Hexadecimal).    
+##### Representação de Números Inteiros.   
+- Representação de Grandeza de Sinal(MSB).   
+- Complemento de 1 e Complemento de 2.   
+- Excesso de *n*.   
+
+##### Representação de Números Reais.   
+- Representação de Ponto Flutuante.   
+- Padrão IEEE 754(32 e 64 bits).   
+- BCD(Binary Coded to Decimal) e Ponto Fixo.   
+
+### Unidade 2   
+#### Operações Binárias.   
+- Operações aritméticas em binário normal.  
+- Operações aritméticas em Complemento de 2.   
+
+#### Portas Lógicas.
+- Lógica e Álgebra Booleana.   
+- Portas Lógicas.   
+- Circuitos Integrados.   
+- Eletrônica Digital.   
+
+#### Geração e Simplificação de Expressões Booleanas.
+---
 ## Dificuldades Comuns 
 
 ### Circuitos Lógicos
