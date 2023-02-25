@@ -35,6 +35,8 @@ Em Fundamentos de Matemática para Ciência da Computação I, você será inici
 
 - Os conteúdos dados costumam ter certa variação de acordo com o professor que esteja lecionando a disciplina. Alguns temas serão abordados com mais profundidade, outros talvez não. Dessa forma, a ementa não necessariamente será seguida à risca.
 
+- Como qualquer disciplina de exatas, requer que questões e listas sejam resolvidas a fio, pois traz a tona as vulnerabilidades existentes no seu conhecimento.
+
 ## Material de Estudo
 
 - [Slides de Eanes (2018.2)](https://drive.google.com/drive/u/4/folders/1I9TWrpyJXX_Lxyg_BEYw3UkevKdOWAer)
@@ -62,12 +64,21 @@ Em Fundamentos de Matemática para Ciência da Computação I, você será inici
 1 | Lógica Proposicional | [Link](https://drive.google.com/file/d/1iBZ9hPe9SbDe0vm4FUazQ1gIHWk5pQ6Q) |
 2 | Lógica de Predicados | [Link](https://drive.google.com/file/d/1duWOd6wt3cujkNJrn4r7VhHl2NspqbaM) |
 
-## Material de APoio
+## Material de Apoio
 
 
+- [Playlist no Youtube de Matemática Discreta](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx)   
+- [Lógica Booleana](https://drive.google.com/file/d/1ZYXoG2azIqMFtYz_cgsA7wo96836PYMe/view?usp=sharing)   
 
-[Lógica Booleana](https://drive.google.com/file/d/1ZYXoG2azIqMFtYz_cgsA7wo96836PYMe/view?usp=sharing) 
-
+## Fundamentos da Matemática Elementar
+**Lista** | **Assunto** | **Links**  |
+:---: | :---:| :---: |
+1 | Conjuntos e Funções| [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-1-Conjuntos-e-Funcoes.pdf) |
+2 | Logaritmos | [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-2-Logaritmos.pdf) |
+3 | Trigonometria | [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-3-Trigonometria.pdf) |
+4 | Sequências | [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-4-Sequencias-Matrizes-Determinantes-e-Sistemas.pdf) |
+5 | Combinatória | [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-5-Combinatoria-e-Probabilidade.pdf) |
+6 | Polinômios | [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-6-Complexos-Polinomios-e-Equacoes.pdf) |
 
 
 ### Dificuldades prévias
@@ -76,4 +87,4 @@ A dificuldade no aprendizado dos conteúdos de FMCC I normalmente está relacion
 
 ### Motivação
 
-Um desempenho abaixo da média nas primeiras provas pode desmotivar o aluno e criar um efeito bola de neve, mas não se deixe desanimar, alguns assuntos mais fáceis vão surgir posteriormente e serão úteis para recuperar  a nota.
+Um desempenho abaixo da média nas primeiras provas pode desmotivar o aluno e criar um efeito bola de neve, mas não se deixe desanimar, alguns assuntos mais fáceis vão surgir posteriormente e serão úteis para recuperar a nota.
