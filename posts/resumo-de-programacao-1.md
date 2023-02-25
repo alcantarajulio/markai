@@ -56,13 +56,14 @@ As 10 unidades consistem em:
 
 ## Plataformas de Estudo
 
+- [Site Da Disciplina](https://p1ufcg.github.io/22.1/)
 - [Codecademy](http://www.codecademy.com/)
 - [Gibbon](https://gibbon.co/topics/programming)
 - [Udacity](https://br.udacity.com)
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 - [University of Reddit](http://ureddit.com/category/23442/computer-science)
 - [Udemy](https://www.udemy.com/pt/)
-- [Site Da Disciplina](https://p1ufcg.github.io/22.1/)
+
 
 ## Ferramentas
 
@@ -82,10 +83,10 @@ As 10 unidades consistem em:
 
 - Linux (Algum que suporte os requisitos abaixo)
 - [Python 3.10](https://www.python.org/) (Linguagem estudada na disciplina.)
-- [Bash](https://www.gnu.org/software/bash/) ()
+- [Bash](https://www.gnu.org/software/bash/) (Linguagem do terminal do linux utilizada nos laboratórios.)
 - [Vim](https://www.vim.org/) ou [Nano](https://www.nano-editor.org/) (editores de texto por linha de comando(CLI))   
 Por que são necessários esses requisitos? Vou ter que excluir o meu Windows?   
-A princípio pode ser desinteressante aprender essas novas ferramentas, quando dispomos de ferramentas mais amigáveis e que necessitem de menos teclas.   
+A princípio pode ser desinteressante aprender essas novas ferramentas, quando dispomos de ferramentas mais amigáveis e que necessitem de menos teclas.
 ...   
 ...   
 
