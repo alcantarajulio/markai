@@ -1,10 +1,10 @@
 .Posts {
-    padding: 10px;
+    padding: 10px 10px;
     margin-bottom: 44px;
 }
 
 .Posts li {
-    padding: 5px;
+    padding: 5px 0px;
 }
 
 .Posts a {
