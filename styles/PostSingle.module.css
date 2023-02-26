@@ -1,23 +1,29 @@
 .PostSingle>h1 {
     text-align: right;
+    padding: 0;
+    margin: 0;
 }
 
 .PostSingle>h2 {
+    padding: 0;
+    margin: 0;
     text-align: right;
+    font-size: 20px;
     margin-bottom: 20px;
+    text-decoration: overline;
 }
 
-.PostSingle>div>h1 {
+.PostSingle>div h1 {
     font-size: 28px;
     padding: 10px 0px;
 }
 
-.PostSingle>div>h2 {
+.PostSingle>div h2 {
     font-size: 22px;
     padding: 10px 0px;
 }
 
-.PostSingle>div>h3 {
+.PostSingle>div h3 {
     font-size: 18px;
     padding: 10px 0px;
 }
