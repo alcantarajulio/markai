@@ -1,6 +1,6 @@
 ---
 title: Resumo Cálculo Diferencial e Integral II
-disicpline: Cálculo 2
+discipline: Cálculo 2
 ---
 
 
