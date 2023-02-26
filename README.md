@@ -12,6 +12,8 @@ sudo npm install -g yarn
    node -v
 ```
 
+***
+
 # Para desenvolver
 
 ```
