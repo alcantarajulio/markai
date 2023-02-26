@@ -1,4 +1,4 @@
-# Dependências:
+# Dependências
 
 node 14 ou posterior
 
