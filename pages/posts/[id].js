@@ -4,7 +4,7 @@ import { getAllPostsPaths, getPost } from "@/services/post.service"
 export default function Page({ post }) {
     return (
         <>
-            <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "10px", marginBottom: "50px" }}>
+            <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "10px", marginBottom: "44px" }}>
                 <div>
                     <h1>{post.data.title}</h1>
                     <h2>{post.data.discipline}</h2>
