@@ -1,0 +1,24 @@
+.Disciplines {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    margin-bottom: 44px;
+}
+
+.Disciplines li {
+    margin: 10px;
+    list-style-type: none;
+    box-shadow: 1px 1px 1px black;
+}
+
+.Disciplines a {
+    color: black;
+}
+
+.Disciplines a > div {
+    padding: 10px;
+}
+
+.Disciplines img {
+    width: 100%;
+}
