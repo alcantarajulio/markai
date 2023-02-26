@@ -1,17 +1,12 @@
 import NavBar from "@/components/NavBar";
-import { getAllPostsPaths, getPost } from "@/services/post.service"
+import { getAllPostsPaths, getPost } from "@/services/post.service";
+import PostSingle from "@/components/PostSingle"
 
 export default function Page({ post }) {
     return (
         <>
-            <section style={{ maxWidth: "1200px", margin: "0 auto", padding: "10px 10px", marginBottom: "44px" }}>
-                <div>
-                    <h1>{post.data.title}</h1>
-                    <h2>{post.data.discipline}</h2>
-                    <div dangerouslySetInnerHTML={{ __html: post.content }}></div>
-                </div>
-            </section>
-            <NavBar/>
+            <PostSingle post={post} />
+            <NavBar />
             <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
         </>
     )
