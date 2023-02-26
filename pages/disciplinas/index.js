@@ -1,6 +1,6 @@
 import Disciplines from "@/components/DIsciplines";
 import NavBar from "@/components/NavBar";
-import { getAllDisciplines } from "@/services/post.service"
+import { getAllDisciplines } from "@/services/discipline.service"
 
 export default function Page({ disciplines }) {
   return (

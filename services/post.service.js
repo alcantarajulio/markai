@@ -2,11 +2,10 @@ import fs from "fs";
 import path from "path";
 import * as matter from "gray-matter";
 import { marked } from "marked";
-import chalk from "chalk";
 
 const postsDir = path.join(process.cwd(), "posts");
 
-function readMarkdownFile(dir) {
+export function readMarkdownFile(dir) {
     return matter(fs.readFileSync(path.join(postsDir, dir)).toString("utf-8"));
 }
 
@@ -38,27 +37,6 @@ export function getAllPostsByDiscipline(discipline) {
         }
     })
     return posts;
-}
-
-export function getAllDisciplines() {
-    const disciplines = new Set();
-    fs.readdirSync(postsDir).map((postDir) => {
-        const post = readMarkdownFile(postDir);
-        if (post.data.discipline) {
-            disciplines.add(post.data.discipline)
-        } else {
-            console.error(chalk.red(`error: discipline not found (${postDir})`));
-        }
-    });
-    return Array.from(disciplines);
-}
-
-export function getAllDisciplinesPaths() {
-    return getAllDisciplines().map(
-        (discipline) => {
-            return `/disciplinas/${discipline}`
-        }
-    )
 }
 
 export function getAllPostsPaths() {

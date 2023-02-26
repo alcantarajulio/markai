@@ -1,7 +1,7 @@
 import NavBar from "@/components/NavBar";
 import Posts from "@/components/Posts";
-import { getAllDisciplinesPaths, getAllPostsByDiscipline } from "@/services/post.service"
-import Link from "next/link";
+import { getAllDisciplinesPaths } from "@/services/discipline.service"
+import { getAllPostsByDiscipline } from "@/services/post.service";
 
 export default function Page({ posts }) {
   return (
