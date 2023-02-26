@@ -1,10 +1,10 @@
-#Dependências:
+# Dependências:
 
 node 14 ou posterior
 
 yarn
 
-#Para desenvolver
+# Para desenvolver
 
 yarn install
 
