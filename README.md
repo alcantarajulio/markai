@@ -3,7 +3,7 @@
 ### Yarn
 
 ```
-yarn
+npm install --global yarn
 ```
 
 ### NodeJS - versão 14 ou posterior.
