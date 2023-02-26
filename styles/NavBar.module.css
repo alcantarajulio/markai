@@ -7,7 +7,7 @@
     color: white;
     text-align: center;
     display: flex;
-    padding: 10px 0px;
+    height: 44px;
     align-items: center;
     justify-content: space-around;
 }
