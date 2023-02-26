@@ -1,4 +1,4 @@
-import Header from "@/components/Header";
+import NavBar from "@/components/NavBar";
 import Posts from "@/components/Posts";
 import { getAllDisciplinesPaths, getAllPostsByDiscipline } from "@/services/post.service"
 import Link from "next/link";
@@ -6,8 +6,8 @@ import Link from "next/link";
 export default function Page({ posts }) {
   return (
     <>
-      <Header />
       <Posts posts={posts} />
+      <NavBar />
     </>
   )
 }

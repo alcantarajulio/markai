@@ -1,10 +1,9 @@
-import Header from "@/components/Header";
+import NavBar from "@/components/NavBar";
 import { getAllPostsPaths, getPost } from "@/services/post.service"
 
 export default function Page({ post }) {
     return (
         <>
-            <Header/>
             <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "10px" }}>
                 <div>
                     <h1>{post.data.title}</h1>
@@ -12,6 +11,7 @@ export default function Page({ post }) {
                     <div dangerouslySetInnerHTML={{ __html: post.content }}></div>
                 </div>
             </div>
+            <NavBar/>
             <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
         </>
     )

@@ -1,24 +1,10 @@
-import Header from "@/components/Header";
-import Posts from "@/components/Posts";
-import { getAllPosts } from "@/services/post.service"
+import NavBar from "@/components/NavBar";
 
-export default function Page({ posts }) {
-  return (
-    <>
-    <Header/>
-    <Posts posts={posts}/>
-    </>
-  )
-}
-
-export async function getStaticProps() {
-  const posts = [];
-  getAllPosts().map((post) => {
-    const id = post.id;
-    const title = post.data.title
-    posts.push({id, title});
-  })
-  return {
-    props: { posts: posts }
-  }
+export default function Page() {
+    return (
+        <>
+          Markai v1
+          <NavBar/>
+        </>
+    )
 }

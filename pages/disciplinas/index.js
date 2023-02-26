@@ -1,17 +1,12 @@
-import Header from "@/components/Header";
+import Disciplines from "@/components/DIsciplines";
+import NavBar from "@/components/NavBar";
 import { getAllDisciplines } from "@/services/post.service"
-import Link from "next/link";
 
 export default function Page({ disciplines }) {
   return (
     <>
-    <Header/>
-    <ul>
-      {disciplines.map((discipline) =>
-        <li key={discipline}>
-          <h2><Link href={`disciplinas/${discipline}`}>{discipline}</Link></h2>
-        </li>)}
-    </ul>
+      <Disciplines disciplines={disciplines}/>
+      <NavBar />
     </>
   )
 }

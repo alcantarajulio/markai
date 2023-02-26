@@ -6,7 +6,7 @@ export default function Posts({ posts }) {
         <ul className={styles.Posts}>
             {posts.map((post) =>
                 <li key={post.id}>
-                    <Link href={`/${post.id}`}>{post.title}</Link>
+                    <Link href={`/posts/${post.id}`}>{post.title}</Link>
                 </li>)
             }
         </ul>
