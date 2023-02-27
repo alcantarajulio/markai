@@ -25,7 +25,7 @@ export async function getStaticProps({ params }) {
   getAllPostsByDiscipline(params.id).map((post) => {
     const id = post.id;
     const title = post.data.title
-    posts.push({id, title});
+    posts.push({ id, title });
   })
   return {
     props: { posts: posts }

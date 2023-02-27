@@ -1,11 +1,16 @@
 .Disciplines {
     padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .Disciplines li {
+    background-color: yellow;
     margin: 0px 0px 20px 0px;
     list-style: none;
     box-shadow: 3px 3px 3px black;
+    max-width: 300px;
 }
 
 .Disciplines li:last-of-type {
@@ -14,6 +19,10 @@
 
 .Disciplines li div {
     padding: 10px 5px;
+}
+
+.Disciplines img {
+    width: 100%;
 }
 
 .Disciplines a {

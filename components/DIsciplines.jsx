@@ -6,11 +6,11 @@ export default function Disciplines({ disciplines }) {
         <section>
             <ul className={styles.Disciplines}>
                 {disciplines.map((discipline) =>
-                    <li key={discipline}>
-                        <Link href={`disciplinas/${discipline}`}>
-                            <img src="https://simpl.info/webp/cherry.webp"></img>
+                    <li key={discipline.name}>
+                        <Link href={`disciplinas/${discipline.name}`}>
+                            <img src={discipline.photo}></img>
                             <div>
-                                {discipline}
+                                {discipline.name}
                             </div>
                         </Link>
                     </li>)}

@@ -12,6 +12,9 @@ body {
 section {
     padding: 10px;
     margin-bottom: 44px;
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 img {
