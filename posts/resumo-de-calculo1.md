@@ -1,6 +1,6 @@
 ---
 title: Resumo de Cálculo Diferencial e Integral I
-discipline: Cálculo 1
+discipline: Cálculo diferencial e Integral I 
 ---
 
 ## Ementa

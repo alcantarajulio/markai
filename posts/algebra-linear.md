@@ -1,6 +1,6 @@
 ---
-title: Álgebra linear
-discipline: álgebra linear
+title: Álgebra linear (Visão geral)
+discipline: Álgebra Linear
 ---
 
 # Ementa

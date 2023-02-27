@@ -1,6 +1,6 @@
 ---
 title: Árvores AVL (Resumo)
-discipline: Estrutura de dados
+discipline: Estrutura de Dados
 ---
 
 

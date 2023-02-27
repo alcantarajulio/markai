@@ -1,6 +1,6 @@
 ---
-title: Estrutura de dados
-discipline: Estrutura de dados
+title: Resumo Estrutura de dados
+discipline: Estrutura de Dados
 ---
 
 ## Ementa

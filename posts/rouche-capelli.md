@@ -1,6 +1,6 @@
 ---
 title: Teorema de Rouché-Capelli
-discipline: álgebra linear
+discipline: Álgebra Linear
 ---
 
 O teorema de Rouché-Capelli em um determinado sistema nos diz que:

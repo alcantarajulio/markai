@@ -1,6 +1,6 @@
 ---
 title: Resumo de Programação 1
-discipline: Programação 1
+discipline: Programação I
 ---
 ## Ementa
 
@@ -43,9 +43,9 @@ As 10 unidades consistem em:
 
 - Às vezes, tentar entender a questão no papel ao invés de ir diretamente escrever o código pode economizar tempo e facilitar a compreensão.
 
-- Além das questões do TST, existem as do [beecrowd](https://www.urionlinejudge.com.br/judge/pt/login), um site onde mais de 200 questões para iniciantes podem ser encontradas, elas irão reforçar seu aprendizado e melhorar sua interpretação de problemas. Porém, é importante que as questões do TST sejam seu foco.
+- Além das questões do TST, existem as do [URI](https://www.urionlinejudge.com.br/judge/pt/login), um site onde mais de 200 questões para iniciantes podem ser encontradas, elas irão reforçar seu aprendizado e melhorar sua interpretação de problemas. Porém, é importante que as questões do TST sejão seu foco.
 
-- Preste sempre atenção no tempo durante os minitestes práticos(laboratório), nem sempre vale a pena abrir mesmo que em uma unidade fácil uma nova questão e arriscar perder alguns pontos por não dar tempo.
+- Preste sempre atenção no tempo durante os minitestes práticos, nem sempre vale a pena abrir mesmo que em uma unidade facil uma nova questão e arriscar perder alguns pontos por não dar tempo.
 
 - Sempre procure outras formas de aprender fora da sala de aula, procure alguma coisa que goste de fazer, um projeto, como um jogo, uma página web de um conteúdo algo que gosta, todo contato com a lógica de programar é bom.
 
@@ -56,7 +56,6 @@ As 10 unidades consistem em:
 
 ## Plataformas de Estudo
 
-- [Site Da Disciplina](https://p1ufcg.github.io/22.1/)
 - [Codecademy](http://www.codecademy.com/)
 - [Gibbon](https://gibbon.co/topics/programming)
 - [Udacity](https://br.udacity.com)
@@ -64,11 +63,9 @@ As 10 unidades consistem em:
 - [University of Reddit](http://ureddit.com/category/23442/computer-science)
 - [Udemy](https://www.udemy.com/pt/)
 
-
 ## Ferramentas
 
 - [Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
-- [Replit](https://replit.com/languages/python3)
 
 ## Exercícios
 
@@ -76,25 +73,8 @@ As 10 unidades consistem em:
 - [Coding Bat](https://codingbat.com/python)
 - [Codewars](https://www.codewars.com/)
 - [Coding Game](https://www.codingame.com/)
-- [Beecrowd](https://www.beecrowd.com.br/judge/en/login)
+- [Beecrownd](https://www.beecrowd.com.br/judge/en/login)
 - [Dirlididi](http://dirlididi.com/client/index.html#)
-
-## Requisitos 
-
-- Linux (Algum que suporte os requisitos abaixo)
-- [Python 3.10](https://www.python.org/) (Linguagem estudada na disciplina.)
-- [Bash](https://www.gnu.org/software/bash/) (Linguagem do terminal do linux utilizada nos laboratórios.)
-- [Vim](https://www.vim.org/) ou [Nano](https://www.nano-editor.org/) (editores de texto por linha de comando(CLI))   
-Por que são necessários esses requisitos? Vou ter que excluir o meu Windows?   
-A princípio pode ser desinteressante aprender essas novas ferramentas, quando dispomos de ferramentas mais amigáveis e que necessitem de menos teclas.
-...   
-...   
-
-Distros que podem ser interessantes para iniciantes em Ambiente Unix.
-- [Fedora](https://getfedora.org/pt_BR/)
-- [Ubuntu](https://ubuntu.com/download)
-- [Mint](https://linuxmint.com/)
-- [Debian](https://www.debian.org/index.pt.html)
 
 ---
 ## Dificuldades Comuns

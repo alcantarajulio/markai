@@ -1,6 +1,6 @@
 ---
 title: Árvore BST (Binary Search Tree)
-discipline: Estrututura de dados
+discipline: Estrutura de Dados
 ---
 
 # O que é?

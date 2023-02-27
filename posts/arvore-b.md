@@ -1,6 +1,6 @@
 ---
 title: Árvore B
-discipline: Estrutura de dados
+discipline: Estrutura de Dados
 ---
 
 ## O que é?

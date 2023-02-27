@@ -1,6 +1,6 @@
 ---
 title: Teoria dos grafos
-discipline: Teoria dos grafos
+discipline: Teoria dos Grafos
 ---
 
 

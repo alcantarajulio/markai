@@ -1,6 +1,6 @@
 ---
-title: Lógica para Computação
-discipline: lógica
+title: Rseumo sobre Lógica para Computação
+discipline: Lógica para computação
 ---
 
 ## Ementa

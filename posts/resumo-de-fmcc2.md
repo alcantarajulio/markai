@@ -1,6 +1,6 @@
 ---
 title: Resumo de FMCC2
-discipline: Fundamentos de Matemática para Ciência da Computação 2
+discipline: Fundamentos de Matemática para Ciências da Computação II
 ---
 
 - Técnicas de demonstração matemática

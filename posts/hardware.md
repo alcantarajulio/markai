@@ -2,12 +2,6 @@
 title: Conceitos de Hardware
 discipline: Introdução a computação
 ---
-## Sumário
-- [Sumário](#sumário)
-- [Processador](#processador)
-- [Memória](#memória)
-- [Entrada e Saída](#entrada-e-saída)
-  - [Transmições](#transmições)
  
 ## Processador
  Tem como operações básicas: input, processing, output e storage.
