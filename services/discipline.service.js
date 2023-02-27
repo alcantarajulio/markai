@@ -7,13 +7,17 @@ const postsDir = path.join(process.cwd(), "posts");
 const disciplinesDir = path.join(process.cwd(), "disciplines");
 
 export function getAllDisciplines() {
+    const names = new Set();
     const disciplines = new Set();
     fs.readdirSync(postsDir).map((postDir) => {
         const post = readMarkdownFile(postDir);
         if (post.data.discipline) {
             const name = post.data.discipline;
             const photo = getDisciplinePhoto(name);
-            disciplines.add({ name, photo })
+            if (!names.has(name)) {
+                names.add(name);
+                disciplines.add({ name, photo })
+            }
         } else {
             console.error(chalk.red(`error: discipline not found (${postDir})`));
         }
