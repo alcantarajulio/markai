@@ -8,7 +8,7 @@ const disciplinesDir = path.join(process.cwd(), "disciplines");
 
 export function getAllDisciplines() {
     const names = new Set();
-    const disciplines = new Set();
+    const disciplines = [];
     fs.readdirSync(postsDir).map((postDir) => {
         const post = readMarkdownFile(postDir);
         if (post.data.discipline) {
@@ -16,13 +16,13 @@ export function getAllDisciplines() {
             const photo = getDisciplinePhoto(name);
             if (!names.has(name)) {
                 names.add(name);
-                disciplines.add({ name, photo })
+                disciplines.push({ name, photo })
             }
         } else {
             console.error(chalk.red(`error: discipline not found (${postDir})`));
         }
     });
-    return Array.from(disciplines);
+    return disciplines;
 }
 
 function getDisciplinePhoto(disciplineName) {
