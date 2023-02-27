@@ -1,12 +1,8 @@
-.Posts {
-    padding: 10px 10px;
-    margin-bottom: 44px;
-}
-
 .Posts li {
-    padding: 5px 0px;
+    padding: 10px;
 }
 
 .Posts a {
+    width: 100%;
     color: black;
 }

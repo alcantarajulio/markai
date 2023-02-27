@@ -5,12 +5,10 @@ import styles from "@/styles/NavBar.module.css"
 
 export default function NavBar() {
     return (
-        <>
-            <section className={styles.NavBar}>
-                <Link href="/"><FontAwesomeIcon icon={faHouse} /></Link>
-                <Link href="/disciplinas"><FontAwesomeIcon icon={faBook} /></Link>
-                <Link href="/posts"><FontAwesomeIcon icon={faFile} /></Link>
-            </section>
-        </>
+        <footer className={styles.NavBar}>
+            <Link href="/"><FontAwesomeIcon icon={faHouse} /></Link>
+            <Link href="/disciplinas"><FontAwesomeIcon icon={faBook} /></Link>
+            <Link href="/posts"><FontAwesomeIcon icon={faFile} /></Link>
+        </footer>
     )
 }

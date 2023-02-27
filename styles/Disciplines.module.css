@@ -1,20 +1,21 @@
 .Disciplines {
-    display: flex;
-    flex-direction: column;
-    padding: 30px;
-    margin-bottom: 44px;
+    padding: 10px;
 }
 
 .Disciplines li {
-    margin: 10px;
-    list-style-type: none;
-    box-shadow: 1px 1px 1px black;
+    margin: 0px 0px 20px 0px;
+    list-style: none;
+    box-shadow: 3px 3px 3px black;
+}
+
+.Disciplines li:last-of-type {
+    margin: 0px;
+}
+
+.Disciplines li div {
+    padding: 10px 5px;
 }
 
 .Disciplines a {
     color: black;
-}
-
-.Disciplines a > div {
-    padding: 10px;
 }

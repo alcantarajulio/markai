@@ -1,29 +1,47 @@
 .PostSingle>h1 {
     text-align: right;
-    padding: 0;
-    margin: 0;
+    font-size: 48px;
 }
 
 .PostSingle>h2 {
-    padding: 0;
-    margin: 5px 0px 0px 0px;
+    margin-top: 10px;
     text-align: right;
-    font-size: 20px;
-    margin-bottom: 20px;
+    font-size: 24px;
     text-decoration: overline;
 }
 
+.PostSingle>div {
+    padding: 20px 0px;
+}
+
 .PostSingle>div h1 {
-    font-size: 28px;
-    padding: 10px 0px;
+    padding: 15px 0px;
+    font-size: 30px;
 }
 
 .PostSingle>div h2 {
-    font-size: 22px;
-    padding: 10px 0px;
+    padding: 15px 0px;
+    font-size: 24px;
 }
 
-.PostSingle>div h3 {
-    font-size: 18px;
+.PostSingle>div h3,
+.PostSingle>div h4,
+.PostSingle>div h5,
+.PostSingle>div h6 {
     padding: 10px 0px;
+    font-size: 18px;
+}
+
+.PostSingle li {
+    padding: 5px 0px;
+}
+
+.PostSingle table {
+    border: 1px solid black;
+}
+
+.PostSingle td, .PostSingle th {
+    padding: 5px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
 }
