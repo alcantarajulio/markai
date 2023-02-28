@@ -5,6 +5,49 @@
     },
     {
         "name":"Introdução a probabilidade",
-        "photo": "https://th.bing.com/th/id/R.56e713d0e2cc3f3035c0d553df1031d5?rik=kuuZLachBrDuWg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-h8-Vx0bJS5U%2fVuIVtUB4uOI%2fAAAAAAAACyA%2fkcOM8hXJFNQTuoGqWe3WSO0OJH_MCYZeQ%2fs1600%2faleatorio.jpg&ehk=Fb3SgYSGfPhCtvyrn48HRk5RPcbRv6Xm1dtIwdkrPJo%3d&risl=&pid=ImgRaw&r=0"
+        "photo": "https://th.bing.com/th/id/R.56e713d0e2cc3f3035c0d553df1031d5?rik=kuuZLachBrDuWg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-h8-Vx0bJS5U%2fVuIVtUB4uOI%2fAAAAAAAACyA%2fkcOM8hXJFNQTuoGqWe3WSO0OJH_MCYZeQ%2fs1600%2faleatorio.jpg&ehk=Fb3SgYSGfPhCtvyrn48HRk5RPcbRv6Xm1dtIwdkrPJo%3d&risl=&pid=ImgRaw&r=0.jpg"
+    },
+    {
+        "name":"Estrutura de Dados",
+        "photo": "https://cdn.eduonix.com/assets/images/header_img/2019032806183511015.jpg"
+    },
+    {
+        "name":"Introdução a computação",
+        "photo":"https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/81c8982faa9d4d32bd236a8988bcbcfd.jpg"
+    },
+    {
+        "name": "Álgebra Linear",
+        "photo":"https://th.bing.com/th/id/OIP.7-tc2RHAdsV80ZraS2gaoQHaDX?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Fundamentos de Matemática para Ciências da Computação I",
+       "photo":"https://mindmatters.ai/wp-content/uploads/sites/2/2021/03/mathematical-formulas-1597x1065.jpg"
+    },
+    {
+        "name": "Fundamentos de Matemática para Ciências da Computação II",
+        "photo": "https://thumbs.dreamstime.com/b/matem%C3%A1tica-numera-as-mostras-altamente-t%C3%A9cnicas-e-os-d%C3%ADgitos-42012746.jpg"
+    },{
+        "name": "Lógica para computação",
+        "photo": "https://iprom.si/files/2018/12/Kako-lahko-tehnologija-prepoznava-zelje-potrosnika-iPROM-Mnenja-strokovnjakov-Luka-Andrejak.png"
+    },
+    {
+        "name": "Projeto de software",
+        "photo": "https://www.undb.edu.br/hs-fs/hubfs/engenharia-de-softwareundb.jpg?width=2000&name=engenharia-de-softwareundb.jpg"
+    },
+    {
+        "name": "Cálculo diferencial e Integral I",
+        "photo": "https://toptraders.ir/fa/wp-content/uploads/2019/04/fibonacci-860x430.jpg"
+    },
+    {
+        "name":"Cálculo Diferencial e Integral II",
+        "photo":"https://assets.lls.fr/pages/14738183/matt7exentrainementmaths-retoucheok.png"
+    },
+    {
+        "name": "Programação I",
+        "photo": "https://wallpapercave.com/wp/wp5268499.jpg"
+    },
+    {
+        "name": "Teoria dos Grafos",
+        "photo": "https://wallpapercave.com/wp/wp7752176.jpg"
     }
 ]
