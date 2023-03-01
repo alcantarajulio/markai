@@ -49,3 +49,27 @@
     border-right: 1px solid black;
     border-bottom: 1px solid black;
 }
+
+.Contribute a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    color: black;
+    max-width: 190px;
+    margin-left: auto;
+    background-color: #015C53;
+    color: white;
+    border-radius: 3px;
+}
+
+.Contribute img {
+    width: 32px;
+    filter: invert();
+}
+
+@media (max-width: 800px) {
+    .Contribute {
+        margin-bottom: 5px;
+    }
+}
