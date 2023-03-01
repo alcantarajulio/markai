@@ -1,14 +1,14 @@
 import styles from "@/styles/PostSingle.module.css"
 import Link from "next/link"
 import Image from 'next/image';
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 export default function Page({ post }) {
-    let baseUrl = "";
+    const [url, setUrl] = useState("https://kenbme.github.io/markai/");
     useEffect(() => {
         const host = window.location.host;
-        if (host == "kenbme.github.io") {
-            baseUrl = "https://kenbme.github.io/markai/"
+        if (host == "localhost:3000") {
+            setUrl("");
         }
     }, [])
     return (
@@ -21,7 +21,7 @@ export default function Page({ post }) {
             <div className={styles.Contribute}>
                 <Link href={`https://github.com/kenbme/markai/blob/main/posts/${post.id}.md`}>
                     <p>Quer contribuir com esta página?</p>
-                    <Image src={`${baseUrl}/assets/svg/github.svg`} width="32" height="32" alt="GitHub" />
+                    <Image src={`${url}/assets/svg/github.svg`} width="32" height="32" alt="GitHub" />
                 </Link>
             </div>
         </section>
