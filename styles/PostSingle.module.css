@@ -1,9 +1,11 @@
 .PostSingle>h1 {
+    color: #015C53;
     text-align: center;
     font-size: 48px;
 }
 
 .PostSingle>h2 {
+    color: #015C53;
     margin-top: 10px;
     text-align: center;
     font-size: 24px;
@@ -22,6 +24,7 @@
 .PostSingle>div h2 {
     padding: 15px 0px;
     font-size: 24px;
+    color: #9EC12F;
 }
 
 .PostSingle>div h3,

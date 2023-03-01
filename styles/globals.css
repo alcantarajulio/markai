@@ -30,6 +30,10 @@ li {
     font-size: 16px;
 }
 
+::selection {
+    background-color: #DBF228;
+}
+
 @media (min-width: 800px) {
     section {
         max-width: 100%;
