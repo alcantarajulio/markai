@@ -1,11 +1,11 @@
 .PostSingle>h1 {
-    text-align: right;
+    text-align: center;
     font-size: 48px;
 }
 
 .PostSingle>h2 {
     margin-top: 10px;
-    text-align: right;
+    text-align: center;
     font-size: 24px;
     text-decoration: overline;
 }
@@ -45,14 +45,4 @@
     padding: 5px;
     border-right: 1px solid black;
     border-bottom: 1px solid black;
-}
-
-@media (min-width: 800px) {
-    .PostSingle>h1 {
-        text-align: center;
-    }
-
-    .PostSingle>h2 {
-        text-align: center;
-    }
 }
