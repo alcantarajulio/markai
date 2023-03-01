@@ -13,3 +13,11 @@
     padding: 10px 0px;
     color: white;
 }
+
+@media (min-width: 800px) {
+    .NavBar {
+        flex-direction: column;
+        width: 64px;
+        height: 100%;
+    }
+}

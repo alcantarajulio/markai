@@ -6,8 +6,10 @@ import { getAllPostsByDiscipline } from "@/services/post.service";
 export default function Page({ posts }) {
   return (
     <>
-      <Posts posts={posts} />
-      <NavBar />
+      <div className="teste">
+        <Posts posts={posts} />
+        <NavBar />
+      </div>
     </>
   )
 }

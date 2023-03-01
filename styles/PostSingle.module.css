@@ -40,8 +40,19 @@
     border: 1px solid black;
 }
 
-.PostSingle td, .PostSingle th {
+.PostSingle td,
+.PostSingle th {
     padding: 5px;
     border-right: 1px solid black;
     border-bottom: 1px solid black;
+}
+
+@media (min-width: 800px) {
+    .PostSingle>h1 {
+        text-align: center;
+    }
+
+    .PostSingle>h2 {
+        text-align: center;
+    }
 }
