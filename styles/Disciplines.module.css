@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-items: center;
 }
 
 .Disciplines li {
@@ -32,4 +33,18 @@
     height: 300px;
     width: 300px;
     color: black;
+}
+
+@media (min-width: 800px) {
+    .Disciplines {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 1100px) {
+    .Disciplines {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }
