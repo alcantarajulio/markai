@@ -8,7 +8,7 @@ export default function Page({ post }) {
     useEffect(() => {
         const host = window.location.host;
         if (host == "kenbme.github.io") {
-            baseUrl = "https://github.com/kenbme/markai"
+            baseUrl = "https://kenbme.github.io/markai/"
         }
     }, [])
     return (
