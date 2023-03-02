@@ -2,6 +2,7 @@ import chalk from "chalk";
 import path from "path";
 import fs from "fs";
 import { readMarkdownFile } from "./post.service";
+import { slugify } from "@/utils/utils";
 
 const postsDir = path.join(process.cwd(), "posts");
 const disciplinesDir = path.join(process.cwd(), "disciplines");
@@ -22,6 +23,15 @@ export function getAllDisciplines() {
             console.error(chalk.red(`error: discipline not found (${postDir})`));
         }
     });
+    disciplines.sort((a, b) => {
+        const discipline1 = slugify(a.name.toLowerCase());
+        const discipline2 = slugify(b.name.toLowerCase());
+        if (discipline1 <= discipline2) {
+            return -1;
+        } else {
+            return 1;
+        }
+    })
     return disciplines;
 }
 
