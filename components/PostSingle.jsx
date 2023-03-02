@@ -1,4 +1,5 @@
 import styles from "@/styles/PostSingle.module.css"
+import { AiOutlineGithub } from "react-icons/ai";
 
 export default function Page({ post, baseUrl }) {
     return (
@@ -11,7 +12,7 @@ export default function Page({ post, baseUrl }) {
             <div className={styles.Contribute}>
                 <a href={`https://github.com/kenbme/markai/blob/main/posts/${post.id}.md`}>
                     <p>Quer contribuir com esta página?</p>
-                    <img src={`${baseUrl}/assets/svg/github.svg`} alt="GitHub" />
+                    <AiOutlineGithub />
                 </a>
             </div>
         </section>

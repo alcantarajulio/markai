@@ -54,7 +54,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 10px;
+    padding: 1px 10px;
     color: black;
     max-width: 190px;
     margin-left: auto;
@@ -63,10 +63,8 @@
     border-radius: 3px;
 }
 
-.Contribute img {
-    width: 32px;
-    height: 32px;
-    filter: invert();
+.Contribute svg {
+    font-size: 54px;
 }
 
 @media (max-width: 800px) {
