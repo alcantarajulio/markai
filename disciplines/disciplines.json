@@ -1,53 +1,66 @@
 [
     {
         "name": "Programação 2",
-        "photo": "https://deviniciative.files.wordpress.com/2019/08/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.3x2.jpg"
+        "photo": "https://deviniciative.files.wordpress.com/2019/08/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.3x2.jpg",
+        "period": 2
     },
     {
         "name":"Introdução a probabilidade",
-        "photo": "https://w0.peakpx.com/wallpaper/766/942/HD-wallpaper-blue-vara-ice-summer-luck-dice-white.jpg"
+        "photo": "https://w0.peakpx.com/wallpaper/766/942/HD-wallpaper-blue-vara-ice-summer-luck-dice-white.jpg",
+        "period": 4
     },
     {
         "name":"Estrutura de Dados",
-        "photo": "https://cdn.eduonix.com/assets/images/header_img/2019032806183511015.jpg"
+        "photo": "https://cdn.eduonix.com/assets/images/header_img/2019032806183511015.jpg",
+        "period": 3
     },
     {
         "name":"Introdução a computação",
-        "photo":"https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/81c8982faa9d4d32bd236a8988bcbcfd.jpg"
+        "photo":"https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/81c8982faa9d4d32bd236a8988bcbcfd.jpg",
+        "period": 1
     },
     {
         "name": "Álgebra Linear",
-        "photo":"https://th.bing.com/th/id/OIP.7-tc2RHAdsV80ZraS2gaoQHaDX?pid=ImgDet&rs=1"
+        "photo":"https://th.bing.com/th/id/OIP.7-tc2RHAdsV80ZraS2gaoQHaDX?pid=ImgDet&rs=1",
+        "period": 3
     },
     {
         "name": "Fundamentos de Matemática para Ciências da Computação I",
-       "photo":"https://mindmatters.ai/wp-content/uploads/sites/2/2021/03/mathematical-formulas-1597x1065.jpg"
+       "photo":"https://mindmatters.ai/wp-content/uploads/sites/2/2021/03/mathematical-formulas-1597x1065.jpg",
+       "period": 1
     },
     {
         "name": "Fundamentos de Matemática para Ciências da Computação II",
-        "photo": "https://assets3.thrillist.com/v1/image/2316715/1200x600/scale;"
+        "photo": "https://assets3.thrillist.com/v1/image/2316715/1200x600/scale;",
+        "period": 2
     },{
         "name": "Lógica para computação",
-        "photo": "https://iprom.si/files/2018/12/Kako-lahko-tehnologija-prepoznava-zelje-potrosnika-iPROM-Mnenja-strokovnjakov-Luka-Andrejak.png"
+        "photo": "https://iprom.si/files/2018/12/Kako-lahko-tehnologija-prepoznava-zelje-potrosnika-iPROM-Mnenja-strokovnjakov-Luka-Andrejak.png",
+        "period": 3
     },
     {
         "name": "Projeto de software",
-        "photo": "https://www.intel.com.br/content/dam/www/central-libraries/us/en/images/working-software-gettyimages-1194430802.jpg.rendition.intel.web.416.234.jpg"
+        "photo": "https://www.intel.com.br/content/dam/www/central-libraries/us/en/images/working-software-gettyimages-1194430802.jpg.rendition.intel.web.416.234.jpg",
+        "period": 4
     },
     {
         "name": "Cálculo diferencial e Integral I",
-        "photo": "https://toptraders.ir/fa/wp-content/uploads/2019/04/fibonacci-860x430.jpg"
+        "photo": "https://toptraders.ir/fa/wp-content/uploads/2019/04/fibonacci-860x430.jpg",
+        "period": 2
     },
     {
         "name":"Cálculo Diferencial e Integral II",
-        "photo":"https://assets.lls.fr/pages/14738183/matt7exentrainementmaths-retoucheok.png"
+        "photo":"https://assets.lls.fr/pages/14738183/matt7exentrainementmaths-retoucheok.png",
+        "period": 3
     },
     {
         "name": "Programação I",
-        "photo": "https://imagens.itforum.com.br/itforum.com.br/wp-content/uploads/2020/10/linguagem-programacao-python-1.jpg"
+        "photo": "https://imagens.itforum.com.br/itforum.com.br/wp-content/uploads/2020/10/linguagem-programacao-python-1.jpg",
+        "period": 1
     },
     {
         "name": "Teoria dos Grafos",
-        "photo": "https://wallpapercave.com/wp/wp7752176.jpg"
+        "photo": "https://wallpapercave.com/wp/wp7752176.jpg",
+        "period": 3
     }
 ]
