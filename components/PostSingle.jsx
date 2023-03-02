@@ -1,5 +1,4 @@
 import styles from "@/styles/PostSingle.module.css"
-import Link from "next/link"
 
 export default function Page({ post, baseUrl }) {
     return (
@@ -10,10 +9,10 @@ export default function Page({ post, baseUrl }) {
                 <div dangerouslySetInnerHTML={{ __html: post.content }}></div>
             </div>
             <div className={styles.Contribute}>
-                <Link href={`https://github.com/kenbme/markai/blob/main/posts/${post.id}.md`}>
+                <a href={`https://github.com/kenbme/markai/blob/main/posts/${post.id}.md`}>
                     <p>Quer contribuir com esta página?</p>
                     <img src={`${baseUrl}/assets/svg/github.svg`} alt="GitHub" />
-                </Link>
+                </a>
             </div>
         </section>
     )
