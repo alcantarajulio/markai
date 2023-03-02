@@ -17,7 +17,8 @@ export async function getStaticProps() {
     const id = post.id;
     const title = post.data.title
     const discipline = post.data.discipline;
-    posts.push({id, title, discipline});
+    const abr = post.data.abr;
+    posts.push({id, title, discipline, abr});
   })
   return {
     props: { posts: posts }
