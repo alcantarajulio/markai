@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   webpack: (config, { isServer }) => {
-    
+
     // If client-side, don't polyfill `fs`
     if (!isServer) {
       config.resolve.fallback = {
@@ -12,6 +12,16 @@ const nextConfig = {
 
     return config;
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**',
+        port: '',
+        pathname: '**',
+      },
+    ],
+  }
 }
 
 module.exports = nextConfig
