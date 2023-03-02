@@ -1,6 +1,7 @@
 ---
 title: Visão Geral da Disciplina
 discipline: Programação 2
+fixed: true
 ---
 
 ## Ementa

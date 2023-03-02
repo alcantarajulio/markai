@@ -1,6 +1,7 @@
 ---
 title: Visão Geral da Disciplina 
 discipline: Cálculo Diferencial e Integral II
+fixed: true
 ---
 
 

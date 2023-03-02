@@ -1,6 +1,7 @@
 ---
 title: Visão Geral da Disciplina
 discipline: Programação I
+fixed: true
 ---
 ## Ementa
 

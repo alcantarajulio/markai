@@ -1,6 +1,7 @@
 ---
 title: Visão Geral da Disciplina
 discipline: Introdução a computação
+fixed: true
 ---
 
 ## Ementa

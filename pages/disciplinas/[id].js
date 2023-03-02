@@ -26,8 +26,12 @@ export async function getStaticProps({ params }) {
   const posts = [];
   getAllPostsByDiscipline(params.id).map((post) => {
     const id = post.id;
-    const title = post.data.title
-    posts.push({ id, title });
+    const title = post.data.title;
+    if (post.data.fixed) {
+      posts.unshift({ id, title });
+    } else {
+      posts.push({ id, title });
+    }
   })
   return {
     props: { posts: posts }

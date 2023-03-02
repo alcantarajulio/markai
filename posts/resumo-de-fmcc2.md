@@ -1,6 +1,7 @@
 ---
 title: Visão Geral da Disciplina
 discipline: Fundamentos de Matemática para Ciências da Computação II
+fixed: true
 ---
 
 - Técnicas de demonstração matemática
