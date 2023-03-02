@@ -1,5 +1,5 @@
 ---
-title: Resumo de FMCC1
+title: Visão Geral da Disciplina
 discipline: Fundamentos de Matemática para Ciências da Computação I
 ---
 

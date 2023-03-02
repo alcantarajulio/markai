@@ -1,5 +1,5 @@
 ---
-title: Resumo de FMCC2
+title: Visão Geral da Disciplina 
 discipline: Fundamentos de Matemática para Ciências da Computação II
 ---
 

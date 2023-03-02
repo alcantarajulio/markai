@@ -1,5 +1,5 @@
 ---
-title: Rseumo sobre Lógica para Computação
+title: Resumo sobre Lógica para Computação
 discipline: Lógica para computação
 ---
 
@@ -32,27 +32,6 @@ O principal objetivo do curso é apresentar ao aluno as lógicas formais utiliza
 - [Dedução Natural](https://galdino.catalao.ufg.br/up/635/o/deducaonatural.pdf)
 - [Introdução e Histórico - Tiago Massoni](https://tiagomassoni.github.io/logic-texts/Introdu%C3%A7%C3%A3o%20e%20Hist%C3%B3rico%20802c6309efb0482da14a2b862918e51e.html)
 
-## Exercícios 
-
-- [Listas de Exercícios (2014 a 2018)](https://sites.google.com/site/logicamatematicaufcg/listas-de-exercicios) 
-
-## Provas 
-
-### 2021.2
-**Prova** | **Reposição?** | **Links**  |
-:---: | :---:| :---: |
-2º estágio | Não | [Link](https://drive.google.com/file/d/1n5HE5rRKTOse628AgW37TJFk_YIJIVX7/view) |
-
-## Listas de Exercícios
-
-### 2018.1
-**Lista** | **Assunto** | **Links**  |
-:---: | :---:| :---: |
-1 | Lógica Proposicional | [Link](https://drive.google.com/open?id=1EjcJ9EnnxtXGWRWz4wk0rCfKvVFlgFIK) |
-2 | Formas Normais | [Link](https://drive.google.com/open?id=1VKE5kDH3bqtzRgj8VTd5uArJtYH_GInh) |
-3 | Solvers | [Link](https://drive.google.com/open?id=1bACt4XTUeYEh8nVRBKz6re2xPA1C0Tfg) |
-4 | Lógica de Predicados | [Link](https://drive.google.com/open?id=14bUn7xzZOL0fUBUsVq1tCCHvx5i9KG-_) |
-5 | Verificação de Programas | [Link](https://drive.google.com/open?id=1HD4axCKktxMPkuWdgZ1n_TN68pFG4RIA) |
 
 ## Projetos Antigos
 

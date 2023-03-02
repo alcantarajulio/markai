@@ -1,5 +1,5 @@
 ---
-title: Resumo de Programação 1
+title: Visão Geral da Disciplina
 discipline: Programação I
 ---
 ## Ementa

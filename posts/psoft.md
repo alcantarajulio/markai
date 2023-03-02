@@ -1,4 +1,4 @@
 ---
-title: Resumo Projeto de Software
+title: Visão Geral da Disciplina
 discipline: Projeto de software
 ---

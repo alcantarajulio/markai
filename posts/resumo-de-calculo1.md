@@ -1,5 +1,5 @@
 ---
-title: Resumo de Cálculo Diferencial e Integral I
+title: Visão Geral da Disciplina
 discipline: Cálculo diferencial e Integral I 
 ---
 
