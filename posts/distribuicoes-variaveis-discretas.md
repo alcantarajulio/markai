@@ -1,5 +1,5 @@
 ---
-title: Distribuições de variáveis discretas(Distribuição de Bernoulli)
+title: Distribuições de variáveis discretas (Distribuição de Bernoulli)
 discipline: Introdução a probabilidade
 ---
 ## Distribuição de Bernoulli
