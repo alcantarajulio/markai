@@ -1,6 +1,5 @@
 import styles from "@/styles/PostSingle.module.css"
 import Link from "next/link"
-import Image from 'next/image';
 
 export default function Page({ post, baseUrl }) {
     return (
@@ -13,7 +12,7 @@ export default function Page({ post, baseUrl }) {
             <div className={styles.Contribute}>
                 <Link href={`https://github.com/kenbme/markai/blob/main/posts/${post.id}.md`}>
                     <p>Quer contribuir com esta página?</p>
-                    <Image src={`${baseUrl}/assets/svg/github.svg`} width="32" height="32" alt="GitHub" />
+                    <img src={`${baseUrl}/assets/svg/github.svg`} alt="GitHub" />
                 </Link>
             </div>
         </section>
