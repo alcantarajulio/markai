@@ -1,9 +1,12 @@
-import { faBook, faFile, faHouse } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Link from "next/link";
 import styles from "@/styles/NavBar.module.css"
 import { useRouter } from 'next/router'
 import { useEffect } from "react";
+import {
+    AiOutlineHome, AiOutlineBook, AiOutlineFileText,
+} from "react-icons/ai";
+
+// AiFillHome, AiFillBook, AiFillFileText
 
 export default function NavBar() {
     const router = useRouter()
@@ -25,9 +28,9 @@ export default function NavBar() {
     }, [])
     return (
         <footer className={styles.NavBar}>
-            <Link id="home" href="/"><FontAwesomeIcon icon={faHouse} /></Link>
-            <Link id="disciplines" href="/disciplinas"><FontAwesomeIcon icon={faBook} /></Link>
-            <Link id="posts" href="/posts"><FontAwesomeIcon icon={faFile} /></Link>
+            <Link id="home" href="/"><AiOutlineHome /></Link>
+            <Link id="disciplines" href="/disciplinas"><AiOutlineBook /></Link>
+            <Link id="posts" href="/posts"><AiOutlineFileText /></Link>
         </footer>
     )
 }
