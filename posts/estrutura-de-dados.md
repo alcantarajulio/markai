@@ -1,5 +1,5 @@
 ---
-title: Resumo Estrutura de dados
+title: Visão Geral da Disciplina
 discipline: Estrutura de Dados
 ---
 

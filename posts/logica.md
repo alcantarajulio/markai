@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Resumo sobre Lógica para Computação
+=======
+title: Visão Geral da Disciplina
+>>>>>>> fdcc39de1f12d0e2c7ba7c388e12de695691893f
 discipline: Lógica para computação
 ---
 

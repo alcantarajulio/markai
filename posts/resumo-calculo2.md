@@ -61,7 +61,16 @@ Uma visão geral sobre Cálculo Diferencial Integral é definida em [calculo1](.
 - [Cálculo 2 Projeto Newton](https://www.youtube.com/watch?v=_sqp_KOqgtk&list=PLRDl822XzDzb4qzoiX19pBBGnsViHSYiU)
 - [Calculus 2 - Full College Course](https://www.youtube.com/watch?v=7gigNsz4Oe8)
 
+<<<<<<< HEAD
 
+=======
+## Exercícios
+
+- [Exercícios da USP](http://conteudo.icmc.usp.br/pessoas/regilene/sma332/Listas.htm)
+- [Exercícios da Unicamp](http://www2.ime.unicamp.br/~ma211/Exercicios.php)
+- [Exercícios da UFPB](http://www.mat.ufpb.br/lenimar/historia/marivaldo_calculo2.pdf)
+- [Exercícios da UFCG - Página com 8 listas](http://www.ccta.ufcg.edu.br/index.php?action=view_page&page=503)
+>>>>>>> fdcc39de1f12d0e2c7ba7c388e12de695691893f
 
 
 Uma lista de comentários sobre as principais dificuldades enfrentadas pelos alunos enquanto cursam a disciplina.

@@ -1,5 +1,5 @@
 ---
-title: Resumo de Introdução a computação
+title: Visão Geral da Disciplina
 discipline: Introdução a computação
 ---
 

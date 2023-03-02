@@ -1,5 +1,5 @@
 ---
-title: Álgebra linear (Visão geral)
+title: Visão Geral da Disciplina
 discipline: Álgebra Linear
 ---
 
