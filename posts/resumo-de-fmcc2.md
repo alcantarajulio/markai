@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Visão Geral da Disciplina 
-=======
 title: Visão Geral da Disciplina
->>>>>>> fdcc39de1f12d0e2c7ba7c388e12de695691893f
 discipline: Fundamentos de Matemática para Ciências da Computação II
 ---
 

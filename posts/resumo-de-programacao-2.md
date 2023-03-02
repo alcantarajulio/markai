@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD
 title: Visão Geral da Disciplina
 discipline: Programação 2
-=======
-title: Resumo de Programação 2
-discipline: Programação II
->>>>>>> fdcc39de1f12d0e2c7ba7c388e12de695691893f
 ---
 
 ## Ementa
