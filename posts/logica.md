@@ -1,5 +1,5 @@
 ---
-title: Rseumo sobre Lógica para Computação
+title: Visão Geral da Disciplina
 discipline: Lógica para computação
 ---
 
