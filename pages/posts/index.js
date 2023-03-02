@@ -16,7 +16,8 @@ export async function getStaticProps() {
   getAllPosts().map((post) => {
     const id = post.id;
     const title = post.data.title
-    posts.push({id, title});
+    const discipline = post.data.discipline;
+    posts.push({id, title, discipline});
   })
   return {
     props: { posts: posts }

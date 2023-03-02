@@ -10,7 +10,7 @@ export default function Disciplines({ disciplines }) {
                     {disciplines.map((discipline) =>
                         <li key={discipline.name}>
                             <Link href={`disciplinas/${discipline.name}`}>
-                                <Image src={discipline.photo} width="300" height="300" />
+                                <Image src={discipline.photo} width="300" height="300" alt="Imagem da disciplina"/>
                                 <div>
                                     {discipline.name}
                                 </div>
