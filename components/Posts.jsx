@@ -10,7 +10,7 @@ export default function Posts({ posts }) {
                 <ul className={styles.Posts}>
                     {posts.map((post) =>
                         <li key={post.id}>
-                            <Link href={`/posts/${post.id}`}>{post.title}{router.route == "/posts" ? ` (${post.abr})` : ""}</Link>
+                            <Link href={`/posts/${post.id}`}><p>{post.title}{router.route == "/posts" ? ` (${post.abr})` : ""}</p></Link>
                         </li>)
                     }
                 </ul>
