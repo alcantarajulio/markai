@@ -3,6 +3,7 @@
     "jsx": "react",
     "checkJs": true,
     "noImplicitAny": true,
+    "alwaysStrict": true,
     "baseUrl": ".",
     "paths": {
       "@/*": [
