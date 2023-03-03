@@ -1,8 +1,9 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Programação I
+discipline: Laboratório de Programação I
 fixed: true
 ---
+
 ## Ementa
 
 - Conceitos básicos de linguagens de programação
@@ -24,6 +25,8 @@ fixed: true
 Em Programação 1 você irá aprender conceitos básicos de programação. Ao fim da disciplina, você saberá usar estruturas de condição, de repetição e algumas estruturas de dados.
 
 A cadeira é dividida em 10 unidades, se você concluir pelo menos 7 unidades, você paga a cadeira.
+
+
 
 As 10 unidades consistem em:
 
@@ -50,26 +53,15 @@ As 10 unidades consistem em:
 
 - Sempre procure outras formas de aprender fora da sala de aula, procure alguma coisa que goste de fazer, um projeto, como um jogo, uma página web de um conteúdo algo que gosta, todo contato com a lógica de programar é bom.
 
----
-## Livros e Apostilas
+## Ferramentas
 
-- [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md#python)
+- [Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
 
-## Plataformas de Estudo
+## Exercícios
 
-- [Codecademy](http://www.codecademy.com/)
-- [Gibbon](https://gibbon.co/topics/programming)
-- [Udacity](https://br.udacity.com)
-- [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
-- [University of Reddit](http://ureddit.com/category/23442/computer-science)
-- [Udemy](https://www.udemy.com/pt/)
----
-## Dificuldades Comuns
-
-Uma lista de comentários sobre as principais dificuldades enfrentadas pelos alunos enquanto cursam a disciplina.
-
-### Estruturas de Repetição
-Esse é, provavelmente, o assunto que mais atrasa o avanço dos alunos na disciplina. Trabalhados durante as unidades 4 e 5, os *loops* (ou laços) produzidos através do `for` e do `while` não são de compreensão trivial para aqueles que estão iniciando na programação. Isso ocorre, principalmente, devido à dificuldade em compreender quando uma linha de código será executada mais de uma vez. O uso de *prints* no interior dos laços ou de visualizações são muito úteis para compreender melhor o assunto e encontrar possíveis erros em programas.
-
-### Algoritmos de Ordenação
-Abordado na unidade 7 da disciplina, esse assunto também costuma gerar dificuldades para os alunos. O primeiro motivo é que a produção de um algoritmo de ordenação envolve todos os assuntos vistos até então na disciplina, desde estruturas condicionais para definir se elementos devem trocar de posição, até o encapsulamento em funções. Além disso, tal qual nas unidades 4 e 5, não é trivial compreender o que ocorre a cada iteração dos *loops* e perceber como cada uma delas é um pequeno passo para a obtenção da resposta final. Para lidar com essas dificuldades, o ideal é compreender o conceito desses algoritmos antes de tentar implementá-los e também buscar visualizações deles.
+- [Exercism](https://exercism.io/)
+- [Coding Bat](https://codingbat.com/python)
+- [Codewars](https://www.codewars.com/)
+- [Coding Game](https://www.codingame.com/)
+- [Beecrownd](https://www.beecrowd.com.br/judge/en/login)
+- [Dirlididi](http://dirlididi.com/client/index.html#)
