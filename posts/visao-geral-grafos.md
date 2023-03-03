@@ -1,6 +1,7 @@
 ---
-title: Teoria dos grafos
+title: Visão Geral da Disciplina
 discipline: Teoria dos Grafos
+fixed: true
 ---
 
 

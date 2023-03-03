@@ -1,6 +1,7 @@
 ---
 title: Visão Geral da Disciplina
 discipline: Estrutura de Dados
+fixed: true
 ---
 
 ## Ementa

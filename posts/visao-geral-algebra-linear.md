@@ -1,6 +1,7 @@
 ---
 title: Visão Geral da Disciplina
 discipline: Álgebra Linear
+fixed: true
 ---
 
 # Ementa

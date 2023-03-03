@@ -1,6 +1,7 @@
 ---
 title: Visão Geral da Disciplina
 discipline: Lógica para computação
+fixed: true
 ---
 
 ## Ementa
