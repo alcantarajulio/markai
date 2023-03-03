@@ -15,7 +15,7 @@ import React from "react";
 export default function Page({ posts }) {
   return (
     <>
-      <div className="teste">
+      <div>
         <Posts posts={posts} />
         <NavBar />
       </div>

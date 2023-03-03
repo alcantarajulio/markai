@@ -1,3 +1,7 @@
+.PostSingle li {
+    list-style-type: disc;
+}
+
 .PostSingle>h1 {
     color: #015C53;
     text-align: center;
@@ -13,11 +17,10 @@
 }
 
 .PostSingle>div {
-    padding: 20px 0px;
+    margin: 10px 0px;
 }
 
 .PostSingle>div h1 {
-    padding: 15px 0px;
     font-size: 30px;
 }
 
@@ -65,10 +68,4 @@
 
 .Contribute svg {
     font-size: 54px;
-}
-
-@media (max-width: 800px) {
-    .Contribute {
-        margin-bottom: 5px;
-    }
 }

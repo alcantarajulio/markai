@@ -4,7 +4,7 @@ import React from "react";
 export default function Page() {
   return (
     <>
-      <section><div>Markai v1</div></section>
+      <main><div>Markai v1</div></main>
       <NavBar />
     </>
   )

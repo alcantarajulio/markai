@@ -3,15 +3,16 @@
     margin: 0;
     border: 0;
     text-decoration: none;
+    list-style: none;
 }
 
 body {
     font-family: "Roboto";
 }
 
-section {
+main > div {
     padding: 10px;
-    margin-bottom: 44px;
+    margin-bottom: 54px;
     max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
@@ -35,12 +36,12 @@ li {
 }
 
 @media (min-width: 800px) {
-    section {
+    main {
         max-width: 100%;
         margin: 0 0 0 64px;
     }
 
-    section>div {
+    main>div {
         margin: 0 auto;
         max-width: 1200px;
     }

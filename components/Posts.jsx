@@ -13,7 +13,7 @@ import React from "react";
 export default function Posts({ posts }) {
     const router = useRouter();
     return (
-        <section>
+        <main>
             <div>
                 <ul className={styles.Posts}>
                     {posts.map((post) =>
@@ -25,6 +25,6 @@ export default function Posts({ posts }) {
                     }
                 </ul>
             </div>
-        </section>
+        </main>
     )
 }

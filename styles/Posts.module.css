@@ -8,7 +8,7 @@
 }
 
 .Posts li:last-of-type {
-    margin: 5px;
+    margin: 0;
 }
 
 .Posts a {

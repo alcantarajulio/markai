@@ -28,10 +28,10 @@ export default function NavBar() {
         document.getElementById(id).style.color = activeColor;
     }, [])
     return (
-        <footer className={styles.NavBar}>
+        <nav className={styles.NavBar}>
             <Link id="home" href="/"><AiOutlineHome /></Link>
             <Link id="disciplines" href="/disciplinas"><AiOutlineBook /></Link>
             <Link id="posts" href="/posts"><AiOutlineFileText /></Link>
-        </footer>
+        </nav>
     )
 }
