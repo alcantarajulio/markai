@@ -1,6 +1,7 @@
 import styles from "@/styles/PostSingle.module.css"
-import React from "react";
+import React, { useEffect } from "react";
 import { AiOutlineGithub } from "react-icons/ai";
+import hljs from "highlight.js";
 
 /**
  * @typedef Props
@@ -11,6 +12,9 @@ import { AiOutlineGithub } from "react-icons/ai";
  * @param {Props} props
  */
 export default function Page({ post }) {
+    useEffect(() => {
+        hljs.highlightAll();
+    }, []);
     return (
         <main>
             <div>
