@@ -12,6 +12,9 @@ export default function Page({ post }) {
             <PostSingle post={post} />
             <NavBar />
             <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+            <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/styles/default.min.css"></link>
+            <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/highlight.min.js"></script>
+            <script>hljs.highlightAll();</script>
         </>
     )
 }
