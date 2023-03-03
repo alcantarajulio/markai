@@ -7,8 +7,15 @@ const postsDir = path.join(process.cwd(), "posts");
 const disciplinesDir = path.join(process.cwd(), "disciplines");
 
 /**
+ * @typedef Discipline
+ * @property {string} name
+ * @property {string} imageUrl
+ * @property {number} period
+ */
+
+/**
  * Pega todas as disciplinas.
- * @returns todas as disciplinas em ordem de período.
+ * @returns {Discipline[]} todas as disciplinas em ordem de período.
  */
 export function getAllDisciplines() {
     const names = new Set();
@@ -16,8 +23,7 @@ export function getAllDisciplines() {
     fs.readdirSync(postsDir).map((postDir) => {
         const post = readPostMarkdownFile(postDir);
         if (post.data.discipline) {
-            const name = post.data.discipline;
-            const { photo, period } = getDiscipline(name);
+            const { name, photo, period } = getDiscipline(post.data.discipline);
             if (!names.has(name)) {
                 names.add(name);
                 disciplines.push({ name, photo, period })
@@ -38,24 +44,24 @@ export function getAllDisciplines() {
 
 /**
  * Pega dados de uma disciplina usando seu nome.
- * @param {string} disciplineName - nome da disciplina.
- * @returns dados da disciplina.
+ * @param {string} name - nome da disciplina.
+ * @returns {Discipline} dados da disciplina.
  */
-function getDiscipline(disciplineName) {
+function getDiscipline(name) {
     const disciplines = JSON.parse(fs.readFileSync(path.join(disciplinesDir, "disciplines.json")).toString());
     let photo = "";
     let period = 0;
     disciplines.forEach(discipline => {
-        if (discipline.name == disciplineName) {
+        if (discipline.name == name) {
             photo = discipline.photo;
             period = discipline.period;
         }
     });
-    if (photo == "") {
-        console.error(chalk.red(`error: photo not found (${disciplineName})`));
+    if (photo == "" || period == 0) {
+        console.error(chalk.red(`error: photo or period not found (${name})`));
         photo = "https://simpl.info/webp/cherry.webp"
     }
-    return { photo, period };
+    return { name, photo, period };
 }
 
 /**

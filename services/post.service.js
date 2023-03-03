@@ -7,6 +7,20 @@ import { slugify, abbreviation } from "@/utils/utils";
 const postsDir = path.join(process.cwd(), "posts");
 
 /**
+ * @typedef PostData
+ * @property {string} title
+ * @property {string} discipline
+ * @property {boolean|undefined} fixed
+ */
+
+/**
+ * @typedef Post
+ * @property {string} id
+ * @property {PostData} data
+ * @property {string} content
+ */
+
+/**
  * Lê markdown de um post.
  * @param {string} postPath - caminho do post.
  * @returns dados do markdown do post.
@@ -26,7 +40,7 @@ function getPostId(postPath) {
 
 /**
  * Pega todos os posts do diretório "posts".
- * @returns todos os posts em ordem alfabética.
+ * @returns {Post[]} todos os posts em ordem alfabética.
  */
 export function getAllPosts() {
     const posts = []
@@ -85,7 +99,7 @@ export function getAllPostsPaths() {
 /**
  * Pega o post usando seu ID.
  * @param {string} id - ID do post.
- * @returns o post.
+ * @returns {Post} o post.
  */
 export function getPost(id) {
     const post = readPostMarkdownFile(id + ".md");

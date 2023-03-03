@@ -1,4 +1,4 @@
-import Disciplines from "@/components/DIsciplines";
+import Disciplines from "@/components/Disciplines";
 import NavBar from "@/components/NavBar";
 import { getAllDisciplines } from "@/services/discipline.service"
 
