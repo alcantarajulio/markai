@@ -20,7 +20,7 @@ export default function Page({ post }) {
                     <div dangerouslySetInnerHTML={{ __html: post.content }}></div>
                 </section>
                 <section className={styles.Contribute}>
-                    <a target="_blank" href={`https://github.com/kenbme/markai/blob/main/posts/${post.id}.md`}>
+                    <a target="_blank" rel="noopener noreferrer" href={`https://github.com/kenbme/markai/blob/main/posts/${post.id}.md`}>
                         <p>Quer contribuir com esta página?</p>
                         <AiOutlineGithub />
                     </a>
