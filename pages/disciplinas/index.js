@@ -3,13 +3,13 @@ import NavBar from "@/components/NavBar";
 import { getAllDisciplines } from "@/services/discipline.service"
 import React from "react";
 
-// @ts-ignore
+/**
+ * @param {{disciplines: import("../../services/discipline.service").Discipline[]}} props
+ */
 export default function Page({ disciplines }) {
-  /** @type import("../../services/discipline.service").Discipline[]) */
-  const _disciplines = disciplines;
   return (
     <>
-      <Disciplines disciplines={_disciplines} />
+      <Disciplines disciplines={disciplines} />
       <NavBar />
     </>
   )

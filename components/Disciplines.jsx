@@ -2,15 +2,15 @@ import styles from "@/styles/Disciplines.module.css";
 import Link from "next/link";
 import React from "react";
 
-// @ts-ignore
+/**
+ * @param {{disciplines: import("../services/discipline.service").Discipline[]}} props
+ */
 export default function Disciplines({ disciplines }) {
-    /** @type {import("../services/discipline.service").Discipline[]} */
-    const _disciplines = disciplines;
     return (
         <section>
             <div>
                 <ul className={styles.Disciplines}>
-                    {_disciplines.map((discipline) =>
+                    {disciplines.map((discipline) =>
                         <li key={discipline.name}>
                             <Link href={`disciplinas/${discipline.name}`}>
                                 <img src={discipline.photo} alt="Imagem da disciplina" />

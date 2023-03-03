@@ -3,20 +3,24 @@ import Posts from "@/components/Posts";
 import { getAllPosts } from "@/services/post.service"
 import React from "react";
 
-// @ts-ignore
+/**
+ * @typedef {{id: string; title: string; discipline: string; abr: string;}} Post
+ */
+
+/**
+ * @param {{posts: Post[]}} props
+ */
 export default function Page({ posts }) {
-  /** @type {{ id: string; title: string; discipline: string; abr: string; }[]} */
-  const _posts = posts;
   return (
     <>
-      <Posts posts={_posts} />
+      <Posts posts={posts} />
       <NavBar />
     </>
   )
 }
 
 export async function getStaticProps() {
-  /** @type {{ id: string; title: string; discipline: string; abr: string; }[]} */
+  /** @type {Post[]} */
   const posts = [];
   getAllPosts().map((post) => {
     const id = post.id;

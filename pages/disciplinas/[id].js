@@ -4,14 +4,19 @@ import { getAllDisciplinesPaths } from "@/services/discipline.service"
 import { getAllPostsByDiscipline } from "@/services/post.service";
 import React from "react";
 
-// @ts-ignore
+/**
+ * @typedef Posts
+ * @property {{ id: string; title: string; abr:null}[]} posts
+ */
+
+/**
+ * @param {Posts} posts
+ */
 export default function Page({ posts }) {
-  /** @type {{ id: string; title: string; }[]} */
-  const _posts = posts;
   return (
     <>
       <div className="teste">
-        <Posts posts={_posts} />
+        <Posts posts={posts} />
         <NavBar />
       </div>
     </>

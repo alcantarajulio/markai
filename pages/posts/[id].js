@@ -3,13 +3,13 @@ import { getAllPostsPaths, getPost } from "@/services/post.service";
 import PostSingle from "@/components/PostSingle"
 import React from "react";
 
-// @ts-ignore
+/**
+ * @param {{post: import("../../services/post.service").Post}} props
+ */
 export default function Page({ post }) {
-    /** @type import("../../services/post.service").Post */
-    const _post = post;
     return (
         <>
-            <PostSingle post={_post} />
+            <PostSingle post={post} />
             <NavBar />
             <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
         </>
