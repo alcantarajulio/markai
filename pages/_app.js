@@ -1,4 +1,5 @@
 import "@/styles/globals.css";
+import "@/public/css/dracula.css";
 import "@fontsource/roboto";
 import React from "react";
 
