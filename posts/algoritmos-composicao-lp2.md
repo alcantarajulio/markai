@@ -1,4 +1,4 @@
 ---
-title: Listas de Exercícios e Provas
+title: Composição
 discipline: Laboratório de Programação 2
 ---

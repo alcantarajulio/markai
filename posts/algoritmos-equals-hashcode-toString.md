@@ -1,4 +1,4 @@
 ---
-title: Listas de Exercícios e Provas
+title: Equals-Hashcode-ToString
 discipline: Laboratório de Programação 2
 ---
