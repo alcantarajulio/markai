@@ -1,6 +1,14 @@
 import styles from "@/styles/Disciplines.module.css";
 import Link from "next/link";
 
+/**
+ * @typedef Props
+ * @property {import("../services/discipline.service").Discipline[]} disciplines
+ */
+
+/**
+ * @param {Props} props
+ */
 export default function Disciplines({ disciplines }) {
     return (
         <section>

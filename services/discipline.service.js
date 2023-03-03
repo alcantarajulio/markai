@@ -9,7 +9,7 @@ const disciplinesDir = path.join(process.cwd(), "disciplines");
 /**
  * @typedef Discipline
  * @property {string} name
- * @property {string} imageUrl
+ * @property {string} photo
  * @property {number} period
  */
 

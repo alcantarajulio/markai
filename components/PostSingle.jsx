@@ -1,7 +1,15 @@
 import styles from "@/styles/PostSingle.module.css"
 import { AiOutlineGithub } from "react-icons/ai";
 
-export default function Page({ post, baseUrl }) {
+/**
+ * @typedef Props
+ * @property {import("../services/post.service").Post} post
+ */
+
+/**
+ * @param {Props} props
+ */
+export default function Page({ post }) {
     return (
         <section>
             <div className={styles.PostSingle}>

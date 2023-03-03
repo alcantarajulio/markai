@@ -11,6 +11,7 @@ const postsDir = path.join(process.cwd(), "posts");
  * @property {string} title
  * @property {string} discipline
  * @property {boolean|undefined} fixed
+ * @property {string} abr
  */
 
 /**
@@ -72,7 +73,7 @@ export function getAllPosts() {
 /**
  * Pega todos os posts de uma disciplina.
  * @param {string} discipline - nome da disciplina. 
- * @returns posts da disciplina em ordem alfabética.
+ * @returns {Post[]} posts da disciplina em ordem alfabética.
  */
 export function getAllPostsByDiscipline(discipline) {
     const posts = []

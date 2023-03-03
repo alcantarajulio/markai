@@ -2,6 +2,14 @@ import Disciplines from "@/components/Disciplines";
 import NavBar from "@/components/NavBar";
 import { getAllDisciplines } from "@/services/discipline.service"
 
+/**
+ * @typedef Props
+ * @property {import("../../services/discipline.service").Discipline[]} disciplines
+ */
+
+/**
+ * @param {Props} props
+ */
 export default function Page({ disciplines }) {
   return (
     <>
