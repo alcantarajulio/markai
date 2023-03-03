@@ -62,5 +62,10 @@
         "name": "Teoria dos Grafos",
         "photo": "https://wallpapercave.com/wp/wp7752176.jpg",
         "period": 3
+    },
+    {
+        "name": "Laboratório de Programação I",
+        "photo": "https://classic.exame.com/wp-content/uploads/2017/09/programac3a7c3a3o.jpg?quality=70&strip=info&w=1024",
+        "period": 1
     }
 ]
