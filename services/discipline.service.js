@@ -1,16 +1,20 @@
 import chalk from "chalk";
 import path from "path";
 import fs from "fs";
-import { readMarkdownFile } from "./post.service";
+import { readPostMarkdownFile } from "./post.service";
 
 const postsDir = path.join(process.cwd(), "posts");
 const disciplinesDir = path.join(process.cwd(), "disciplines");
 
+/**
+ * Pega todas as disciplinas.
+ * @returns todas as disciplinas em ordem de período.
+ */
 export function getAllDisciplines() {
     const names = new Set();
     const disciplines = [];
     fs.readdirSync(postsDir).map((postDir) => {
-        const post = readMarkdownFile(postDir);
+        const post = readPostMarkdownFile(postDir);
         if (post.data.discipline) {
             const name = post.data.discipline;
             const { photo, period } = getDiscipline(name);
@@ -32,6 +36,11 @@ export function getAllDisciplines() {
     return disciplines;
 }
 
+/**
+ * Pega dados de uma disciplina usando seu nome.
+ * @param {string} disciplineName - nome da disciplina.
+ * @returns dados da disciplina.
+ */
 function getDiscipline(disciplineName) {
     const disciplines = JSON.parse(fs.readFileSync(path.join(disciplinesDir, "disciplines.json")).toString());
     let photo = "";
@@ -49,6 +58,10 @@ function getDiscipline(disciplineName) {
     return { photo, period };
 }
 
+/**
+ * Pega todos os caminhos das disciplinas.
+ * @returns caminhos das disciplinas.
+ */
 export function getAllDisciplinesPaths() {
     return getAllDisciplines().map(
         (discipline) => {

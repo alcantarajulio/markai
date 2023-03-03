@@ -6,18 +6,32 @@ import { slugify, abbreviation } from "@/utils/utils";
 
 const postsDir = path.join(process.cwd(), "posts");
 
-export function readMarkdownFile(dir) {
-    return matter(fs.readFileSync(path.join(postsDir, dir)).toString("utf-8"));
+/**
+ * Lê markdown de um post.
+ * @param {string} postPath - caminho do post.
+ * @returns dados do markdown do post.
+ */
+export function readPostMarkdownFile(postPath) {
+    return matter(fs.readFileSync(path.join(postsDir, postPath)).toString("utf-8"));
 }
 
-function getPostId(dir) {
-    return dir.replace(".md", "");
+/**
+ * Gera o ID de um post.
+ * @param {string} postPath - caminho do post.
+ * @returns {string} postID.
+ */
+function getPostId(postPath) {
+    return postPath.replace(".md", "");
 }
 
+/**
+ * Pega todos os posts do diretório "posts".
+ * @returns todos os posts em ordem alfabética.
+ */
 export function getAllPosts() {
     const posts = []
     fs.readdirSync(postsDir).map((postDir) => {
-        const post = readMarkdownFile(postDir);
+        const post = readPostMarkdownFile(postDir);
         const data = post.data;
         data.abr = abbreviation(post.data.discipline);
         const content = marked.parse(post.content);
@@ -41,6 +55,11 @@ export function getAllPosts() {
     return posts;
 }
 
+/**
+ * Pega todos os posts de uma disciplina.
+ * @param {string} discipline - nome da disciplina. 
+ * @returns posts da disciplina em ordem alfabética.
+ */
 export function getAllPostsByDiscipline(discipline) {
     const posts = []
     getAllPosts().map(post => {
@@ -51,6 +70,10 @@ export function getAllPostsByDiscipline(discipline) {
     return posts;
 }
 
+/**
+ * Pega o caminho de todos os posts.
+ * @returns caminhos dos posts.
+ */
 export function getAllPostsPaths() {
     const paths = [];
     fs.readdirSync(postsDir).map((postDir) => {
@@ -59,8 +82,13 @@ export function getAllPostsPaths() {
     return paths;
 }
 
+/**
+ * Pega o post usando seu ID.
+ * @param {string} id - ID do post.
+ * @returns o post.
+ */
 export function getPost(id) {
-    const post = readMarkdownFile(id + ".md");
+    const post = readPostMarkdownFile(id + ".md");
     const data = post.data;
     const content = marked.parse(post.content);
     return { id, data, content };

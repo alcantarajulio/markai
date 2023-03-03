@@ -1,3 +1,8 @@
+/**
+ * Abrevia nome de uma disciplina.
+ * @param {string} disciplineName - representa o nome de uma disciplina.
+ * @returns {string} nome da disciplina abreviado.
+ */
 export function abbreviation(disciplineName) {
     let abr = "";
     disciplineName.split(" ").forEach(word => {
@@ -10,6 +15,11 @@ export function abbreviation(disciplineName) {
     return abr;
 }
 
+/**
+ * Remove acentos.
+ * @param {string} str - uma string qualquer.
+ * @returns {string} str sem acentos.
+ */
 export function slugify(str) {
     const map = {
         '-': ' ',
