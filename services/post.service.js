@@ -44,6 +44,7 @@ function getPostId(postPath) {
  * @returns {Post[]} todos os posts em ordem alfabética.
  */
 export function getAllPosts() {
+    /** @type {Post[]} */
     const posts = []
     fs.readdirSync(postsDir).map((postDir) => {
         const post = readPostMarkdownFile(postDir);
@@ -51,6 +52,7 @@ export function getAllPosts() {
         data.abr = abbreviation(post.data.discipline);
         const content = marked.parse(post.content);
         const id = getPostId(postDir);
+        // @ts-ignore
         posts.push({ id: id, data, content })
     })
     posts.sort((a, b) => {
@@ -76,6 +78,7 @@ export function getAllPosts() {
  * @returns {Post[]} posts da disciplina em ordem alfabética.
  */
 export function getAllPostsByDiscipline(discipline) {
+    /** @type {Post[]} */
     const posts = []
     getAllPosts().map(post => {
         if (post.data.discipline == discipline) {
@@ -90,9 +93,10 @@ export function getAllPostsByDiscipline(discipline) {
  * @returns caminhos dos posts.
  */
 export function getAllPostsPaths() {
+    /** @type {string[]}*/
     const paths = [];
     fs.readdirSync(postsDir).map((postDir) => {
-        paths.push({ params: { id: getPostId(postDir) } });
+        paths.push(`/posts/${getPostId(postDir)}`);
     })
     return paths;
 }
@@ -104,6 +108,8 @@ export function getAllPostsPaths() {
  */
 export function getPost(id) {
     const post = readPostMarkdownFile(id + ".md");
+    /** @type {PostData} */
+    // @ts-ignore
     const data = post.data;
     const content = marked.parse(post.content);
     return { id, data, content };

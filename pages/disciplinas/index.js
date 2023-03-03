@@ -1,19 +1,15 @@
 import Disciplines from "@/components/Disciplines";
 import NavBar from "@/components/NavBar";
 import { getAllDisciplines } from "@/services/discipline.service"
+import React from "react";
 
-/**
- * @typedef Props
- * @property {import("../../services/discipline.service").Discipline[]} disciplines
- */
-
-/**
- * @param {Props} props
- */
+// @ts-ignore
 export default function Page({ disciplines }) {
+  /** @type import("../../services/discipline.service").Discipline[]) */
+  const _disciplines = disciplines;
   return (
     <>
-      <Disciplines disciplines={disciplines}/>
+      <Disciplines disciplines={_disciplines} />
       <NavBar />
     </>
   )

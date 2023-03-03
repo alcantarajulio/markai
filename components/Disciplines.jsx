@@ -1,20 +1,16 @@
 import styles from "@/styles/Disciplines.module.css";
 import Link from "next/link";
+import React from "react";
 
-/**
- * @typedef Props
- * @property {import("../services/discipline.service").Discipline[]} disciplines
- */
-
-/**
- * @param {Props} props
- */
+// @ts-ignore
 export default function Disciplines({ disciplines }) {
+    /** @type {import("../services/discipline.service").Discipline[]} */
+    const _disciplines = disciplines;
     return (
         <section>
             <div>
                 <ul className={styles.Disciplines}>
-                    {disciplines.map((discipline) =>
+                    {_disciplines.map((discipline) =>
                         <li key={discipline.name}>
                             <Link href={`disciplinas/${discipline.name}`}>
                                 <img src={discipline.photo} alt="Imagem da disciplina" />

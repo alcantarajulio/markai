@@ -23,7 +23,6 @@ export function abbreviation(disciplineName) {
 export function slugify(str) {
     const map = {
         '-': ' ',
-        '-': '_',
         'a': 'á|à|ã|â|ä|Ä|À|Á|Ã|Â',
         'e': 'é|è|ê|ë|Ë|É|È|Ê',
         'i': 'í|ì|î|ï|Ï|Í|Ì|Î',
@@ -33,6 +32,7 @@ export function slugify(str) {
         'n': 'ñ|Ñ'
     };
     for (const pattern in map) {
+        // @ts-ignore
         str = str.replace(new RegExp(map[pattern], 'g'), pattern);
     };
     return str;

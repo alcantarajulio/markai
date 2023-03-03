@@ -19,6 +19,7 @@ const disciplinesDir = path.join(process.cwd(), "disciplines");
  */
 export function getAllDisciplines() {
     const names = new Set();
+    /** @type {Discipline[]} */
     const disciplines = [];
     fs.readdirSync(postsDir).map((postDir) => {
         const post = readPostMarkdownFile(postDir);
@@ -48,10 +49,11 @@ export function getAllDisciplines() {
  * @returns {Discipline} dados da disciplina.
  */
 function getDiscipline(name) {
+    /** @type {{name: string, photo: string, period: number}[]} */
     const disciplines = JSON.parse(fs.readFileSync(path.join(disciplinesDir, "disciplines.json")).toString());
     let photo = "";
     let period = 0;
-    disciplines.forEach(discipline => {
+    disciplines.forEach((discipline) => {
         if (discipline.name == name) {
             photo = discipline.photo;
             period = discipline.period;

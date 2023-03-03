@@ -2,12 +2,16 @@ import NavBar from "@/components/NavBar";
 import Posts from "@/components/Posts";
 import { getAllDisciplinesPaths } from "@/services/discipline.service"
 import { getAllPostsByDiscipline } from "@/services/post.service";
+import React from "react";
 
+// @ts-ignore
 export default function Page({ posts }) {
+  /** @type {{ id: string; title: string; }[]} */
+  const _posts = posts;
   return (
     <>
       <div className="teste">
-        <Posts posts={posts} />
+        <Posts posts={_posts} />
         <NavBar />
       </div>
     </>
@@ -22,7 +26,9 @@ export async function getStaticPaths() {
   }
 }
 
+// @ts-ignore
 export async function getStaticProps({ params }) {
+  /** @type {{ id: string; title: string; }[]} */
   const posts = [];
   getAllPostsByDiscipline(params.id).map((post) => {
     const id = post.id;
