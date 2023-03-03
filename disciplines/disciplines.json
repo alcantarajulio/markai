@@ -67,5 +67,10 @@
         "name": "Laboratório de Programação I",
         "photo": "https://classic.exame.com/wp-content/uploads/2017/09/programac3a7c3a3o.jpg?quality=70&strip=info&w=1024",
         "period": 1
+    },
+    {
+        "name": "Laboratório de Programação 2",
+        "photo": "https://imagens.itforum.com.br/itforum.com.br/wp-content/uploads/2020/05/linguagem-programacao-Java-1.jpg",
+        "period": 2
     }
 ]
