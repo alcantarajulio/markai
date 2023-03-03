@@ -9,7 +9,7 @@ Comparable. Este método permite estabelecer uma ordem natural sobre objectos do
 
 ## Implementações
 
-classe Filme.java 
+## classe Filme.java 
 
 
 ```java
@@ -58,7 +58,7 @@ public class Filme implements Comparable<Filme> {
 
 ```
 
-classe Main.java 
+## classe Main.java 
 
 ```java
 
