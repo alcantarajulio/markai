@@ -1,6 +1,7 @@
 ---
 title: Visão Geral da Disciplina
 discipline: Introdução a probabilidade
+fixed: true
 ---
 
 ## Ementa

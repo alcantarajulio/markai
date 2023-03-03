@@ -6,23 +6,6 @@ fixed: true
 
 Feito com base neste [slide](https://www.dropbox.com/s/3rubq11f0f4035j/Aula%202_Resumo%20de%20Dados.pdf?dl=0) e [esse](https://www.dropbox.com/s/d6j661koffx2mbx/Aula%203_Resumo%20de%20Dados%20%28continua%C3%A7%C3%A3o%29.pdf?dl=0).
 
-## Sumário
-
-- [Sumário](#sumário)
-- [Estatística](#estatística)
-  - [Tipos](#tipos)
-  - [Conceitos Fundamentais](#conceitos-fundamentais)
-- [Organização de dados](#organização-de-dados)
-  - [Tabela de distribuição de frequências](#tabela-de-distribuição-de-frequências)
-- [Agrupamento de variáveis por classes](#agrupamento-de-variáveis-por-classes)
-  - [Como fazer](#como-fazer)
-- [Gráficos](#gráficos)
-  - [Gráfico de colunas](#gráfico-de-colunas)
-  - [Gráfico de pizza](#gráfico-de-pizza)
-    - [Construção](#construção)
-  - [Histograma](#histograma)
-    - [Construção](#construção-1)
-
 
 ## Estatística
 É a ciência que coleta, organiza, descreve, analisa e e interpreta dados afim de extrair informações a respeito de uma [população](#População).
