@@ -1,6 +1,6 @@
 ---
 title: Listas de Exercícios e Provas
-discipline: Laboratório de Programação I
+discipline: Laboratório de Programação 1
 ---
 ## O que é?
 
@@ -24,8 +24,14 @@ Para seguir a mesma ordem em que os assuntos são ensinados na disciplina, siga 
 
 
 
-## Codigos
+## Códigos
 
 Aqui nós temos alguns exemplos de código:
-- [text](/posts/algoritmos-ordenacao-py-lp1)
-
+- [Algoritmos de Ordenação em python](/posts/algoritmos-ordenacao-lp1)
+- [Como funcionam as condicionais](/posts/algoritmos-condicionais-lp1)
+- [Como funcionam os dicionários](/posts/algoritmos-dicionarios-lp1)
+- [Fazendo um algoritmo para calcular o fatorial](/posts/algoritmos-fatorial-lp1)
+- [Algumas funções que podem ser úteis para você](/posts/algorimos-funcoes-uteis-lp1)
+- [Hello World em python](/posts/algoritmos-hello-world-lp1)
+- [Veja aqui como funcionam os loops for e while](/posts/algoritmos-loops-lp1)
+- [Como somar a diagonal principal de uma matriz](/posts/algoritmos-soma-diagonal-lp1)

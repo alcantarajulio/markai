@@ -1,6 +1,6 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Laboratório de Programação I
+discipline: Laboratório de Programação 1
 fixed: true
 ---
 

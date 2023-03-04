@@ -1,6 +1,6 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Fundamentos de Matemática para Ciências da Computação I
+discipline: Fundamentos de Matemática para Ciências da Computação 1
 fixed: true
 ---
 

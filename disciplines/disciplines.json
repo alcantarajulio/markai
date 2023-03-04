@@ -25,12 +25,12 @@
         "period": 3
     },
     {
-        "name": "Fundamentos de Matemática para Ciências da Computação I",
+        "name": "Fundamentos de Matemática para Ciências da Computação 1",
        "photo":"https://mindmatters.ai/wp-content/uploads/sites/2/2021/03/mathematical-formulas-1597x1065.jpg",
        "period": 1
     },
     {
-        "name": "Fundamentos de Matemática para Ciências da Computação II",
+        "name": "Fundamentos de Matemática para Ciências da Computação 2",
         "photo": "https://assets3.thrillist.com/v1/image/2316715/1200x600/scale;",
         "period": 2
     },{
@@ -44,17 +44,17 @@
         "period": 4
     },
     {
-        "name": "Cálculo diferencial e Integral I",
+        "name": "Cálculo diferencial e Integral 1",
         "photo": "https://toptraders.ir/fa/wp-content/uploads/2019/04/fibonacci-860x430.jpg",
         "period": 2
     },
     {
-        "name":"Cálculo Diferencial e Integral II",
+        "name":"Cálculo Diferencial e Integral 2",
         "photo":"https://assets.lls.fr/pages/14738183/matt7exentrainementmaths-retoucheok.png",
         "period": 3
     },
     {
-        "name": "Programação I",
+        "name": "Programação 1",
         "photo": "https://imagens.itforum.com.br/itforum.com.br/wp-content/uploads/2020/10/linguagem-programacao-python-1.jpg",
         "period": 1
     },
@@ -64,7 +64,7 @@
         "period": 3
     },
     {
-        "name": "Laboratório de Programação I",
+        "name": "Laboratório de Programação 1",
         "photo": "https://classic.exame.com/wp-content/uploads/2017/09/programac3a7c3a3o.jpg?quality=70&strip=info&w=1024",
         "period": 1
     },

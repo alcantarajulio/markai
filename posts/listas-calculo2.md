@@ -1,6 +1,6 @@
 ---
 title: Listas de Exercícios e Provas
-discipline: Cálculo Diferencial e Integral II
+discipline: Cálculo Diferencial e Integral 2
 ---
 
 ## Exercícios
