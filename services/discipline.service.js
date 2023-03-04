@@ -1,7 +1,7 @@
 import chalk from "chalk";
 import path from "path";
 import fs from "fs";
-import { readPostMarkdownFile, isValidPost } from "./post.service";
+import { isValidPost } from "./post.service";
 
 const postsDir = path.join(process.cwd(), "posts");
 const disciplinesDir = path.join(process.cwd(), "disciplines");
