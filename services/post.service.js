@@ -100,9 +100,9 @@ export function getAllPostsByDiscipline(discipline) {
 export function getAllPostsPaths() {
     /** @type {string[]}*/
     const paths = [];
-    fs.readdirSync(postsDir).map((postDir) => {
-        paths.push(`/posts/${getPostId(postDir)}`);
-    })
+    getAllPosts().map((post) => {
+        paths.push(`/posts/${post.id}`);
+    });
     return paths;
 }
 
