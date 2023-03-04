@@ -28,7 +28,7 @@ const postsDir = path.join(process.cwd(), "posts");
  * @returns dados do markdown do post.
  */
 export function readPostMarkdownFile(postPath) {
-    return matter(fs.readFileSync(path.join(postsDir, postPath)).toString("utf-8"));
+  return matter(fs.readFileSync(path.join(postsDir, postPath)).toString("utf-8"));
 }
 
 /**
@@ -37,7 +37,76 @@ export function readPostMarkdownFile(postPath) {
  * @returns {string} postID.
  */
 function getPostId(postPath) {
-    return postPath.replace(".md", "");
+  return postPath.replace(".md", "");
+}
+
+/**
+ * Verifica se postDir é válido.
+ * @param {string} postDir 
+ * @returns {boolean}
+ */
+function isValidPostDir(postDir) {
+  const splited = postDir.split(".");
+  return splited[splited.length - 1] == "md";
+}
+
+
+/**
+ * Verifica se o header do post é válido.
+ * @param {{ title?: string; discipline?: string; fixed?: boolean; }} postData
+ * @returns {boolean}
+ */
+function isValidPostData(postData) {
+  let result = true;
+  if (postData.title == null) {
+    result = false;
+  }
+  if (postData.discipline == null) {
+    result = false;
+  }
+  if (postData.fixed == null) {
+    postData.fixed = false;
+  }
+  if (!(postData.fixed == true || postData.fixed == false)) {
+    result = false;
+  }
+  return result;
+}
+
+/**
+ * Verifica se post é válido.
+ * @param {string} postDir 
+ * @return {[boolean, Post]}
+ */
+function isValidPost(postDir) {
+  try {
+    if (!isValidPostDir(postDir)) {
+      console.error(chalk.red(`error: invalid archive (${postDir}).`));
+      throw new Error("");
+    }
+    const id = getPostId(postDir);
+    if (id != slugify(id)) {
+      console.error(chalk.red(`error: post is not a slug (${postDir}).`));
+      throw new Error();
+    }
+    const post = readPostMarkdownFile(postDir);
+    const data = post.data;
+    if (!isValidPostData(post.data)) {
+      console.error(chalk.red(`error: post header invalid (${postDir}).`));
+      throw new Error();
+    }
+    data.abr = abbreviation(post.data.discipline);
+    const content = marked.parse(post.content).trim();
+    if (content == "") {
+      console.error(chalk.red(`error: post content is empty (${postDir}).`));
+      throw new Error();
+    }
+    // @ts-ignore
+    return [true, { id, data, content }];
+  }
+  catch {
+    return [false, null];
+  }
 }
 
 /**
@@ -45,38 +114,33 @@ function getPostId(postPath) {
  * @returns {Post[]} todos os posts em ordem alfabética.
  */
 export function getAllPosts() {
-    /** @type {Post[]} */
-    const posts = []
-    fs.readdirSync(postsDir).map((postDir) => {
-        const post = readPostMarkdownFile(postDir);
-        const data = post.data;
-        data.abr = abbreviation(post.data.discipline);
-        const content = marked.parse(post.content).trim();
-        const id = getPostId(postDir);
-        if (id != slugify(id)) {
-            console.error(chalk.red(`error: post is not a slug (${id}).`));
-        } else if (content == "") {
-            console.error(chalk.red(`error: post content is empty (${id}).`));
-        } else {
-            // @ts-ignore
-            posts.push({ id: id, data, content })
-        }
-    })
-    posts.sort((a, b) => {
-        const title1 = slugify(a.data.title);
-        const title2 = slugify(b.data.title);
-        if (title1 < title2) {
-            return -1;
-        }
-        if (title1 > title2) {
-            return 1;
-        }
-        if (a.data.abr <= b.data.abr) {
-            return -1;
-        }
-        return 1;
-    })
-    return posts;
+  /** @type {Post[]} */
+  const posts = []
+  fs.readdirSync(postsDir).map((postDir) => {
+    const [isValid, post] = isValidPost(postDir);
+    if (isValid) {
+      const id = post.id;
+      const data = post.data;
+      const content = post.content;
+      // @ts-ignore
+      posts.push({ id, data, content })
+    }
+  })
+  posts.sort((a, b) => {
+    const title1 = slugify(a.data.title);
+    const title2 = slugify(b.data.title);
+    if (title1 < title2) {
+      return -1;
+    }
+    if (title1 > title2) {
+      return 1;
+    }
+    if (a.data.abr <= b.data.abr) {
+      return -1;
+    }
+    return 1;
+  })
+  return posts;
 }
 
 /**
@@ -85,14 +149,14 @@ export function getAllPosts() {
  * @returns {Post[]} posts da disciplina em ordem alfabética.
  */
 export function getAllPostsByDiscipline(discipline) {
-    /** @type {Post[]} */
-    const posts = []
-    getAllPosts().map(post => {
-        if (post.data.discipline == discipline) {
-            posts.push(post);
-        }
-    })
-    return posts;
+  /** @type {Post[]} */
+  const posts = []
+  getAllPosts().map(post => {
+    if (post.data.discipline == discipline) {
+      posts.push(post);
+    }
+  })
+  return posts;
 }
 
 /**
@@ -100,12 +164,12 @@ export function getAllPostsByDiscipline(discipline) {
  * @returns caminhos dos posts.
  */
 export function getAllPostsPaths() {
-    /** @type {string[]}*/
-    const paths = [];
-    getAllPosts().map((post) => {
-        paths.push(`/posts/${post.id}`);
-    });
-    return paths;
+  /** @type {string[]}*/
+  const paths = [];
+  getAllPosts().map((post) => {
+    paths.push(`/posts/${post.id}`);
+  });
+  return paths;
 }
 
 /**
@@ -114,10 +178,10 @@ export function getAllPostsPaths() {
  * @returns {Post} o post.
  */
 export function getPost(id) {
-    const post = readPostMarkdownFile(id + ".md");
-    /** @type {PostData} */
-    // @ts-ignore
-    const data = post.data;
-    const content = marked.parse(post.content).trim();
-    return { id, data, content };
+  const post = readPostMarkdownFile(id + ".md");
+  /** @type {PostData} */
+  // @ts-ignore
+  const data = post.data;
+  const content = marked.parse(post.content).trim();
+  return { id, data, content };
 }
