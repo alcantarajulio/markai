@@ -26,7 +26,7 @@ export default function NavBar() {
                 break;
         }
         document.getElementById(id).style.color = activeColor;
-    }, [])
+    }, [router.route])
     return (
         <nav className={styles.NavBar}>
             <Link id="home" href="/"><AiOutlineHome /></Link>
