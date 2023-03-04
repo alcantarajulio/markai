@@ -3,27 +3,20 @@ title: Soma da Diagonal Principal de uma Matriz
 discipline: Laboratório de Programação 1
 ---
 
+## Motivações para você dar atenção a esse assunto:
+Na cadeira de Programação 1, mais especificamente na unidade 9,  são estudadas as Matrizes.
+Existem diversas formas de representar uma matriz no Python, mas a unidade é trabalhada com a representação em lista de listas.
+
+Uma lista de listas nada mais é do que uma lista que contém outras listas como elementos.
+
 ```python
 
 # coding: utf-8
 
-# SOMAR DIAGONAL PRINCIPAL DE UMA MATRIZ
-#
-# Na cadeira de Programação 1,
-# mais especificamente na unidade 9,
-# são estudadas as Matrizes.
-# Existem diversas formas de
-# representar uma matriz no Python,
-# mas a unidade é trabalhada com a
-# representação em lista de listas.
-#
-# Uma lista de listas nada mais é do
-# que uma lista que contém outras
-# listas como elementos.
-
 matriz = [[0, 1, 2],
           [3, 4, 5],
-          [6, 7, 8]]          # A lista matriz contém três listas de tamanhos iguais.
+          [6, 7, 8]]          # A lista matriz contém três listas de tamanhos
+                              # iguais
 
 # Uma observação importante é que
 # toda matriz na unidade 9 é uma
