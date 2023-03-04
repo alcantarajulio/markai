@@ -8,11 +8,12 @@
 
 body {
     font-family: "Roboto";
+    background-color: #FAFAFA;
 }
 
 main > div {
     padding: 20px;
-    margin-bottom: 54px;
+    margin-bottom: 52px;
     max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
@@ -29,10 +30,6 @@ li {
 p,
 li {
     font-size: 16px;
-}
-
-::selection {
-    background-color: #DBF228;
 }
 
 @media (min-width: 800px) {

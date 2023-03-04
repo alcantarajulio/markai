@@ -12,6 +12,11 @@
     border-radius: 3px;
     box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
     transition: all 0.3s ease-out;
+    background-color: white;
+}
+
+.Disciplines li:hover {
+    transform: scale(1.05); 
 }
 
 .Disciplines li:last-of-type {
@@ -43,7 +48,7 @@
 }
 
 .DisciplinePeriod {
-    background-color: #052941;
+    background-color: #015C53;
     padding: 10px;
     color: white;
     border-radius: 5px;

@@ -5,6 +5,11 @@
     box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
     transition: all 0.3s ease-out;
     list-style: none;
+    background-color: white;
+}
+
+.Posts li:hover {
+    transform: scale(1.05); 
 }
 
 .Posts li:last-of-type {
