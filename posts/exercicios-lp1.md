@@ -1,6 +1,7 @@
 ---
 title: Listas de Exercícios e Provas
 discipline: Laboratório de Programação 1
+fixed: true
 ---
 ## O que é?
 

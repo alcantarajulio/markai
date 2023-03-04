@@ -1,6 +1,7 @@
 ---
 title: Listas de Exercícios e Provas
 discipline: Álgebra Linear
+fixed: true
 ---
 
 ## Listas de Exercícios

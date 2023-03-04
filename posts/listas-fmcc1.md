@@ -1,6 +1,7 @@
 ---
 title: Listas de Exercícios e Provas
 discipline: Fundamentos de Matemática para Ciência da Computação 1
+fixed: true
 ---
 ### 2018.2
 **Lista** | **Assunto** | **Links**  |

@@ -1,6 +1,7 @@
 ---
 title: Listas de Exercícios e Provas
 discipline: Lógica para Computação
+fixed: true
 ---
 
 ## Exercícios 

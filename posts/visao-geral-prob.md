@@ -32,25 +32,7 @@ A disciplina de Introdução à Probabilidade oferece uma abordagem que contempl
 - [Material do 2018.2](https://sites.google.com/site/uaestufcg1/introduo--probabilidade-2)
 - [Material do 2016.2](https://sites.google.com/site/uaestufcg1/introduo--probabilidade-1)
 
-
-## Listas de Exercícios
-
-### 2017.1
-**Lista** | **Assunto** | **Links**  |
-:---: | :---:| :---: |
-1 | 1º Estágio | [Link](https://drive.google.com/file/d/1mGzx_9xRoYjEQaL0-DZ-L4UmRq_ma4lu/view?usp=sharing) |
-
-## Provas
-
-### 2016.2
-**Prova** | **Reposição?** | **Links**  |
-:---: | :---:| :---: |
-1º estágio (Manhã) | Não | [Link](https://drive.google.com/file/d/1a0XjFjCshD2eaoYrDZMxXSsaWjhSrIt-/view?usp=sharing) |
-1º estágio (Tarde) | Não | [Link](https://drive.google.com/file/d/1Gkaf9PQCMTxB0ulUKmpCULShOQ5taXVD/view?usp=sharing) |
-1º estágio | Sim | [Link](https://drive.google.com/file/d/1opToh3V4WhJj1MWi3Uw-HHe2EM7SKcm8/view?usp=sharing) |
-
-
-Uma lista de comentários sobre as principais dificuldades enfrentadas pelos alunos enquanto cursam a disciplina.
+<br>
 
 ### Compreensão do Enunciado
 A leitura é um ponto muito importante para a resolução de questões da disciplina, pois algumas palavras são suficientes para modificar profundamente os cálculos necessários. Além disso, a identificação das variáveis envolvidas também é um ponto que faz muitos alunos se confundirem.
