@@ -18,6 +18,7 @@
 
 .PostSingle>div {
     margin: 10px 0px;
+    overflow: auto;
 }
 
 .PostSingle>div h1 {
