@@ -53,16 +53,18 @@ export function getAllPosts() {
         data.abr = abbreviation(post.data.discipline);
         const content = marked.parse(post.content).trim();
         const id = getPostId(postDir);
-        if (content != "") {
+        if (id != slugify(id)) {
+            console.error(chalk.red(`error: post is not a slug (${id}).`));
+        } else if (content == "") {
+            console.error(chalk.red(`error: post content is empty (${id}).`));
+        } else {
             // @ts-ignore
             posts.push({ id: id, data, content })
-        } else {
-            console.error(chalk.red(`error: post content is empty (${id})`));
         }
     })
     posts.sort((a, b) => {
-        const title1 = slugify(a.data.title.toLowerCase());
-        const title2 = slugify(b.data.title.toLowerCase());
+        const title1 = slugify(a.data.title);
+        const title2 = slugify(b.data.title);
         if (title1 < title2) {
             return -1;
         }

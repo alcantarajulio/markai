@@ -30,7 +30,7 @@ export function getAllDisciplines() {
                 disciplines.push({ name, photo, period })
             }
         } else {
-            console.error(chalk.red(`error: discipline not found (${postDir})`));
+            console.error(chalk.red(`error: discipline not found (${postDir}).`));
         }
     });
     disciplines.sort((a, b) => {
@@ -60,7 +60,7 @@ function getDiscipline(name) {
         }
     });
     if (photo == "" || period == 0) {
-        console.error(chalk.red(`error: photo or period not found (${name})`));
+        console.error(chalk.red(`error: photo or period not found (${name}).`));
         photo = "https://simpl.info/webp/cherry.webp"
     }
     return { name, photo, period };

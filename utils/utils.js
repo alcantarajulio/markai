@@ -16,11 +16,12 @@ export function abbreviation(disciplineName) {
 }
 
 /**
- * Remove acentos.
+ * Transforma uma string qualquer numa string slug.
  * @param {string} str - uma string qualquer.
- * @returns {string} str sem acentos.
+ * @returns {string} str com letras minúsculas, sem acentos e sem espaços.
  */
 export function slugify(str) {
+    str = str.toLowerCase()
     const map = {
         '-': ' ',
         'a': 'á|à|ã|â|ä|Ä|À|Á|Ã|Â',
