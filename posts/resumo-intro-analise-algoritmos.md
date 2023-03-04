@@ -1,5 +1,5 @@
 ---
-title: Resumo Sobre Introdução à Análise de Algoritmos
+title: Introdução à Análise de Algoritmos
 discipline: Estrutura de Dados e Algoritmos
 ---
 
