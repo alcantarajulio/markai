@@ -3,6 +3,7 @@ import path from "path";
 import * as matter from "gray-matter";
 import { marked } from "marked";
 import { slugify, abbreviation } from "@/utils/utils";
+import chalk from "chalk";
 
 const postsDir = path.join(process.cwd(), "posts");
 
@@ -52,8 +53,12 @@ export function getAllPosts() {
         data.abr = abbreviation(post.data.discipline);
         const content = marked.parse(post.content).trim();
         const id = getPostId(postDir);
-        // @ts-ignore
-        posts.push({ id: id, data, content })
+        if (content != "") {
+            // @ts-ignore
+            posts.push({ id: id, data, content })
+        } else {
+            console.error(chalk.red(`error: post content is empty (${id})`));
+        }
     })
     posts.sort((a, b) => {
         const title1 = slugify(a.data.title.toLowerCase());
