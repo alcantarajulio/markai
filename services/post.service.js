@@ -50,7 +50,7 @@ export function getAllPosts() {
         const post = readPostMarkdownFile(postDir);
         const data = post.data;
         data.abr = abbreviation(post.data.discipline);
-        const content = marked.parse(post.content);
+        const content = marked.parse(post.content).trim();
         const id = getPostId(postDir);
         // @ts-ignore
         posts.push({ id: id, data, content })
@@ -111,6 +111,6 @@ export function getPost(id) {
     /** @type {PostData} */
     // @ts-ignore
     const data = post.data;
-    const content = marked.parse(post.content);
+    const content = marked.parse(post.content).trim();
     return { id, data, content };
 }

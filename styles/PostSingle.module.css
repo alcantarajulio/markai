@@ -17,8 +17,14 @@
 }
 
 .PostSingle>div {
-    margin: 10px 0px;
+    margin: 20px 0px;
     overflow: auto;
+}
+
+.PostSingle>div img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .PostSingle>div h1 {
