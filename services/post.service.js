@@ -78,7 +78,7 @@ function isValidPostData(postData) {
  * @param {string} postDir 
  * @return {[boolean, Post]}
  */
-function isValidPost(postDir) {
+export function isValidPost(postDir) {
   try {
     if (!isValidPostDir(postDir)) {
       console.error(chalk.red(`error: invalid archive (${postDir}).`));

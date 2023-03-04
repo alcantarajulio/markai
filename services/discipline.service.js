@@ -1,7 +1,7 @@
 import chalk from "chalk";
 import path from "path";
 import fs from "fs";
-import { readPostMarkdownFile } from "./post.service";
+import { readPostMarkdownFile, isValidPost } from "./post.service";
 
 const postsDir = path.join(process.cwd(), "posts");
 const disciplinesDir = path.join(process.cwd(), "disciplines");
@@ -22,15 +22,13 @@ export function getAllDisciplines() {
     /** @type {Discipline[]} */
     const disciplines = [];
     fs.readdirSync(postsDir).map((postDir) => {
-        const post = readPostMarkdownFile(postDir);
-        if (post.data.discipline) {
+        const [valid, post] = isValidPost(postDir);
+        if (valid) {
             const { name, photo, period } = getDiscipline(post.data.discipline);
             if (!names.has(name)) {
                 names.add(name);
                 disciplines.push({ name, photo, period })
             }
-        } else {
-            console.error(chalk.red(`error: discipline not found (${postDir}).`));
         }
     });
     disciplines.sort((a, b) => {
@@ -60,7 +58,7 @@ function getDiscipline(name) {
         }
     });
     if (photo == "" || period == 0) {
-        console.error(chalk.red(`error: photo or period not found (${name}).`));
+        console.error(chalk.red(`error: "${name}" is not in disciplines.json.`));
         photo = "https://simpl.info/webp/cherry.webp"
     }
     return { name, photo, period };
