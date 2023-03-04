@@ -27,6 +27,14 @@
     margin-right: auto;
 }
 
+.PostSingle>div iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100vh;
+}
+
 .PostSingle>div h1 {
     font-size: 30px;
 }
