@@ -10,6 +10,10 @@ Tutoriais sobre os assuntos ensinados em Programação I e Laboratório de Progr
 ## O que tem?
 Para seguir a mesma ordem em que os assuntos são ensinados na disciplina, siga esse roteiro:
 
+## Como acessar?
+Ao clicar no link abaixo você será redirecionado a um arquivo .ipynb, em seguida você deve clicar em **Abrir com google Colaboratory**
+
+<br>
 
 1. <a href="https://drive.google.com/file/d/1uVQtYpJNBrdkJBKrEeOmHDBbO4uw7zZY/view?usp=sharing" target="_blank" rel="noopener noreferrer">Hello World</a>
 2. <a href="https://drive.google.com/file/d/1wNif6aEEXKoxc3Oe3OiawOQ434yh4cJF/view?usp=sharing" target="_blank">Entrada e Saída</a>
