@@ -1,6 +1,6 @@
 ---
 title: Resumo sobre lógica proposicional
-discipline: Lógica para computação 
+discipline: Lógica para Computação 
 ---
 
 **Lógica proposicional** é um sistema lógico que busca formalizar a noção de proposição e conjunto de proposições, de forma que se possa verificar se o conjunto é verdadeiro ou falso. Conceito que é usado para construir uma linguagem de programação.

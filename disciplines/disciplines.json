@@ -5,18 +5,18 @@
         "period": 2
     },
     {
-        "name":"Introdução a probabilidade",
+        "name":"Introdução à Probabilidade",
         "photo": "https://w0.peakpx.com/wallpaper/766/942/HD-wallpaper-blue-vara-ice-summer-luck-dice-white.jpg",
         "period": 4
     },
     {
-        "name":"Estrutura de Dados",
+        "name":"Estrutura de Dados e Algoritmos",
         "photo": "https://cdn.eduonix.com/assets/images/header_img/2019032806183511015.jpg",
         "period": 3
     },
     {
-        "name":"Introdução a computação",
-        "photo":"https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/81c8982faa9d4d32bd236a8988bcbcfd.jpg",
+        "name":"Introdução à Computação",
+        "photo":"https://www.didactory.com/en/wp-content/uploads/2017/03/binary-math.jpg",
         "period": 1
     },
     {
@@ -25,26 +25,26 @@
         "period": 3
     },
     {
-        "name": "Fundamentos de Matemática para Ciências da Computação 1",
+        "name": "Fundamentos de Matemática para Ciência da Computação 1",
        "photo":"https://mindmatters.ai/wp-content/uploads/sites/2/2021/03/mathematical-formulas-1597x1065.jpg",
        "period": 1
     },
     {
-        "name": "Fundamentos de Matemática para Ciências da Computação 2",
+        "name": "Fundamentos de Matemática para Ciência da Computação 2",
         "photo": "https://assets3.thrillist.com/v1/image/2316715/1200x600/scale;",
         "period": 2
     },{
-        "name": "Lógica para computação",
-        "photo": "https://iprom.si/files/2018/12/Kako-lahko-tehnologija-prepoznava-zelje-potrosnika-iPROM-Mnenja-strokovnjakov-Luka-Andrejak.png",
+        "name": "Lógica para Computação",
+        "photo": "https://cdn.catholic.com/wp-content/uploads/AdobeStock_115077353-1200x400.jpeg",
         "period": 3
     },
     {
-        "name": "Projeto de software",
+        "name": "Projeto de Software",
         "photo": "https://www.intel.com.br/content/dam/www/central-libraries/us/en/images/working-software-gettyimages-1194430802.jpg.rendition.intel.web.416.234.jpg",
         "period": 4
     },
     {
-        "name": "Cálculo diferencial e Integral 1",
+        "name": "Cálculo Diferencial e Integral 1",
         "photo": "https://toptraders.ir/fa/wp-content/uploads/2019/04/fibonacci-860x430.jpg",
         "period": 2
     },

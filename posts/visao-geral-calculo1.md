@@ -1,6 +1,6 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Cálculo diferencial e Integral 1
+discipline: Cálculo Diferencial e Integral 1
 fixed: true 
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Projeto de software
+discipline: Projeto de Software
 fixed: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Resolução de exercícios para o primeiro estágio
-discipline: Introdução a probabilidade
+discipline: Introdução à Probabilidade
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Heap Binária
-discipline: Estrutura de Dados
+discipline: Estrutura de Dados e Algoritmos
 ---
 
 ## O que é?

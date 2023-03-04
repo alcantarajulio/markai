@@ -1,6 +1,6 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Introdução a probabilidade
+discipline: Introdução à Probabilidade
 fixed: true
 ---
 

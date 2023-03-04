@@ -1,6 +1,6 @@
 ---
 title: Conceitos de Hardware
-discipline: Introdução a computação
+discipline: Introdução à Computação
 ---
  
 ## Processador

@@ -1,6 +1,6 @@
 ---
 title: Sistemas Computacionais
-discipline: Introdução a computação
+discipline: Introdução à Computação
 ---
 
 Um sistema computacional é um conjunto de componentes integrados para funcionar como um só e que tem como objetivo a realização de manipulações com dados. Eles podem ser classificados de acordo com suas características de construção, princípio de construção, âmbito e porte.

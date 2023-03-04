@@ -1,6 +1,6 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Introdução a computação
+discipline: Introdução à Computação
 fixed: true
 ---
 

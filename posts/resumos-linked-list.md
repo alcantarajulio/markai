@@ -1,6 +1,6 @@
 ---
 title: Linked List (Lista Ligada)
-discipline: Estrutura de Dados
+discipline: Estrutura de Dados e Algoritmos
 ---
 
 ## O que é?

@@ -1,6 +1,6 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Lógica para computação
+discipline: Lógica para Computação
 fixed: true
 ---
 

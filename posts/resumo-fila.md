@@ -1,6 +1,6 @@
 ---
 title: Fila
-discipline: Estrutura de Dados
+discipline: Estrutura de Dados e Algoritmos
 ---
 ## O que é?
 
