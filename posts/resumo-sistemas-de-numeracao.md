@@ -1,6 +1,6 @@
 ---
 title: Sistemas de Numeração
-discipline: Introdução a computação
+discipline: Introdução à Computação
 ---
 Conjunto de símbolos utilizados para representação de quantidades e de regras que definem a forma de apresentação. Cada sistema de numeração é apenas um método diferente para representar quantidades. 
 

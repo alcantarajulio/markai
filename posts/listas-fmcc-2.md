@@ -1,6 +1,6 @@
 ---
 title: Listas de Exercícios e Provas
-discipline: Fundamentos de Matemática para Ciências da Computação 2
+discipline: Fundamentos de Matemática para Ciência da Computação 2
 ---
 
 ## Exercícios Resolvidos

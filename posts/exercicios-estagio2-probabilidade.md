@@ -1,6 +1,6 @@
 ---
 title: Resolução de exercícios para o segundo estágio
-discipline: Introdução a probabilidade
+discipline: Introdução à Probabilidade
 ---
 
 ## Questão 1

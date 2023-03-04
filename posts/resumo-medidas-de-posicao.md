@@ -1,6 +1,6 @@
 ---
 title: Medidas de posição
-discipline: Introdução a probabilidade
+discipline: Introdução à Probabilidade
 ---
 
 Feito com base nesse [slide](https://www.dropbox.com/s/6r7iau91rvlrir8/Aula_4_Medidas_Posi%C3%A7%C3%A3o_imprimir.pdf?dl=0)

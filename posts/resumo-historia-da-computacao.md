@@ -1,6 +1,6 @@
 ---
 title: História da Computação
-discipline: Introdução a computação
+discipline: Introdução à Computação
 ---
 É importante entender o que é computação antes de tudo. A palavra "computação" vem de cálculo, contagem, e é justamente a necessidade de calcular que inicia a saga da computação, do ábaco ao smartphone.
 

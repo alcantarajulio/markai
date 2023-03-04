@@ -1,6 +1,6 @@
 ---
 title: Definição axiomática, probabilidade condicional e independência
-discipline: Introdução a probabilidade
+discipline: Introdução à Probabilidade
 ---
 
 Feito com base neste [slide](https://drive.google.com/file/d/16xZUxh5myoZMejHGkduMg2iyrn_G0qur/view) e [esse](https://drive.google.com/file/d/1-ZuWC2Ix2gmukjkP4BYoydTcuIJDDrKc/view).

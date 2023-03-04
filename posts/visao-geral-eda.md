@@ -1,6 +1,6 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Estrutura de Dados
+discipline: Estrutura de Dados e Algoritmos
 fixed: true
 ---
 

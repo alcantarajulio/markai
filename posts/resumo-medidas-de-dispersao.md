@@ -1,6 +1,6 @@
 ---
 title: Medidas de Dispersão
-discipline: Introdução a probabilidade
+discipline: Introdução à Probabilidade
 ---
 
 Feito com basse nesse [slide](https://www.dropbox.com/s/5byiyz93n9fr0gj/Aula%205_Medidas_Dispers%C3%A3o.pdf?dl=0)

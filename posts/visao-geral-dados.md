@@ -1,6 +1,6 @@
 ---
 title: Resumo de dados
-discipline: Introdução a probabilidade
+discipline: Introdução à Probabilidade
 fixed: true
 ---
 
