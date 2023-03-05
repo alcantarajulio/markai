@@ -27,7 +27,7 @@ Segue uma imagem ilustrando esse passo a passo, mais detalhado.
 
 ```java
 
-@author : João Athur 
+@author : João Athur Brunet
 
 public static void selectionSort(int[] v) {	
 	for (int i = 0; i < v.length; i++) {
@@ -48,6 +48,6 @@ public static void selectionSort(int[] v) {
 
 ## Fontes
 
-- Materias do professor João Arthur 
+- Materias do professor João Arthur Brunet
 - Estou dando os créditos (professor nao me processe!!!!)
 - Post desenvolvido por Rayane Bezerra da Silva.
