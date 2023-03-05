@@ -80,7 +80,7 @@
     border-collapse: collapse;
 }
 
-.PostSingle code {
+.PostSingle pre code {
     display: block;
     font-size: 16px;
     margin: 10px 0px;

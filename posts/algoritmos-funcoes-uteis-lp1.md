@@ -8,8 +8,6 @@ cuja utilização direta é proibida. Entretanto, é permitido ao aluno
 que implemente sua própria versão dessas funções e utilize-as. Abaixo
 você encontrará algumas dessas implementações úteis.
 
-<br>
-
 ```python
 def my_split(text, delimiter = ' '):
     """ Particiona uma string a cada ocorrência do delimitador.
