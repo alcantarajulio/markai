@@ -19,11 +19,13 @@ export default function Page({ post }) {
     return (
         <main>
             <div>
+                <span id="#top"></span>
                 <section className={styles.PostSingle}>
                     <h1>{post.data.title}</h1>
                     <h2><Link href={`../disciplinas/${post.data.disciplineSlug}`}>{post.data.discipline}</Link></h2>
                     <div dangerouslySetInnerHTML={{ __html: post.content }}></div>
                 </section>
+                <a href='#top'>Voltar ao topo</a>
                 <section className={styles.Contribute}>
                     <a target="_blank" rel="noopener noreferrer" href={`https://github.com/kenbme/markai/blob/main/posts/${post.id}.md`}>
                         <p>Quer contribuir com esta página?</p>
