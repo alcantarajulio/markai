@@ -2,6 +2,7 @@ import styles from "@/styles/PostSingle.module.css"
 import React, { useEffect } from "react";
 import { AiOutlineGithub } from "react-icons/ai";
 import hljs from "highlight.js";
+import Link from "next/link";
 
 /**
  * @typedef Props
@@ -20,7 +21,7 @@ export default function Page({ post }) {
             <div>
                 <section className={styles.PostSingle}>
                     <h1>{post.data.title}</h1>
-                    <h2>{post.data.discipline}</h2>
+                    <h2><Link href={`../disciplinas/${post.data.disciplineSlug}`}>{post.data.discipline}</Link></h2>
                     <div dangerouslySetInnerHTML={{ __html: post.content }}></div>
                 </section>
                 <section className={styles.Contribute}>

@@ -9,11 +9,14 @@
 }
 
 .PostSingle>h2 {
-    color: #015C53;
     margin-top: 10px;
     text-align: center;
     font-size: 24px;
     text-decoration: overline;
+}
+
+.PostSingle a {
+    color: #015C53;
 }
 
 .PostSingle>div {

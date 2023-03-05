@@ -13,6 +13,7 @@ const postsDir = path.join(process.cwd(), "posts");
  * @property {string} discipline
  * @property {boolean|undefined} fixed
  * @property {string} abr
+ * @property {string} disciplineSlug
  */
 
 /**
@@ -182,6 +183,7 @@ export function getPost(id) {
   /** @type {PostData} */
   // @ts-ignore
   const data = post.data;
+  post.data.disciplineSlug = slugify(post.data.discipline);
   const content = marked.parse(post.content).trim();
   return { id, data, content };
 }
