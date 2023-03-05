@@ -40,3 +40,7 @@ Aqui nós temos alguns exemplos de código:
 - [Hello World em python](/posts/algoritmos-hello-world-lp1)
 - [Veja aqui como funcionam os loops for e while](/posts/algoritmos-loops-lp1)
 - [Como somar a diagonal principal de uma matriz](/posts/algoritmos-soma-diagonal-lp1)
+
+## Questões do beecrowd
+Clique <a href="https://github.com/EduardaFarias/beecrowd-markai" target="_blank">aqui </a>, e você será redirecionado para um repositório no Github que contém questões resolvidas do beecrowd. Caso você queira contribuir com questões no beecrowd, fique a vontade para subir seus códigos também nesse repositório.
+ 
