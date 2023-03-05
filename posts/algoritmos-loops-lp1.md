@@ -25,10 +25,8 @@ instrumentos = ["Guitarra", "Bateria", "Saxofone"]
 # imprimindo todos os seus elementos.
 for instrumento in instrumentos:
     print (instrumento)                           # Imprime Guitarra
-                                                # Imprime Bateria
-                                                # Imprime Saxofone
-
-
+                                                  # Imprime Bateria
+                                                  # Imprime Saxofone
 ```
 
 Outro uso bastante comum é iterar pelos índices de uma lista usando as funções auxiliares : range() e len().
@@ -38,45 +36,33 @@ Gera uma sequência de números inteiros
 A função range é nativa do python e é utilizada quando há a necessidade de se gerar uma sequência de números. Por padrão, a sequência começa do 0 e
 vai até o número anterior ao passado como parâmetro (stop), incrementando
 de 1 em 1.
+```python
+x = range(start, stop, step)
 
-Está função possui como parâmetros:
+# Parâmetros
+start: int | optional  # Número inteiro que especifica a posição inicial
+stop: int # Número inteiro que especifica a posição final
+step: int | optional # Número inteiro que especifica o pulo ou incremento
 
-start : int, optional
-
-    Número inteiro que especifica a posição inicial
-
-stop : int
-
-    Número inteiro que especifica a posição final
-
-step : int, optional
-    
-    Número inteiro que especifica o pulo ou incremento
-
-Essa função possui como retorno:
-
-numbers : list
-
-    Lista contendo a sequência de números
+# Retorno
+numbers: list # Lista contendo a sequência de números
+```
 
 ### A função len()
 Retorna o comprimento de um objeto
 
 A função len é nativa do python e é utilizada quando há a necessidade de retornar o comprimento de um objeto. No caso do objeto ser uma string, é retornado a quantidade de caracteres que a string possui. No caso de uma coleção, é retornado a quantidade de elementos que contém.
+```python
+x = len(obj)
 
-Essa função possui como parâmetros:
+# Parâmetro
+object: sequence | collection # Objeto que se quer saber o comprimento, geralmente arrays ou listas
 
-object : sequence | collection
-    Objeto que se quer saber o comprimento, geralmente arrays ou listas
-
-Essa função possui como retorno:
-
-length : int
-    Comprimento do objeto dado como parâmetro
-
+# Retorno
+length: int # Comprimento do objeto dado como parâmetro
+```
 ### Exemplo 2:
 ```python
-
 instrumentos = ["Guitarra", "Bateria", "Saxofone"]
 
 for indice in range(len(instrumentos)):
@@ -110,8 +96,8 @@ contador é impresso (bloco).
 contador = 0
 while contador < 5:
     print (contador)                             # Imprime 0 1 2 3 4
-    contador = contador + 1                     # Adiciona 1 ao contador a cada
-                                                # iteração
+    contador = contador + 1                      # Adiciona 1 ao contador a cada
+                                                 # iteração
 ```
 
 <br>

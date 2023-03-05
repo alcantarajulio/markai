@@ -81,7 +81,10 @@
 }
 
 .PostSingle code {
+    display: block;
     font-size: 16px;
+    margin: 10px 0px;
+    scrollbar-width: 0;
 }
 
 .Contribute a {
