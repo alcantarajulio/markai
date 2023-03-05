@@ -1,0 +1,17 @@
+.Maintainers {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.Maintainers>div {
+    margin-bottom: 20px;
+}
+
+.Maintainers>div:last-of-type {
+    margin-bottom: 0px;
+}
+
+.Maintainers img {
+    border-radius: 3px;
+    max-width: 300px;
+}
