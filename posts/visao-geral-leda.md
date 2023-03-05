@@ -95,3 +95,8 @@ Então no controle, basicamente vai ter 4 notas. Uma correspondente as médias d
 2. <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.dcc.ufmg.br%2Falgoritmos-java%2F&sa=D&sntz=1&usg=AOvVaw3UMooGROltQnX9rZJAUsDI" target="_blank" > ZIVIANI, N. Projeto de Algoritmos, com implementações em Java e C++. Editora Thompson, 1a edição, 2006 </a>
 3. <a href="http://www.google.com/url?q=http%3A%2F%2Fusers.cis.fiu.edu%2F%257Eweiss%2F%23dsaajava2&sa=D&sntz=1&usg=AOvVaw2aieIeTuGL4JeLJUXnEB96" target="_blank" > WEISS, M. A. Data Structures and Algorithm Analysis in Java.SecondEdition.Addison-Wesley. 2007. </a>
 4. <a href="http://www.google.com/url?q=http%3A%2F%2Fww0.java4.datastructures.net%2F&sa=D&sntz=1&usg=AOvVaw0VwuSrve1J5h8fil9Y3zL_" target="_blank"> GOODRICH M. T. e TAMASSIA R. Estrutura de Dados e Algoritmos em Java . Bookman , 4a edição, 2006 </a>
+
+## Fontes
+
+- Site oficial da Disciplina de leda.
+- Materias do professor João Arthur.
