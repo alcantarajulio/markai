@@ -4,7 +4,7 @@ discipline: Fundamentos de Matemática para Ciência da Computação 1
 fixed: true
 ---
 ### 2018.2
-**Lista** | **Assunto** | **Links**  |
+**Lista** | **Assunto** | **Link**  |
 :---: | :---:| :---: |
 1 | Lógica Proposicional | [Link](https://drive.google.com/open?id=18uwayMm1ZCSdi3v_wb9qWQgsX9vCOlNx) |
 2 | Lógica de Predicados | [Link](https://drive.google.com/open?id=1PwuV3Z4Mp4fYWBgXC_cdEumQ9J1R-AfQ) |
@@ -24,7 +24,7 @@ fixed: true
 ### 2020.3 (RAE)
 
 
-**Lista** | **Assunto** | **Links**  |
+**Lista** | **Assunto** | **Link**  |
 :---: | :---:| :---: |
 1 | Lógica Proposicional | [Link](https://drive.google.com/file/d/1iBZ9hPe9SbDe0vm4FUazQ1gIHWk5pQ6Q) |
 2 | Lógica de Predicados | [Link](https://drive.google.com/file/d/1duWOd6wt3cujkNJrn4r7VhHl2NspqbaM) |

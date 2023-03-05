@@ -12,7 +12,7 @@ fixed: true
 ## Listas de Exercícios
 
 ### 2018.2
-**Lista** | **Assunto** | **Links**  |
+**Lista** | **Assunto** | **Link**  |
 :---: | :---:| :---: |
 0 | Elixir 2018.2 | [Link](https://drive.google.com/file/d/1xJq5lyk69aQ9U_xgovPCmv1ExO1kFpKv/view?usp=sharing) |
 1 | Técnicas de Demonstração | [Link](https://drive.google.com/file/d/1cXnp0pdC_HHjX5LwVY9L264nU65JZMej/view?usp=sharing) |
@@ -26,7 +26,7 @@ fixed: true
 9 | Matrizes | [Link](https://drive.google.com/file/d/1S5n4ckAtVb81Wn2RUMqWrcviRvxw76Uw/view?usp=sharing) |
 
 ### 2019.1
-**Lista** | **Assunto** | **Links**  |
+**Lista** | **Assunto** | **Link**  |
 :---: | :---: | :---: |
 1 | Técnicas de Demonstração | [Link](https://drive.google.com/open?id=1uTextIbt29_MytqIRwuXxNsrm8FHR--w) |
 2 | Indução e Recursividade | [Link]() |
@@ -39,7 +39,7 @@ fixed: true
 9 | Matrizes | [Link](https://drive.google.com/open?id=1abXUOgOHQdX8a2DrU6Qkh8ZXegAydJ0x) |
 
 ### 2020.1
-**Lista** | **Assunto** | **Links**  |
+**Lista** | **Assunto** | **Link**  |
 :---: | :---: | :---: |
 1 | Técnicas de Demonstração | [Link](https://drive.google.com/file/d/1GZsfdvxMpdEP5fbpQ80psqVFo_dbmL49/view) |
 2 | Indução | [Link](https://drive.google.com/file/d/1PSl4jgIdeTpJgvBZtUJIxwMFzgcm2sWH/view) |

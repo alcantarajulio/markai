@@ -82,7 +82,7 @@ O Java como um todo é uma linguagem densa e com muitos conceitos, portanto, nã
 
 ## Outros
 
-Título | Descrição | Links
+Título | Descrição | Link
 ------ | --------- | ----
 **Aula de JUnit** | Aula de introdução a testes de unidade com JUnit do período 2018.2. | [Link](https://goo.gl/xUgW8C)
 **Aula de Git** | Aula de introdução ao versionamento com Git do período 2018.2. | [Link](https://goo.gl/oTyz3M)

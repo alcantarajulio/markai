@@ -7,7 +7,7 @@ fixed: true
 ## Provas
 
 ### 2020.2e
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 1º estágio - Tarde | Não | [Link](https://drive.google.com/file/d/1_IUuwWspXrg4SnFk3hdGw6pfqb8CSMxY/view?usp=sharing) |
 2º estágio - Tarde | Não | [Link](https://drive.google.com/file/d/1OxIDDHqTK8QUOtLEAkbg7-IZfa71UNNo/view?usp=sharing) |
@@ -15,7 +15,7 @@ fixed: true
 2º estágio - Tarde | Sim | [Link](https://drive.google.com/file/d/1NneHrkHpnPf5HnKnSfcwwknyVjBkC3Bc/view?usp=sharing) |
 
 ### 2020.1e
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 1º estágio - Tarde | Não | [Link](https://drive.google.com/file/d/1w5HOptx3vmwvOHxaqY6gh6xOKGJE63o3/view?usp=sharing) |
 2º estágio - Tarde | Não | [Link](https://drive.google.com/file/d/1JhM6XlMcYgVdV3fswiQS61lEj6h69IdW/view?usp=sharing) |
@@ -25,7 +25,7 @@ fixed: true
 
 
 ### 2018.2
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 1º estágio - Manhã | Não | [Link](https://drive.google.com/open?id=1NiVh-zt6JuH24lGvSMw_dFkyK0wCmr0I) |
 1º estágio - Tarde | Não | [Link](https://drive.google.com/open?id=1T4yuyQgLmiaU5rASXbhuxthml7A3_gSJ) |
@@ -40,13 +40,13 @@ fixed: true
 3º estágio - Manhã | Sim | [Link](https://drive.google.com/open?id=1GnEguOvDQ22jvSFlNkrT5Of8GcjC1f9l) |
 3º estágio - Tarde | Sim | [Link](https://drive.google.com/open?id=1ARlecDaDEfxFNYhDkvK8C-mHEjpqJ_9W) |
 ### 2017.2
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 2º estágio - Tarde| Sim | [Link](https://drive.google.com/file/d/1sq4dZUcmQZny7ZHyO-H9l2Fp60FrrOF-) |
 3º estágio - Tarde| Não | [Link](https://drive.google.com/open?id=1tXJikiVM85zRx8nSUY634ixUmGDAHwaB) |
 Final - Tarde | - | [Link](https://drive.google.com/open?id=1Ah2Fk7nEF-993tanSMu9JJBndKTd5mCR) |
 ### 2017.1
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 3º estágio | Não | [Link](https://drive.google.com/open?id=1LVqcSX1h8Hny_jMncuf0ag45kL-hAjvL) |
 3º estágio - Tarde | Som | [Link](https://drive.google.com/open?id=1wAEa1zivQw1sauT9e3BTVrrnmQr_rcFd) |

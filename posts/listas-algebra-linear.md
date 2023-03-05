@@ -7,13 +7,13 @@ fixed: true
 ## Listas de Exercícios
 
 ### 2019.1
-**Lista** | **Assunto** | **Links**  |
+**Lista** | **Assunto** | **Link**  |
 :---: | :---:| :---: |
 2 | Espaços Vetoriais | [Link](https://drive.google.com/open?id=1oA6-1_JVObauZyw7b8fNfzis7DvfZ3jU) |
 3 | Transformações Lineares | [Link](https://drive.google.com/open?id=10WvB50Y_U0X4zDUczofdFrWcVKphq5yP) |
 
 ### 2020.2
-**Lista** | **Assunto** | **Links** |
+**Lista** | **Assunto** | **Link** |
 :---: | :---: | :---: |
 6 | Polinômio Característico | [Link](https://www.ime.unicamp.br/~marcia/AlgebraLinear/Arquivos%20PDF/exemplos_polinomio.pdf)
 7 | Diagonalização de Operadores Lineares | [Link](https://www.ime.unicamp.br/~marcia/AlgebraLinear/Arquivos%20PDF/exemplos_diagonalizacao.pdf)
@@ -21,7 +21,7 @@ fixed: true
 ## Provas
 
 ### 2019.2
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 1° estágio - Manhã | Não | [Link](https://drive.google.com/open?id=1V4SKswum3Wwd-ZsTZjXPxj5ld3dGHkns) |
 1° estágio - Manhã | Sim | [Link](https://drive.google.com/open?id=1MjQtAf5WpzAXMqbTrIvDCVlXpOjB7Zod) |
@@ -37,7 +37,7 @@ fixed: true
 3º estágio - Tarde | Sim | [Link](https://drive.google.com/open?id=1WiGQ1MEvYaPo81C8AW_Fsj9WZXTZIWb2) |
 
 ### 2019.1
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 1º estágio - Manhã | Não | [Link](https://drive.google.com/open?id=1l0Zo88ZlfLRhoLInbcEBYSq9Avw1dWtm) |
 1º estágio - Manhã | Sim | [Link](https://drive.google.com/open?id=1lf7HBpuBoRL925tOU0R01MXTlTe19yOk) |
@@ -53,29 +53,29 @@ fixed: true
 3º estágio - Tarde | Sim | [Link](https://drive.google.com/open?id=1aY93znpNDm_57lppuA1-CQJ-qqAHmoTA) |
 
 ### 2018.2
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 1º estágio - Tarde | Não | [Link](https://drive.google.com/open?id=1XeLvrptUPM2oEM8SvfMo2HKUXnRRKjyw) |
 
 ### 2018.1
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 2º estágio - Manhã| Não | [Link](https://drive.google.com/open?id=1fCNA_vSNVK7_1BDeZw9ScThN92JpR1Zp) |
 
 ### 2017.2
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 2º estágio - Manhã| Não | [Link](https://drive.google.com/open?id=1uZH0fQ-nrlg4resGqZi3tKYExnWqLkWq) |
 2º estágio - Tarde| Não | [Link](https://drive.google.com/open?id=1P0soFbgnsbdY69fj_zpaT6AFn2pzGsBr) |
 
 ### 2017.1
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 1º estágio - Manhã | Não |[Link](https://drive.google.com/open?id=18kgKzodv_bZ45fNoB-qbeqfH3M0V6QXb) |
 1º estágio - Tarde | Não | [Link](https://drive.google.com/file/d/1ILjolq9h_PsdtOXpBBZcEHaIvHc9nqsb/view) |
 
 ### 2016.2
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 1º estágio - Manhã | Não |[Link](https://drive.google.com/open?id=16xZBngtOCnwslz3JFjGXNPrYu93iOV2w) |
 1º estágio - Tarde | Não | [Link](https://drive.google.com/open?id=1iu_uC6FtCQ-3LZZkeJQw3KebdQ3rNszO) |
@@ -83,7 +83,7 @@ fixed: true
 2º estágio - Tarde | Não | [Link](https://drive.google.com/file/d/1KzhnU93G1g3AjQ87HHlDX1x9uQKPS-FN/view) |
 
 ### 2016.1
-**Prova** | **Reposição?** | **Links**  |
+**Prova** | **Reposição** | **Link**  |
 :---: | :---:| :---: |
 1º estágio - Manhã | Não |[Link](https://drive.google.com/open?id=16Wk_PPocsvcUCsDEHsjv6TaylchMy2oK) |
 1º estágio - Tarde | Não | [Link](https://drive.google.com/open?id=1JceEFwiEGVe8L110eAYs3PqocuzYpy2R) |
