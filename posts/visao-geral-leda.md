@@ -45,7 +45,7 @@ Investigar e exercitar formas de armazenamento de dados em programas de computad
 
 ## Avaliações 
 
-A avaliaçao é baseada em diferentes tipos de exercícios: 
+A avaliação é baseada em diferentes tipos de exercícios: 
 
 <br>
 25 % da nota corresponde aos roteiros, que são: 
