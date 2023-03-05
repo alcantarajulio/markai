@@ -15,7 +15,7 @@
     text-decoration: overline;
 }
 
-.PostSingle a {
+.PostSingle >h2 > a {
     color: #015C53;
 }
 
