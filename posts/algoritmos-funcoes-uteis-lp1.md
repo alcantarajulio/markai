@@ -11,8 +11,6 @@ você encontrará algumas dessas implementações úteis.
 <br>
 
 ```python
-
-
 def my_split(text, delimiter = ' '):
     """ Particiona uma string a cada ocorrência do delimitador.
 
