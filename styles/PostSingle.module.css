@@ -58,12 +58,26 @@
 
 .PostSingle table {
     border: 1px solid black;
+    border-collapse: collapse;
+    background-color: white;
+    font-weight: normal;
+}
+
+.PostSingle table strong {
+    font-weight: normal;
+}
+
+.PostSingle th {
+    background-color: #015C53;
+    color: white;
+    font-weight: normal;
 }
 
 .PostSingle td,
 .PostSingle th {
-    padding: 5px;
-    border: 1px solid black
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
 }
 
 .Contribute a {
