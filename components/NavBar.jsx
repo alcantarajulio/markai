@@ -25,7 +25,9 @@ export default function NavBar() {
                 id = "posts";
                 break;
         }
-        document.getElementById(id).style.color = activeColor;
+        if (id != "") {
+            document.getElementById(id).style.color = activeColor;
+        }
     }, [router.route])
     return (
         <nav className={styles.NavBar}>
