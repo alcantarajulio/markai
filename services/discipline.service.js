@@ -2,12 +2,14 @@ import chalk from "chalk";
 import path from "path";
 import fs from "fs";
 import { isValidPost } from "./post.service";
+import { slugify } from "@/utils/utils";
 
 const postsDir = path.join(process.cwd(), "posts");
 const disciplinesDir = path.join(process.cwd(), "disciplines");
 
 /**
  * @typedef Discipline
+ * @property {string} slug
  * @property {string} name
  * @property {string} photo
  * @property {number} period
@@ -27,7 +29,8 @@ export function getAllDisciplines() {
             const { name, photo, period } = getDiscipline(post.data.discipline);
             if (!names.has(name)) {
                 names.add(name);
-                disciplines.push({ name, photo, period })
+                const slug = slugify(name);
+                disciplines.push({ slug, name, photo, period })
             }
         }
     });
@@ -61,7 +64,8 @@ function getDiscipline(name) {
         console.error(chalk.red(`error: "${name}" is not in disciplines.json.`));
         photo = "https://simpl.info/webp/cherry.webp"
     }
-    return { name, photo, period };
+    const slug = slugify(name);
+    return { slug, name, photo, period };
 }
 
 /**
@@ -71,7 +75,7 @@ function getDiscipline(name) {
 export function getAllDisciplinesPaths() {
     return getAllDisciplines().map(
         (discipline) => {
-            return `/disciplinas/${discipline.name}`
+            return `/disciplinas/${discipline.slug}`
         }
     )
 }

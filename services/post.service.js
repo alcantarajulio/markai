@@ -145,14 +145,14 @@ export function getAllPosts() {
 
 /**
  * Pega todos os posts de uma disciplina.
- * @param {string} discipline - nome da disciplina. 
+ * @param {string} discipline - slug da disciplina. 
  * @returns {Post[]} posts da disciplina em ordem alfabética.
  */
 export function getAllPostsByDiscipline(discipline) {
   /** @type {Post[]} */
   const posts = []
   getAllPosts().map(post => {
-    if (post.data.discipline == discipline) {
+    if (slugify(post.data.discipline) == discipline) {
       posts.push(post);
     }
   })

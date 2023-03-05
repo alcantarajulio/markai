@@ -12,8 +12,8 @@ export default function Disciplines({ disciplines }) {
                 <section>
                     <ul className={styles.Disciplines}>
                         {disciplines.map((discipline) =>
-                            <li key={discipline.name}>
-                                <Link href={`disciplinas/${discipline.name}`}>
+                            <li key={discipline.slug}>
+                                <Link href={`disciplinas/${discipline.slug}`}>
                                     <img src={discipline.photo} alt="Imagem da disciplina" />
                                     <div className={styles.DisciplineBody}>
                                         <p>{discipline.name}</p>
