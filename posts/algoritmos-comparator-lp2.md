@@ -3,9 +3,9 @@ title: Comparator
 discipline: Laboratório de Programação 2
 ---
 
-## Comparetor 
+## Comparator 
 
-UMA Comparator é uma função de comparação, que fornece uma ordenação para coleções de objetos que não possuem uma ordenação natural. O implementador desta classe precisa substituir o método abstrato compare() definido em java. util. Comparator , que compara seus dois argumentos para ordem.
+Comparator é uma função de comparação, que fornece uma ordenação para coleções de objetos que não possuem uma ordenação natural. O implementador desta classe precisa substituir o método abstrato compare() definido em java. util. Comparator , que compara seus dois argumentos para ordem.
 
 ## Classes
 

@@ -49,7 +49,6 @@ Bem, agora, mãos a massa! Abra seu editor de texto e cole e execute o código d
 ### Exemplo:
 
 ```python
-
 value = int(input("Insira um número: "))
 
 if (value > 1):
