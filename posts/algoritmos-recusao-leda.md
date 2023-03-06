@@ -8,7 +8,10 @@ discipline: Laboratório de Estrutura de Dados e Algoritmos
 A recursividade é nada mais nada menos do que uma função dentro da outra e ela deve ser pensada como uma pilha (estrutura de dados onde o ultimo a entrar, deve ser o primeiro a sair).
 <br><br>
 Recursividade é o mecanismo de programação no qual uma definição de função ou de outro objeto refere-se ao próprio objeto sendo definido. Assim função recursiva é uma função que é definida em termos de si mesma. Recursividade é o mecanismo básico para repetições nas linguagens funcionais.
+<br><br>
+O ponto chave da recursão é a função auto se chamar, até chegar na condição de parada, que seria o nosso caso base. Veja como isso se aplicaria na pratica observando o código da função fatorial. 
 
+<br><br>
 Pense na pilha como uma torre de Hanoi. 
 <br><br>
 
@@ -23,6 +26,36 @@ Por exemplo, o disco roxo foi o primeiro a ser inserido, porém será o último 
 A imagem abaixo ilustra o passo a passo da implementação do algoritmo recusivo do fatorial. 
 <br><br>
 <img src = "http://www.linhadecodigo.com.br/artigos/img_artigos/Ricardo_Alves/Java_Recursividade/image002.jpg">
+
+## Algoritmo do Fatorial recusivo em Java
+
+```java 
+ackage material.recursao;
+
+public class Fatorial {
+  public static void main(String[] args) {
+    Fatorial r = new Fatorial();
+    int resp = r.fatorial(3);
+    System.out.println(resp);
+  }
+    
+  /**
+   * Calcula o valor do fatorial para um número qualquer positivo.
+   * 
+   * @param x - valor que será calculado o fatorial.
+   * @return O valor do fatorial.
+   */
+  public int fatorial(int x) {
+    // Se x for igual a 0 (zero) então retorna 1.
+    if (x == 0)
+      return 1;
+        
+    /* Para qualquer outro número, calcula o seu valor multiplicado
+       pelo fatorial de seu antecessor. */
+    return x * fatorial(x - 1);
+  }
+}
+```
 
 ## Fontes 
 
