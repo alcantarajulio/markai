@@ -43,27 +43,28 @@ As 10 unidades consistem em:
 
 ## Dicas
 
-- A cada semana, resolva as questões do TST da sua unidade atual e da posterior a ela. As questões do TST são muito semelhantes às das provas.
+- A cada semana, resolva as questões do worker da sua unidade atual e da posterior a ela. As questões do TST são muito semelhantes às das provas.
 
 - Às vezes, tentar entender a questão no papel ao invés de ir diretamente escrever o código pode economizar tempo e facilitar a compreensão.
 
-- Além das questões do TST, existem as do [URI](https://www.urionlinejudge.com.br/judge/pt/login), um site onde mais de 200 questões para iniciantes podem ser encontradas, elas irão reforçar seu aprendizado e melhorar sua interpretação de problemas. Porém, é importante que as questões do TST sejão seu foco.
+- Além das questões do TST, existem as do [beecrowd](https://www.beecrowd.com.br/judge/en/login), um site onde mais de 200 questões para iniciantes podem ser encontradas, elas irão reforçar seu aprendizado e melhorar sua interpretação de problemas. Porém, é importante que as questões do TST sejam seu foco.
 
-- Preste sempre atenção no tempo durante os minitestes práticos, nem sempre vale a pena abrir mesmo que em uma unidade facil uma nova questão e arriscar perder alguns pontos por não dar tempo.
+- Preste sempre atenção no tempo durante os minitestes práticos, nem sempre vale a pena abrir mesmo que em uma unidade fácil uma nova questão e arriscar perder alguns pontos por não dar tempo.
 
 - Sempre procure outras formas de aprender fora da sala de aula, procure alguma coisa que goste de fazer, um projeto, como um jogo, uma página web de um conteúdo algo que gosta, todo contato com a lógica de programar é bom.
 
 ## Ferramentas
 
 - [Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
+- [Replit](https://replit.com/languages/python3)
 
 ## Exercícios
-
+- [Site Da Disciplina](https://p1ufcg.github.io/22.1/)
 - [Exercism](https://exercism.io/)
 - [Coding Bat](https://codingbat.com/python)
 - [Codewars](https://www.codewars.com/)
 - [Coding Game](https://www.codingame.com/)
-- [Beecrownd](https://www.beecrowd.com.br/judge/en/login)
+- [Beecrowd](https://www.beecrowd.com.br/judge/en/login)
 - [Dirlididi](http://dirlididi.com/client/index.html#)
 
 ## Fontes 
