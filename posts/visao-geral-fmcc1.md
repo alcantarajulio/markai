@@ -40,17 +40,25 @@ Em Fundamentos de Matemática para Ciência da Computação I, você será inici
 
 - [Slides de Eanes (2018.2)](https://drive.google.com/drive/u/4/folders/1I9TWrpyJXX_Lxyg_BEYw3UkevKdOWAer)
 
-## Material de APoio
+- [Lógica Booleana](https://drive.google.com/file/d/1ZYXoG2azIqMFtYz_cgsA7wo96836PYMe/view?usp=sharing) 
+- [Playlist no Youtube de Matemática Discreta](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx)   
+### Fundamentos da Matemática Elementar
+**Lista** | **Assunto** | **Links**  |
+:---: | :---:| :---: |
+1 | Conjuntos e Funções| [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-1-Conjuntos-e-Funcoes.pdf) |
+2 | Logaritmos | [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-2-Logaritmos.pdf) |
+3 | Trigonometria | [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-3-Trigonometria.pdf) |
+4 | Sequências | [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-4-Sequencias-Matrizes-Determinantes-e-Sistemas.pdf) |
+5 | Combinatória | [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-5-Combinatoria-e-Probabilidade.pdf) |
+6 | Polinômios | [Link](https://fuvestibular.com.br/downloads/livros/Fundamentos-da-Matematica-Elementar/Fundamentos-de-Matematica-Elementar-Volume-6-Complexos-Polinomios-e-Equacoes.pdf) |
 
-[Lógica Booleana](https://drive.google.com/file/d/1ZYXoG2azIqMFtYz_cgsA7wo96836PYMe/view?usp=sharing) 
 
 
-
-### Dificuldades prévias
+## Dificuldades prévias
 
 A dificuldade no aprendizado dos conteúdos de FMCC I normalmente está relacionada a uma deficiência prévia nos conteúdos de matemática do ensino médio. Revisar alguns conceitos básicos antes do inicio da unidade auxilia bastante na redução dessa deficiência, mas não deixe de tirar dúvidas com os monitores dos conteúdos que não tiver domínio. Isso irá garantir um melhor desempenho ao longo da disciplina.
 
-### Motivação
+## Motivação
 
 Um desempenho abaixo da média nas primeiras provas pode desmotivar o aluno e criar um efeito bola de neve, mas não se deixe desanimar, alguns assuntos mais fáceis vão surgir posteriormente e serão úteis para recuperar  a nota.
 
