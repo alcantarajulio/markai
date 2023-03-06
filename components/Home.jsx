@@ -13,17 +13,17 @@ export default function Home() {
                 <section className={styles.Maintainers}>
                     <h1>Principais contribuidores</h1>
                     <div>
-                        <img src="https://avatars.githubusercontent.com/u/99031023?v=4" />
+                        <img src="https://avatars.githubusercontent.com/u/99031023?v=4" alt="Foto de @kenbme" />
                         <h3>Kenned Barbosa <a href="https://github.com/kenbme">@kenbme</a></h3>
                         <p>Desenvolvedor Principal e Idealizador</p>
                     </div>
                     <div>
-                        <img src="https://avatars.githubusercontent.com/u/97049617?v=4" />
+                        <img src="https://avatars.githubusercontent.com/u/97049617?v=4" alt="Foto de @EduardaFarias"/>
                         <h3>Eduarda Farias <a href="https://github.com/EduardaFarias">@EduardaFarias</a></h3>
                         <p>Curadoria de Conteúdo</p>
                     </div>
                     <div>
-                        <img src="https://avatars.githubusercontent.com/u/110859172?v=4" />
+                        <img src="https://avatars.githubusercontent.com/u/110859172?v=4" alt="Foto de @rayaneBSilva"/>
                         <h3>Rayane Bezerra <a href="https://github.com/rayaneBSilva">@rayaneBSilva</a></h3>
                         <p>Curadoria de Conteúdo</p>
                     </div>
