@@ -6,9 +6,12 @@ export default function Home() {
         <main>
             <div className={styles.Home}>
                 <section className={styles.Notices}>
-                    <h1>Markai v1</h1>
+                    <h1>Markai</h1>
+                    <p>Site para estudantes de Computação na UFCG</p>
+                    <img src="img/mai-fundo-branco.png" alt="Markai Logo" />
                 </section>
                 <section className={styles.Maintainers}>
+                    <h1>Principais contribuidores</h1>
                     <div>
                         <img src="https://avatars.githubusercontent.com/u/99031023?v=4" />
                         <h3>Kenned Barbosa <a href="https://github.com/kenbme">@kenbme</a></h3>
