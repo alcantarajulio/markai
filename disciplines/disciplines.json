@@ -6,7 +6,7 @@
     },
     {
         "name": "Introdução à Computação",
-        "photo": "https://www.didactory.com/en/wp-content/uploads/2017/03/binary-math.jpg",
+        "photo": "https://wallpapercave.com/dwp1x/wp9631399.jpg",
         "period": 1
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "name": "Programação 2",
-        "photo": "https://deviniciative.files.wordpress.com/2019/08/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.3x2.jpg",
+        "photo": "https://wallpapercave.com/uwp/uwp3434646.png",
         "period": 2
     },
     {
@@ -50,8 +50,13 @@
         "period": 3
     },
     {
+        "name": "Laboratório de Estrutura de Dados e Algoritmos",
+        "photo": "http://www.mycslab.in/wp-content/uploads/2020/01/1214005f6e5f8cf0b48bc88f70dc3e7a-rimg-w2560-h1440-gmir-1024x576.jpg",
+        "period": 3
+    },
+    {
         "name": "Lógica para Computação",
-        "photo": "https://cdn.catholic.com/wp-content/uploads/AdobeStock_115077353-1200x400.jpeg",
+        "photo": "https://wallpapercave.com/dwp1x/wp11758094.jpg",
         "period": 3
     },
     {
@@ -78,10 +83,5 @@
         "name": "Introdução à Probabilidade",
         "photo": "https://w0.peakpx.com/wallpaper/766/942/HD-wallpaper-blue-vara-ice-summer-luck-dice-white.jpg",
         "period": 4
-    }, 
-    {
-        "name": "Laboratório de Estrutura de Dados e Algoritmos",
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXopiKWH1hWMGmwPRYqV-IUZEmdPB3C8XTw&usqp=CAU",
-        "period": 3
     }
 ]
