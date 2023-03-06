@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Maven
-discipline: Laboratório de Estrutura de Dados 
+discipline: Laboratório de Estrutura de Dados e Algoritmos 
 ---
 
 ## Introdução ao Maven 
@@ -17,7 +17,10 @@ Tutorial de como instalar o Maven: <a href="https://cookie-account-de1.notion.si
 
 Provavelmente você terá que instalar o Maven todas as vezes que for enviar prova ou roteiro pelos computadores dos laboratórios, o seu pessoal só instalando uma unica vez já serve. 
 
-## Fontes 
+### Fontes 
 
-- Wikipedia 
-- Post desenvolvido por Rayane Bezerra da Silva 
+1. <a href= "https://pt.wikipedia.org/wiki/Apache_Maven" target="_blank"> Wikipédia</a>
+
+### Autores do Post
+
+- Rayane Bezerra da Silva 

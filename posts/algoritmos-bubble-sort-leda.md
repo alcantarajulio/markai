@@ -1,6 +1,6 @@
 ---
 title: Bubble Sort 
-discipline: Laboratório de Estrutura de Dados
+discipline: Laboratório de Estrutura de Dados e Algoritmos
 ---
 
 ## Bubble Sort 
@@ -41,5 +41,5 @@ array de retorno;
 ```
 ## Fontes
 
-- Blog betrybe.com/tecnologia
+1. <a href="https://blog.betrybe.com/tecnologia/bubble-sort-tudo-sobre/" target= "_blank" > Blog Betrybe
 - Post desenvolvido por Rayane Bezerra da Silva 

@@ -1,6 +1,6 @@
 ---
 title: Insertion Sort
-discipline: Laboratório de Estrutura de Dados
+discipline: Laboratório de Estrutura de Dados e Algoritmos 
 ---
 
 ## Insertion Sort 

@@ -1,6 +1,6 @@
 ---
 title: Selection Sort
-discipline: Laboratório de Estrutura de Dados
+discipline: Laboratório de Estrutura de Dados e Algoritmos 
 ---
 
 ## Selection Sort 
