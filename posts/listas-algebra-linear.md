@@ -91,3 +91,10 @@ fixed: true
 2º estágio - Tarde | Não | [Link](https://drive.google.com/open?id=1ztmdVCj7jAeYIh94l0edcccsTZosnXJV) |
 2º estágio - Tarde | Sim | [Link](https://drive.google.com/file/d/1W4t3FCSelWFFYQHBQWhkG5hPHjAUIIkO/view) |
 
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

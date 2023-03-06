@@ -73,5 +73,11 @@ Dizemos que eventos aleatórios A, B e C são( coletivamente) independentes se, 
 - P(B ∩ C) = P(B) x P(C), se apenas essas condições forem atendidas, são independentes ***aos pares***.
 - P(A ∩ B ∩ C) = P(B) x P(B) x P(C).
 
+## Fontes 
 
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias
 

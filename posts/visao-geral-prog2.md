@@ -87,3 +87,11 @@ Título | Descrição | Link
 **Aula de JUnit** | Aula de introdução a testes de unidade com JUnit do período 2018.2. | [Link](https://goo.gl/xUgW8C)
 **Aula de Git** | Aula de introdução ao versionamento com Git do período 2018.2. | [Link](https://goo.gl/oTyz3M)
 **Aula de EasyAccept** | Página de [@hericlesme](https://github.com/hericlesme) sobre o EasyAccept. | [Link](https://goo.gl/vSMJbH)
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

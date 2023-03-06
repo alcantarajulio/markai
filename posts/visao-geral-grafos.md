@@ -152,3 +152,11 @@ Dificuldades de cada ferramenta que a disciplina faz uso:
 
 - [Neo4J e a linguagem Cypher](https://neo4j.com/sandbox/)
    - Embora Neo4J e Cypher sejam ótimas ferramentas, possuem certa dificuldade de utilização, por causa da escassez de materiais disponíveis na internet. Recomenda-se então que você siga o material da disciplina com o auxílio de algumas informações no site do Neo4J e procure informações com os monitores, caso precisar. 
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

@@ -262,3 +262,12 @@ onde a primeira parte da igualdade representa a sequência natural de uma árvor
 </p>
 
 **v)** Como demonstramos a veracidade da afirmação inicial para *k = a + 1*, concluímos o passo 3, e provamos por indução a integridade desta mesma.
+
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

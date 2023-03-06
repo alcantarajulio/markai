@@ -66,3 +66,10 @@ Considere que o nó inicial é a raiz
 2. Percorre a subárvore direita em pós-ordem
 3. Visita a raiz
 
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

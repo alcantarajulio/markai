@@ -52,3 +52,11 @@ Portanto, Introdução à Computação é a disciplina que vai te dar uma noçã
 
 ### Circuitos Lógicos
 Aprender como funcionam os circuitos lógicos e como simplificar suas expressões são, provavelmente, as maiores dificuldades na disciplina. Utilizar alguns programas para montar exemplos e verificar sinais com LEDs pode ser de grande ajuda no aprendizado. Já para a parte de simplificação, o segredo é praticar bastante.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

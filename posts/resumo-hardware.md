@@ -116,3 +116,10 @@ discipline: Introdução à Computação
    - Full-Duplex:
    O transmissor também pode assumir o papel de receptor, mas as transferências podem ser feitas simultaneamente
   
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

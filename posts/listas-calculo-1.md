@@ -113,3 +113,11 @@ Final | - | [Link](https://drive.google.com/file/d/14jwZPNXwNgNyh0rtMxNNBq7YRYel
 3º estágio (II) | Sim | [Link](https://drive.google.com/open?id=1MZflGfeQ7A9CRayGE9vy-okMxXLln5le) |
 Final (I) | - | [Link](https://drive.google.com/open?id=1iOylk7yekZkS2ttU9Rdv09tUJr9ss9H9) |
 Final (II) | - | [Link](https://drive.google.com/open?id=1uiHwNmNfMNIxKAdy5LltM1tnGoypwPCo) |
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

@@ -11,3 +11,11 @@ O teorema de Rouché-Capelli em um determinado sistema nos diz que:
 
 Lembrando que o posto de uma matriz são as linhas não nulas.
 Você deve usar as operações elementares antes de usar o teorema porque alguma(s) das linhas da matriz pode ser combinação linear das outras linhas não nulas.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

@@ -65,3 +65,11 @@ As 10 unidades consistem em:
 - [Coding Game](https://www.codingame.com/)
 - [Beecrownd](https://www.beecrowd.com.br/judge/en/login)
 - [Dirlididi](http://dirlididi.com/client/index.html#)
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

@@ -220,3 +220,11 @@ Uma companhia de seguros analisou a frequência com que 2000 segurados usaram o 
     </p>
     
   - Portanto, dizemos que há uma **associação forte** entre as variáveis.
+
+  ## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

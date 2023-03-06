@@ -18,3 +18,11 @@ discipline: Estrutura de Dados e Algoritmos
 - `head()`: Acessar elemento da cabeça da fila, realizado em **O(1)**. 
 - `isEmpty()`: Verificar se a fila está vazia, realizado em **O(1)**.
 - `isFull()`: Verificar se a fila está cheia, realizado em **O(1)**.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

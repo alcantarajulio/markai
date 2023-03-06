@@ -30,3 +30,11 @@ Em Programação 2, você aprenderá os principais conceitos da programação or
 ## Dificuldades Comuns
 
 Algumas pessoas podem ter dificuldades em entender como funcionam as chamadas da função em outra função na programação Orientada a Objetos, e além disso, a questão de testes também é cobrada na disciplina e pode trazer alguma dificuldade, mas com  treino e procurando conteúdo sobre, você verá que não é tão ruim assim fazer testes.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Rayane Bezerra da Silva 

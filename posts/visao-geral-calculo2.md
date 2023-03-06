@@ -83,3 +83,10 @@ Além do assunto ser um pouco mais complicado que cálculo 1, caso o aluno não 
 ### Quantidade de Conteúdo
 A grande quantidade de assuntos, fórmulas e regras gerais (para derivadas, integrais e séries, principalmente) podem acabar acumulando e causando o efeito de "bola de neve". É essencial fazer muitos exercícios de cada assunto. Se possível, após a própria aula em que o conteúdo foi abordado. É melhor não deixar para estudar em cima da hora para as provas.
 
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

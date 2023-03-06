@@ -43,3 +43,10 @@ for linha in range(linhas):
 print (soma_diagonal_principal)                       # Imprime a soma total da diagonal principal: 0 + 4 + 8 = 12
 
 ```
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

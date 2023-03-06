@@ -44,3 +44,10 @@ Aqui nós temos alguns exemplos de código:
 ## Questões do beecrowd
 Clique <a href="https://github.com/EduardaFarias/beecrowd-markai" target="_blank">aqui </a>, e você será redirecionado para um repositório no Github que contém questões resolvidas do beecrowd. Caso você queira contribuir com questões no beecrowd, fique a vontade para subir seus códigos também nesse repositório.
  
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

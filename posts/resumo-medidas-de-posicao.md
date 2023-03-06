@@ -16,3 +16,11 @@ A soma de todos os valores de X dividido pela quantidade de dados.
 ## Mediana
 
 Detonada por **md**, é o dado que ocupa posição central na série de observações, tendo estes ordenados.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

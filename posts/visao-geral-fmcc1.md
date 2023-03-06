@@ -53,3 +53,11 @@ A dificuldade no aprendizado dos conteúdos de FMCC I normalmente está relacion
 ### Motivação
 
 Um desempenho abaixo da média nas primeiras provas pode desmotivar o aluno e criar um efeito bola de neve, mas não se deixe desanimar, alguns assuntos mais fáceis vão surgir posteriormente e serão úteis para recuperar  a nota.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

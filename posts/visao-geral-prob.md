@@ -39,3 +39,11 @@ A leitura é um ponto muito importante para a resolução de questões da discip
 
 ### Integral
 Em alguns assuntos da disciplina você irá se deparar com o cálculo de integrais, uma revisão do assunto de Cálculo I pode ser necessária.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

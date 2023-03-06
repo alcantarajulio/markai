@@ -111,3 +111,10 @@ O maior desafio agora era substituir as partes mecânicas do computador por part
 
 A partir daí, entramos na história recente da computação. Os smartphones, os notebooks, os diversos sistemas operacionais que foram criados adiante nasceram junto com toda nossa geração e continuam evoluindo até hoje. O futuro nos promete inteligências artificiais avançadas, realidade aumentada, e até mesmo computadores quânticos capazes de processar 0s e 1s ao mesmo tempo. O importante no estudo da história da computação não é focar nas datas, e sim nos principais acontecimentos que tornaram possível que a computação se transformasse no que é hoje.
 
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

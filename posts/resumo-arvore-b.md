@@ -30,3 +30,11 @@ Sendo uma árvore de *ordem **m***:
 3. Se estiver cheio, faz o split do nó
 4. No split se escolhe o elemento da mediana dos elementos, criando um novo nó a esquerda com os elementos que estavam atrás da mediana, e um nó a direita com os elementos a frente. A mediana é inserida no pai
 5. Se causou lotação no pai, repete o processo
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

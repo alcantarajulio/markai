@@ -84,3 +84,11 @@ A dificuldade no aprendizado dos conteúdos de Cálculo I normalmente está rela
 
 ### Motivação
 Um desempenho abaixo da média na primeira prova pode afetar bastante a motivação de alguns alunos da disciplina e criar um efeito bola de neve. Não se deixe desanimar! O 2º estágio é particularmente útil para recuperar nota.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

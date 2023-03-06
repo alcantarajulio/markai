@@ -41,5 +41,8 @@ array de retorno;
 ```
 ## Fontes
 
-1. <a href="https://blog.betrybe.com/tecnologia/bubble-sort-tudo-sobre/" target= "_blank" > Blog Betrybe
+1. <a href="https://blog.betrybe.com/tecnologia/bubble-sort-tudo-sobre/" target= "_blank" > Blog Betrybe </a>
+
+## Autor
+
 - Post desenvolvido por Rayane Bezerra da Silva 

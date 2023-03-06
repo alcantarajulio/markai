@@ -80,3 +80,11 @@ Ac ∩ Bc | Ac U Bc
 
 - **Se  Ω for um espaço finito e equiprovável**
 P(A) = número de casos favoráveis a A / número de casos possíveis = #A / # Ω, sendo #, a cardinalidade do evento.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

@@ -67,3 +67,11 @@ Lab 07 | Não | [Link](https://docs.google.com/document/d/e/2PACX-1vQr1u6oM_Bms7
 1º simulado | Não | [Link](https://docs.google.com/document/d/e/2PACX-1vTlLIvbFZljlcKtELtD7COKBn8S13Eoa2D06on4SfpA1mvyDzOsS7ynhMY8DvpLYRsUx5mWxwxh5c-Q/pub) |
 2º estágio | Não | [Link](https://docs.google.com/document/d/e/2PACX-1vSowexvMOgxE93kIVwWHwhX1UxgqTpsQ41WKaOKjLp78o86jHPx6DgwhV4m0PL_vZl79-o77jATV2Yg/pub) |
 2º estágio | Sim | [Link](https://docs.google.com/document/d/e/2PACX-1vRDsuO7P7AyaEOj7ivsXgJYdnjFYShXlUp2o2HWK_4opYpOp3USRz_nlAeiyadQCbcJSDBKubTeikud/pub) |
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

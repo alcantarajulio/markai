@@ -128,7 +128,7 @@ Em uma indústria, a experiência indica que há uma probabilidade de 90% de um 
 </p>
 
 <p align="center"> 
-  <img src="https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%5Csmall%20P%28N_%7Bc%7D%7CC%29%20%3D%200.421">
+  <img src="https://latex.codecogs.com/gif.latex?[label](http://localhost:3000/posts)%5Cfn_cm%20%5Csmall%20P%28N_%7Bc%7D%7CC%29%20%3D%200.421">
 </p>
 
 ## Questão 4
@@ -368,3 +368,10 @@ Um fabricante afirma que apenas 5% de todas as válvulas que produz têm duraç�
   <img src="https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%5Csmall%20P%28x%20%5Cgeq%202%29%20%3D%200.086">
 </p>
   
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

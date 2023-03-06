@@ -178,3 +178,11 @@ values = [3, 7, 7, 5, 4, 6, 2, 1]
 print (my_max(values))
 print (my_min(values))
 ```
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

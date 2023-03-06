@@ -18,3 +18,11 @@ discipline: Estrutura de Dados e Algoritmos
     - Número de nós *pretos* encontrados em um caminho que leva de um nó a outro
     - Não conta os nós NIL(folhas)
     - Black-height da raíz é a Black-height da árvore
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

@@ -98,5 +98,9 @@ Então no controle, basicamente vai ter 4 notas. Uma correspondente as médias d
 
 ## Fontes
 
-- Site oficial da Disciplina de leda.
-- Materias do professor João Arthur.
+1. <a href="https://sites.google.com/a/computacao.ufcg.edu.br/ledaufcg/home-1" target="_blank"> Laboratório de Estrutura de Dados e Algoritmos(LEDA)</a>
+
+## Autor 
+
+Post desenvolvido por Rayane Bezerra da Silva 
+

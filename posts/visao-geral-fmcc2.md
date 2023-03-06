@@ -48,3 +48,11 @@ O primeiro estágio é o que tem mais assuntos a serem estudados, ou seja, é im
 ## Motivação
 
 Assim como em cálculo, uma nota abaixo da média no primeiro estágio é um grande fator de desistência da cadeira. Não se deixe abalar por conta disso, é totalmente possível se recuperar no segundo estágio.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

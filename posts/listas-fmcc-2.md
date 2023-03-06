@@ -45,3 +45,11 @@ fixed: true
 2 | Indução | [Link](https://drive.google.com/file/d/1PSl4jgIdeTpJgvBZtUJIxwMFzgcm2sWH/view) |
 3 | Recursividade e Relações de Recorrência | [Link](https://drive.google.com/file/d/1oK6cGDA0pzEKTwmWXY0UQrghu4xToOJV/view) |
 4 | Congruências e Aritmética Modular| [Link](https://drive.google.com/file/d/1sLuioaRHx3q_u2-Fnhq5LRmZBJcfgmLn/view) |
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por rayane Bezerra da Silva 

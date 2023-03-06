@@ -52,3 +52,10 @@ Final - Tarde | - | [Link](https://drive.google.com/open?id=1Ah2Fk7nEF-993tanSMu
 3º estágio - Tarde | Som | [Link](https://drive.google.com/open?id=1wAEa1zivQw1sauT9e3BTVrrnmQr_rcFd) |
 Final | - | [Link](https://drive.google.com/open?id=1bE17azD4RjRfFOzO4HNSm1f9rFtTnu76) |
 
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

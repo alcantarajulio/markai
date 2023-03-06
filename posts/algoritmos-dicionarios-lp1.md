@@ -74,3 +74,11 @@ professor_prog3 = professores.get('prog3', 'Raquel')
 
 print (professor_prog3)                           # Imprime Raquel
 ```
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

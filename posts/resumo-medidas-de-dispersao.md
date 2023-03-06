@@ -47,3 +47,11 @@ O **desvio padrão** de *x*, *dp(x)*, é definido como:
   - Um critério de decisão sobre a representividade ou não da média, pode ser dada pela seguinte linha de corte:
     - Se ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cfn_cm%20%5Csmall%20Cv%28x%29%5Cgeq%200.5) , a média **não** é representativa;
     - Se ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cfn_cm%20%5Csmall%20Cv%28x%29%3C%200.5) , a média é representativa.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

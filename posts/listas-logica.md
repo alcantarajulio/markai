@@ -25,3 +25,11 @@ fixed: true
 3 | Solvers | [Link](https://drive.google.com/open?id=1bACt4XTUeYEh8nVRBKz6re2xPA1C0Tfg) |
 4 | Lógica de Predicados | [Link](https://drive.google.com/open?id=14bUn7xzZOL0fUBUsVq1tCCHvx5i9KG-_) |
 5 | Verificação de Programas | [Link](https://drive.google.com/open?id=1HD4axCKktxMPkuWdgZ1n_TN68pFG4RIA) |
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

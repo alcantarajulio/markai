@@ -29,3 +29,10 @@ fixed: true
 1 | Lógica Proposicional | [Link](https://drive.google.com/file/d/1iBZ9hPe9SbDe0vm4FUazQ1gIHWk5pQ6Q) |
 2 | Lógica de Predicados | [Link](https://drive.google.com/file/d/1duWOd6wt3cujkNJrn4r7VhHl2NspqbaM) |
 
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

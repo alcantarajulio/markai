@@ -58,3 +58,11 @@ A lógica é a base da eletrônica digital e da informática. Ela surgiu na Gré
 0 | 1 | 0 |
 1 | 0 | 0 |
 1 | 1 | 1 |
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

@@ -127,3 +127,12 @@ while True:
     contador = contador + 1                     # Adiciona 1 ao contador a cada iteração
 ```
 Por fim, algo legal nos laços é que em muitos casos é possível utilizar as duas formas 'while' e 'for', embora existam situações em que um é mais conveniente que o outro para resolver o problema.
+
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

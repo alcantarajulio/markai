@@ -48,3 +48,11 @@ Alguns conteúdos de Álgebra Linear são um tanto abstratos, uma vez que os esp
 
 ### Acumular dúvidas
 Os conteúdos de Álgebra Linear são extremamentes dependentes uns dos outros, conforme a disciplina vai avançando. Assim, o não entendimento de um conteúdo, pode se tornar um grande problema no futuro da disciplina, e mesmo uma bola de neve de não aprendizado. Dessa forma, procure sempre tirar todas as suas dúvidas e entender ao máximo cada assunto.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

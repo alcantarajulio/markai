@@ -44,7 +44,7 @@ A lista abaixo exemplifica bem como você pode planejar e executar seus testes:
 
 Para uma melhor compreensão de como o JUnit funciona é importante que entenda como suas classes estão organizadas dentro da API do framework 
 
-<center><img src ="https://www.devmedia.com.br/imagens/javamagazine/mpjuiiujfig05.jpg"></center>
+<img src ="https://www.devmedia.com.br/imagens/javamagazine/mpjuiiujfig05.jpg">
 
 ## Classes
 
@@ -340,3 +340,12 @@ public class PetShopTest {
 
 }
 ```
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+2. <a href="https://pt.wikipedia.org/wiki/JUnit" target="_blank" > Wikipedía</a>
+
+## Autor 
+
+Post desenvolvido por Rayane Bezerra da Silva 

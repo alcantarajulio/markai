@@ -77,3 +77,11 @@ Do que é formado:
 2. Um formato para apresentar as provas e demonstrações
 
 [Aqui](https://galdino.catalao.ufg.br/up/635/o/deducaonatural.pdf) tem explicando sobre isso de maneira resumida e mostrando as regras, com exemplos.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

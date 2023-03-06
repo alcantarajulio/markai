@@ -86,3 +86,11 @@ Adequado para representar dados em classes.
 #### Construção
 
 Este  gráfico  é  uma  adaptaçãodo  gráfico  de  colunas:  as  bases  das  colunas  correspondemaos  intervalos  de  classes  e  as  alturas  são  proporcionais  àsfrequências  absolutas  (***ni***),  relativas  (***fi***)  ou  densidades  defrequências  (***ni/∆i*** ou ***fi/∆i***)  de  cada  classe.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias

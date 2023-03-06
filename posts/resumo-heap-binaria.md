@@ -36,3 +36,11 @@ Pode verificar isso na imagem acima, pegando por exemplo **4** que está na posi
 
 ## Aplicações
 - Priority Queue: Heap é usada para implementar uma fila que possui uma certa ordem de prioridade e ordenação, sendo usada para a classe Java **PriorityQueue**
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias 

@@ -63,3 +63,11 @@ Enquanto a maioria dos assuntos de EDA tem sua compreensão auxiliada pelas ferr
 
 ### Testes dos Roteiros
 Uma vez que os roteiros de LEDA são fornecidos sem um conjunto de testes públicos, não é incomum que os alunos se surpreendam com resultados abaixo do esperado devido à ausência das validações necessárias em seus códigos. Aprender a "esperar o inesperado" é um fator importante para a disciplina e você não deve se preocupar apenas com o "caminho feliz" ao resolver esses roteiros, especialmente durante o primeiro estágio. Além das recomendações presentes na documentação dos métodos, procure pensar sobre as formas com que um usuário leigo poderia quebrar sua implementação (arrays vazios, parâmetros sem sentido, números negativos, etc) e torne seu código capaz de lidar com elas.
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Eduarda Farias
