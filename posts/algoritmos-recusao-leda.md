@@ -1,9 +1,9 @@
 --- 
-title: Recusão
+title: Recursão
 discipline: Laboratório de Estrutura de Dados e Algoritmos 
 ---
 
-## Recusão
+## Recursão
 
 A recursividade é nada mais nada menos do que uma função dentro da outra e ela deve ser pensada como uma pilha (estrutura de dados onde o ultimo a entrar, deve ser o primeiro a sair).
 <br><br>
