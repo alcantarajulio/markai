@@ -173,6 +173,11 @@
         "name": "Sistemas Distribuidos",
         "photo": "https://miro.medium.com/max/1200/1*RLkqXyIaOw9YENnQD4rt4A.jpeg",
         "period": 10
+    },
+    {
+        "name": "Visão Computacional",
+        "photo": "https://3dot14.com.br/wp-content/uploads/2022/01/sistemas-de-recomendacao-3dot14.png",
+        "period": 10
     }
 ]
 
