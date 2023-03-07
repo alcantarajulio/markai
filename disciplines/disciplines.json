@@ -128,5 +128,10 @@
         "name": "Engenharia de Software",
         "photo": "https://eximia.co/wp-content/uploads/2022/08/img-engenharia-software.jpg",
         "period": 5
+    },
+    {
+        "name": "Programação Concorrente",
+        "photo": "https://i.pinimg.com/736x/dd/aa/5c/ddaa5cfecbdf7848df97e544b042a75a--technology-background-moodboard.jpg",
+        "period": 6
     }
 ]
