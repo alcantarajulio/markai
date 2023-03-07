@@ -98,5 +98,10 @@
         "name": "Organização e Arquitetura de Computadores",
         "photo": "https://engenharia360.com/wp-content/uploads/2017/04/MIT_circuitos_02_blog-da-engenharia.jpg",
         "period": 4
+    },
+    {
+        "name": "Redes de Computadores",
+        "photo": "https://inputec.com.br/wp-content/uploads/2019/12/Inputec-Tipos-De-Redes-Internet-Computadores-Tecnologia-Da-Informa%C3%A7%C3%A3o-960x675.jpg",
+        "period": 5
     }
 ]
