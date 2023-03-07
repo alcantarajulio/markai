@@ -158,5 +158,10 @@
         "name": "Desenvolvimento Web",
         "photo": "https://www.swdagencia.com.br/painel/arquivos/20210908114754post.png",
         "period": 10
+    },
+    {
+        "name": "Recuperação da Informação e Busca na Web",
+        "photo": "https://miro.medium.com/max/960/1*xnuLdrMa_5afuQYjguPKNw.jpeg",
+        "period": 10
     }
 ]
