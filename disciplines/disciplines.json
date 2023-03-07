@@ -163,5 +163,10 @@
         "name": "Recuperação da Informação e Busca na Web",
         "photo": "https://miro.medium.com/max/960/1*xnuLdrMa_5afuQYjguPKNw.jpeg",
         "period": 10
+    },
+    {
+        "name": "Segurança de Sistemas",
+        "photo": "https://i0.wp.com/iclinic-mkt.s3.amazonaws.com/ghost-images/images/2019/06/seguranca%20e-privacidade-em-um-sistema-medico.jpg?resize=1200,900",
+        "period": 10
     }
 ]
