@@ -148,5 +148,10 @@
         "name": "Análise e Técnicas de Algoritmos",
         "photo": "https://noomis-files-hmg.s3.amazonaws.com/content/2217ef90-040e-11ec-b450-1f3eb104287f.jpeg",
         "period": 7
+    },
+    {
+        "name": "Algoritmos Avançados",
+        "photo": "https://www.revistaferramental.com.br/admin/images/noticias/algoritmo-400-vezes-mais-rapido.jpg",
+        "period": 10
     }
 ]
