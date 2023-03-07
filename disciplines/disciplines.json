@@ -83,5 +83,20 @@
         "name": "Introdução à Probabilidade",
         "photo": "https://w0.peakpx.com/wallpaper/766/942/HD-wallpaper-blue-vara-ice-summer-luck-dice-white.jpg",
         "period": 4
+    },
+    {
+        "name": "Banco de Dados",
+        "photo": "https://www.hti.com.br/images/tuning-em-banco-de-dados.jpg",
+        "period": 4
+    },
+    {
+        "name": "Laboratório de Organização e Arquitetura de Computadores",
+        "photo": "https://st.depositphotos.com/1092937/2593/i/450/depositphotos_25932761-stock-photo-circuit-board.jpg",
+        "period": 4
+    },
+    {
+        "name": "Organização e Arquitetura de Computadores",
+        "photo": "https://engenharia360.com/wp-content/uploads/2017/04/MIT_circuitos_02_blog-da-engenharia.jpg",
+        "period": 4
     }
 ]
