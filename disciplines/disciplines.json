@@ -143,5 +143,10 @@
         "name": "Copiladores",
         "photo": "https://imagens.tiespecialistas.com.br/2014/02/shutterstock_162179408-Converted-1280x720.png",
         "period": 7
+    },
+    {
+        "name": "Análise e Técnicas de Algoritmos",
+        "photo": "https://noomis-files-hmg.s3.amazonaws.com/content/2217ef90-040e-11ec-b450-1f3eb104287f.jpeg",
+        "period": 7
     }
 ]
