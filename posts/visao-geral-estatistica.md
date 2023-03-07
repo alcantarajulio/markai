@@ -31,3 +31,12 @@ Uma lista de links que irão auxiliá-lo no estudo da disciplina.
 
 - [Resumo do 1º estágio](https://drive.google.com/file/d/174_Nf6nns4d1KDPUpcVW-AxLwdv09y8-/view?usp=sharing)
 - [Resumo do 2º estágio](https://drive.google.com/file/d/1aGpOAX_dbNja_prRbYXWE5A1mNlkOzEL/view?usp=sharing)
+
+## Fontes 
+
+1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+## Autor 
+
+Post desenvolvido por Rayane Bezerra da Silva
+

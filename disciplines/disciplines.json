@@ -108,5 +108,15 @@
         "name": "Estatística",
         "photo": "http://sites.unoeste.br/blog-unoeste/wp-content/uploads/2019/12/03-Estat%C3%ADstica-1024x709.jpg",
         "period": 5
+    },
+    {
+        "name": "Sistemas Operacionais",
+        "photo": "https://pt-static.z-dn.net/files/d1d/0ca170d1a3375d24cf244288353707c6.jpg",
+        "period": 5
+    },
+    {
+        "name": "Teoria da Computação",
+        "photo": "https://www.inteli.edu.br/wp-content/uploads/2022/08/24113818/cie-comp.jpg",
+        "period": 5
     }
 ]
