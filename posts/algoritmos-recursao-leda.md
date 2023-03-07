@@ -21,7 +21,7 @@ Pense na pilha como uma torre de Hanoi.
 Por exemplo, o disco roxo foi o primeiro a ser inserido, porém será o último a sair. 
 
 
-## Entendendo recusão 
+## Entendendo recursão 
 
 A imagem abaixo ilustra o passo a passo da implementação do algoritmo recusivo do fatorial. 
 <br><br>
