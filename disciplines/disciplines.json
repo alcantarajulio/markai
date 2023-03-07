@@ -153,5 +153,10 @@
         "name": "Algoritmos Avançados",
         "photo": "https://www.revistaferramental.com.br/admin/images/noticias/algoritmo-400-vezes-mais-rapido.jpg",
         "period": 10
+    },
+    {
+        "name": "Desenvolvimento Web",
+        "photo": "https://www.swdagencia.com.br/painel/arquivos/20210908114754post.png",
+        "period": 10
     }
 ]
