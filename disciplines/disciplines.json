@@ -198,6 +198,11 @@
         "name": "TECC Percepção Computacional",
         "photo": "https://neofeed.com.br/wp-content/uploads/2021/10/Computacional-696x392.jpg",
         "period": 10
+    },
+    {
+        "name": "TECC Ciência de Dados Preditivas",
+        "photo": "https://blog.arbit.com.br/wp-content/uploads/2019/01/262823-o-guia-completo-sobre-data-science-tudo-o-que-voce-precisa-saber.jpg",
+        "period": 10
     }
 ]
 
