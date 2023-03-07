@@ -1,6 +1,6 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Análise de Sistemas
+discipline: Copiladores
 fixed: true
 ---
 
