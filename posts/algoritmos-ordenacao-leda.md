@@ -13,8 +13,8 @@ Um algoritmo de comparação é um tipo de algoritmo de ordenação que lê apen
 1. <a href="http://localhost:3000/posts/algoritmos-bubble-sort-leda" target="_Blank" > Bubble Sort</a>
 2. <a href = "http://localhost:3000/posts/algoritmos-selection-sort-leda" target="_blank" >Selection Sort</a>
 3. <a href="http://localhost:3000/posts/algoritmos-insertion-sort-leda" target="_blank"> Insertion Sort </a> 
-- Merge Sort 
-- Quick Sort 
+4. <a href="http://localhost:3000/posts/algoritmos-merge-sort-leda" target="_blank" >Merge Sort</a>
+5. <a href="http://localhost:3000/posts/algoritmos-quick-sort-leda" target="_blank"> Quick Sort </a>
 - Radix Sort
 - Counting Sort 
 
