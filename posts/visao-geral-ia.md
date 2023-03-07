@@ -15,9 +15,10 @@ fixed: true
 - Ação.
 - Aplicações.
 
-# Visão Geral
+## Visão Geral
 
 Base teórica para Inteligência Artificial. 
+<br><br>
 - 19 quizzes, as duas piores notas são descartadas.
 - 2 mini provas teóricas.
 - 2 mini projetos:
