@@ -155,7 +155,7 @@
         "period": 10
     },
     {
-        "name": "Desenvolvimento Web",
+        "name": "TECC Programação para Web",
         "photo": "https://www.swdagencia.com.br/painel/arquivos/20210908114754post.png",
         "period": 10
     },
@@ -208,7 +208,13 @@
         "name": "TECC Jogos Digitais",
         "photo": "https://cdn2.hubspot.net/hubfs/3960387/faculdade%20de%20jogos%20digitais.jpg",
         "period": 10
+    },
+    {
+        "name": "TECC Processamento de Linguagem Natural",
+        "photo": "https://www.electricalelibrary.com/wp-content/uploads/2018/02/Natural-Language-Processing-Definition-1-destaque.jpg",
+        "period": 10
     }
+    
 ]
 
 

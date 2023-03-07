@@ -1,6 +1,6 @@
 ---
 title: Visão Geral da Disciplina
-discipline: Desenvolvimento Web
+discipline: TECC Programação para Web
 ---
 
 ## Ementa
