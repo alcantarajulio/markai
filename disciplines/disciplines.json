@@ -123,5 +123,10 @@
         "name": "Análise de Sistemas",
         "photo": "https://www.fcee.uerj.br/wp-content/uploads/2022/08/img_tads.jpg",
         "period": 5
+    },
+    {
+        "name": "Engenharia de Software",
+        "photo": "https://eximia.co/wp-content/uploads/2022/08/img-engenharia-software.jpg",
+        "period": 5
     }
 ]
