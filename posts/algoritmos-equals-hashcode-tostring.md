@@ -5,16 +5,16 @@ discipline: Laboratório de Programação 2
 
 ## Equals
 
-O método equals é utilizado para comparações. A classe String e as classes Wrapper sobrescrevem equals() para garantir que dois objetos desses tipos, 
+O método ***equals** é utilizado para comparações. A classe String e as classes Wrapper sobrescrevem equals() para garantir que dois objetos desses tipos, 
 com o mesmo conteúdo, possam ser considerados iguais.
 
 ## Hashcode
 
-Já o hashCode() é uma ferramenta da JVM – Java Virtual Machine usado para montar a tabela hash de modo correto. Em outras palavras, temos que elementos podem ser armazenados em estruturas onde a informação é referenciada por uma chave.
+Já o **hashCode()** é uma ferramenta da JVM – Java Virtual Machine usado para montar a tabela hash de modo correto. Em outras palavras, temos que elementos podem ser armazenados em estruturas onde a informação é referenciada por uma chave.
 
 ## ToString
 
-O método toString retorna uma representação string de um objeto. Na classe Object, este método está escrito de maneira a retornar o nome da classe da qual o objeto é instância, o sinal de arroba “@”, e a representação hexadecimal sem sinal do código hash do objeto.
+O método **toString** retorna uma representação string de um objeto. Na classe Object, este método está escrito de maneira a retornar o nome da classe da qual o objeto é instância, o sinal de arroba “@”, e a representação hexadecimal sem sinal do código hash do objeto.
 
 ## Classes
 

@@ -3,9 +3,9 @@ title: Condicionais
 discipline: Laboratório de Programação 1
 ---
 
-Os condicionais são estruturas responsáveis por causar desvio de fluxo a partir do valor de uma expressão lógica. Em outras palavras, é o
+As **condicionais** são estruturas responsáveis por causar desvio de fluxo a partir do valor de uma expressão lógica. Em outras palavras, é o
 valor de uma condição (verdadeira ou falsa) que determinará se um blo-
-co de código será ou não executado. Em Python, os condicionais são **if**,
+co de código será ou não executado. Em Python, as **condicionais** são **if**,
 **elif** e **else**.
 O **if** é uma estrutura condicional simples e sua sintaxe é da forma "if 
 (condição):".

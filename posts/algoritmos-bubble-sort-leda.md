@@ -5,7 +5,7 @@ discipline: Laboratório de Estrutura de Dados e Algoritmos
 
 ## Bubble Sort 
 
-Bubble Sort é um algoritmo de classificação comumente usado em ciência da computação. O Bubble Sort baseia-se na ideia de comparar repetidamente pares de elementos adjacentes e, em seguida, trocar as suas posições se existirem na ordem errada.
+<strong>Bubble Sort </strong>é um algoritmo de classificação comumente usado em ciência da computação. O <strong>Bubble Sort</strong> baseia-se na ideia de comparar repetidamente pares de elementos adjacentes e, em seguida, trocar as suas posições se existirem na ordem errada.
 <br><br>
 
 ## Algoritmo de classificação de bolhas: 
@@ -19,10 +19,10 @@ Bubble Sort é um algoritmo de classificação comumente usado em ciência da co
 <br>
 
 Abaixo está uma imagem de uma matriz que precisa ser classificada. Usaremos o algoritmo de classificação de bolhas para classificar esta matriz:
-Exemplo de funcionamento do Bubble Sort
+<br><br>
+Exemplo de funcionamento do <strong>Bubble Sort</strong>:
 
 <img src="https://lh5.googleusercontent.com/_oLwPF5ZvaZZ4pGD-HvSUSw6nTwwHjUwcLpNigUvb24-PKNwjMUwXcWYWf2wp4HopzHkh9JVmZd_AFYP4HjSYelidbw4FRo1fHrWV3KxbFM13xlRLALb-y-EbLhEmln11lhwEZPV">
-
 
 ## Algoritmo do Bubble Sort em Java
 

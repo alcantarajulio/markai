@@ -5,7 +5,7 @@ discipline: Laboratório de Programação 2
 
 ## Comparable 
 
-Comparable. Este método permite estabelecer uma ordem natural sobre objectos do tipo utilizado para parametrizar a interface. Colecções desses objectos podem então ser ordenadas utilizando métodos pré-definidos 
+<strong>Comparable</strong>, este método permite estabelecer uma ordem natural sobre objetos do tipo utilizado para parametrizar a interface. Coleções desses objetos podem então ser ordenadas utilizando métodos pré-definidos.
 
 ## Classe Filme.java 
 

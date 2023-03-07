@@ -5,25 +5,25 @@ discipline: Laboratório de Programação 2
 
 ## Junit
 
-Junit é um framework que facilita o desenvolvimento e execução de testes unitários em código Java.Ele fornece uma completa API (conjunto de classes) para construir os testes e Aplicações gráficas e em modo console para executar os testes criados.
+**Junit** é um framework que facilita o desenvolvimento e execução de testes unitários em código Java.Ele fornece uma completa API (conjunto de classes) para construir os testes e Aplicações gráficas e em modo console para executar os testes criados.
 
 <br>
 Os principais motivos que favorecem o uso desse framework são:
 <br>
 
-- Junit pode verificar se cada unidade de código funciona da forma esperada;
+- **Junit** pode verificar se cada unidade de código funciona da forma esperada;
 - Facilita a criação, execução automática de testes e a apresentação dos resultados;
 - É Orientado a Objeto;
 - É free e pode ser baixado em: www.junit.org
 
 ## Como Instalar O Junit 
 
-Para usar o JUnit em sua máquina basta ter em mente essas duas idéias:
+Para usar o **Junit** em sua máquina basta ter em mente essas duas idéias:
 
 <br> 
 
-- Caso você não tenha o JUnit instalado, faça o download do arquivo junit.jar em www.junit.org, após inclua-o no classpath para compilar e rodar os programas de teste.
-- Porém o JUnit já vem configurado nas versões recentes de IDE’s como Eclipse, NetBeans, JBuilder, BlueJ e outros.
+- Caso você não tenha o Junit instalado, faça o download do arquivo junit.jar em www.junit.org, após inclua-o no classpath para compilar e rodar os programas de teste.
+- Porém o Junit já vem configurado nas versões recentes de IDE’s como Eclipse, NetBeans, JBuilder, BlueJ e outros.
 
 ## Planejando os testes no Junit 
 

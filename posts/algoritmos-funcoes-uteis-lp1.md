@@ -3,7 +3,7 @@ title: Funções úteis na disciplina de Laboratório de Programação 1
 discipline: Laboratório de Programação 1
 ---
 
-Na disciplina de Programação 1, existem algumas funções de Python
+Na disciplina de Programação 1, existem algumas **funções** de Python
 cuja utilização direta é proibida. Entretanto, é permitido ao aluno
 que implemente sua própria versão dessas funções e utilize-as. Abaixo
 você encontrará algumas dessas implementações úteis.

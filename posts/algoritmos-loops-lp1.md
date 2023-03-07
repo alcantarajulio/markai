@@ -4,7 +4,7 @@ discipline: Laboratório de Programação 1
 ---
 
 ## Loops For
-Os laços for, ou loops for, são chamados laços definidos por sabemos quantas vezes ele irá ser rodado, esses laços definidos iteram sobre coleções, repetindo o bloco de códigs até o último item da coleção que está sendo iterada(que está sendo percorrida). A estrutura sintática dos laços é formada pelas palavras reservadas **for** e **in**, por uma variável de controle, uma coleção e pelo bloco de código a ser executado para cada item, ficando assim:
+Os laços for, ou **loops** for, são chamados laços definidos por sabemos quantas vezes ele irá ser rodado, esses laços definidos iteram sobre coleções, repetindo o bloco de códigs até o último item da coleção que está sendo iterada(que está sendo percorrida). A estrutura sintática dos laços é formada pelas palavras reservadas **for** e **in**, por uma variável de controle, uma coleção e pelo bloco de código a ser executado para cada item, ficando assim:
 ```python
 for variavel_de_controle in coleção:
     bloco_de_codigo

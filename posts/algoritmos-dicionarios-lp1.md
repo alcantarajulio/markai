@@ -5,7 +5,7 @@ discipline: Laboratório de Programação 1
 
 ## Mas o que é um dicionário?
 
-O dicionário é uma coleção que serva para mapear pares de chave-valor. A chave pode ser qualquer tipo imutável, já o valor pode ser qualquer tipo de objetos do python.
+O **dicionário** é uma coleção que serva para mapear pares de chave-valor. A chave pode ser qualquer tipo imutável, já o valor pode ser qualquer tipo de objetos do python.
 
 ### Exemplo:
 Agora, vamos lá, abra seu editor de códigos, e cole e execute o algoritmo abaixo.

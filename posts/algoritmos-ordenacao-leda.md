@@ -4,8 +4,7 @@ discipline: Laboratório de Estrutura de Dados e Algoritmos
 ---
 
 ## Algoritmos de Ordenação por Comparação
-<br>
-Um algoritmo de comparação é um tipo de algoritmo de ordenação que lê apenas os elementos da lista através de uma operação de comparação abstrata única (muitas vezes um operador "menor ou igual a"), que determina qual dos dois elementos devem ocorrer em primeiro lugar na lista final de classificação.
+Um algoritmo de **comparação** é um tipo de algoritmo de ordenação que lê apenas os elementos da lista através de uma operação de comparação abstrata única (muitas vezes um operador "menor ou igual a"), que determina qual dos dois elementos devem ocorrer em primeiro lugar na lista final de classificação.
 <br>
 
 ## Alguns dos algoritmos de comparação mais conhecidos :

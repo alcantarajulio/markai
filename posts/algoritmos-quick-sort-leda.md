@@ -5,7 +5,7 @@ discipline: Laboratório de Estrutura de Dados e Algoritmos
 
 ## Quick Sort
 
-Assim como o Merge Sort, o Quick Sort é um algoritmo que se baseia no princípio da divisão e conquista, porem ele trabalha de maneira contrária uma vez que a parte mais pesada do algoritmo acontece antes da recursão e não nela.
+Assim como o Merge Sort, o **Quick Sort** é um algoritmo que se baseia no princípio da divisão e conquista, porem ele trabalha de maneira contrária uma vez que a parte mais pesada do algoritmo acontece antes da recursão e não nela.
 <br><br>
 O algoritmo Quick Sort trabalha ordenando uma sequência qualquer de valores dividindo-a em subsequências menores, aplicando recursão para ordenar cada uma destas subsequências e por fim, concatenando-as novamente em uma sequência idêntica a original, porém, já ordenada.
 <br><br>
