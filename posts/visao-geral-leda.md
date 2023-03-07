@@ -12,7 +12,7 @@ fixed: true
 - Comparator
 - Testes Junit
 - Introdução a Recursão 
-- Busca linear Recusiva
+- Busca linear Recursiva
 - Ordenação por Comparação
 - Merge Sort
 - Quicksort
