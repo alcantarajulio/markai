@@ -15,8 +15,8 @@ Um algoritmo de comparação é um tipo de algoritmo de ordenação que lê apen
 3. <a href="http://localhost:3000/posts/algoritmos-insertion-sort-leda" target="_blank"> Insertion Sort </a> 
 4. <a href="http://localhost:3000/posts/algoritmos-merge-sort-leda" target="_blank" >Merge Sort</a>
 5. <a href="http://localhost:3000/posts/algoritmos-quick-sort-leda" target="_blank"> Quick Sort </a>
-- Radix Sort
-- Counting Sort 
+6. <a href="http://localhost:3000/posts/algoritimos-radix-sort-leda" target="_blank"> Radix Sort</a>
+7. <a href="http://localhost:3000/posts/algoritmos-counting-sort-leda" target="_blank">Counting Sort</a> 
 
 ## Tempo de Complexidade dos Algoritmos de Ordenação 
 
