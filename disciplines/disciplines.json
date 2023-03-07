@@ -218,6 +218,16 @@
         "name": "Economia de Tecnologia da Informação",
         "photo": "https://monnazzieperuchi.com.br/wp-content/uploads/2020/12/direito-da-tecnologia-advogado-araraquara.jpg",
         "period": 10
+    },
+    {
+        "name": "Computação e Música",
+        "photo": "https://img.freepik.com/free-vector/glowing-musical-pentagram-background-with-sound-notes_1017-31220.jpg",
+        "period": 10
+    },
+    {
+        "name": "Sistemas de Informações Geográficas",
+        "photo": "https://www.esri.com/content/dam/esrisites/en-us/arcgis/what-is-gis/images/history-gis-future-narrow.jpg",
+        "period": 10
     }
     
 ]
