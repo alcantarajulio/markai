@@ -103,5 +103,10 @@
         "name": "Redes de Computadores",
         "photo": "https://inputec.com.br/wp-content/uploads/2019/12/Inputec-Tipos-De-Redes-Internet-Computadores-Tecnologia-Da-Informa%C3%A7%C3%A3o-960x675.jpg",
         "period": 5
+    },
+    {
+        "name": "Estatística",
+        "photo": "http://sites.unoeste.br/blog-unoeste/wp-content/uploads/2019/12/03-Estat%C3%ADstica-1024x709.jpg",
+        "period": 5
     }
 ]
