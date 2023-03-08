@@ -46,9 +46,9 @@ As 10 unidades consistem em:
 
 - Além das questões do TST, existem as do [beecrowd](https://www.beecrowd.com.br/judge/en/login), um site onde mais de 200 questões para iniciantes podem ser encontradas, elas irão reforçar seu aprendizado e melhorar sua interpretação de problemas. Porém, é importante que as questões do TST sejão seu foco.
 
-- Preste sempre atenção no tempo durante os minitestes práticos, nem sempre vale a pena abrir mesmo que em uma unidade facil uma nova questão e arriscar perder alguns pontos por não dar tempo.
+- Preste sempre atenção no tempo durante os minitestes práticos, nem sempre vale a pena abrir uma questão, mesmo que seja de uma unidade fácil, quando o tempo está se esgotando, e arriscar perder alguns pontos por não dar tempo.
 
-- Sempre procure outras formas de aprender fora da sala de aula, procure alguma coisa que goste de fazer, um projeto, como um jogo, uma página web de um conteúdo algo que gosta, todo contato com a lógica de programar é bom.
+- Sempre procure outras formas de aprender fora da sala de aula, procure alguma coisa que goste de fazer, seja um projeto como um jogo, uma página web de um conteúdo, ou  algo que gosta, todo contato com a lógica de programar é importante. 
 
 ---
 ## Livros e Apostilas
