@@ -5,7 +5,7 @@ discipline: Laboratório de Estrutura de Dados e Algoritmos
 
 ## Recursão
 
-A **recursividade** é nada mais nada menos do que uma função dentro da outra e ela deve ser pensada como uma pilha (estrutura de dados onde o ultimo a entrar, deve ser o primeiro a sair).
+A **recursividade** é nada mais nada menos do que uma função dentro da outra e ela deve ser pensada como uma pilha (estrutura de dados onde o último a entrar, deve ser o primeiro a sair).
 <br><br>
 Recursividade é o mecanismo de programação no qual uma definição de função ou de outro objeto refere-se ao próprio objeto sendo definido. Assim função recursiva é uma função que é definida em termos de si mesma. Recursividade é o mecanismo básico para repetições nas linguagens funcionais.
 <br><br>

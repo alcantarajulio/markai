@@ -6,13 +6,13 @@ discipline: Laboratório de Estrutura de Dados e Algoritmos
 ## Counting Sort
 <strong>Counting sort</strong> é um algoritmo de ordenação estável cuja complexidade é O(n). As chaves podem tomar valores entre 0 e M-1. Se existirem k0 chaves com valor 0, então ocupam as primeiras k0 posições do vetor final: de 0 a k0-1.
 <br><br>
-A ideia básica do counting sort é determinar, para cada entrada x, o número de elementos menor que x. Essa informação pode ser usada para colocar o elemento x diretamente em sua posição no array de saída. Por exemplo, se há 17 elementos menores que x, então x pertence a posição 18. Esse esquema deve ser ligeiramente modificado quando houver vários elementos com o mesmo valor, uma vez que nós não queremos que sejam colocados na mesma posição
+A ideia básica do counting sort é determinar, para cada entrada x, o número de elementos menor que x. Essa informação pode ser usada para colocar o elemento x diretamente em sua posição no array de saída. Por exemplo, se há 17 elementos menores que x, então x pertence a posição 18. Esse esquema deve ser ligeiramente modificado quando houver vários elementos com o mesmo valor, uma vez que nós não queremos que sejam colocados na mesma posição.
 <br><br>
-Logo abaixo para melhor detatalhamento, temos uma ilustração de como seria o <strong>Couting Sort</strong>:
+Logo abaixo para melhor detalhamento, temos uma ilustração de como seria o <strong>Couting Sort</strong>:
 <br><br>
 <img src ="https://felipepriuli.files.wordpress.com/2013/01/exemplo_vetor_bs.png" widght="600" height="400">
 
-## Algoritmo do Couting sort em Java
+## Algoritmo do Couting Sort em Java
 
 ```java
 @author João Arthur Brunet 

@@ -6,9 +6,9 @@ discipline: Laboratório de Programação 1
 ## Como fazer um fatorial usando python?
 ### Fatorial iterativo:
 O código abaixo realiza 
-Abra se editor de código, cole e execute o código abaixo o cálculo do **fatorial** do número passado por parâmetro e o retorna. O fatorial de um número é dado pelo produto de todos os números positivos menores ou iguais a esse número, excetuando-se 0, cujo fatorial tem valor 1. Essa função utiliza uma abordagem iterativa para a realização do cálculo.
+Abra se editor de código, cole e execute o código abaixo do **fatorial** do número passado por parâmetro e o retorna. O fatorial de um número é dado pelo produto de todos os números positivos menores ou iguais a esse número, excetuando-se 0, cujo fatorial tem valor 1. Essa função utiliza uma abordagem iterativa para a realização do cálculo.
 Essa função possui como parâmetros:
-number: Um inteiro, que representa o número cujo o **fatorial** será calculado
+number: Um inteiro, que representa o número cujo o **fatorial** será calculado.
 
 Essa função retona um inteiro chamado *fatorial*  que representa o valor do fatorial calculado.
 
@@ -36,7 +36,7 @@ print ("O fatorial de 15 é", iterative_factorial(15))
 <br>
 
 ### Fatorial Recursivo:
-Nesse segundo exemplo nós temos um fatorial recursivo que realiza o  o cálculo do fatorial do número passado por parâmetro e o retorna. O fatorial de um número é dado pelo produto de todos os números positivos menores ou iguais a esse número, excetuando-se 0, cujo fatorial tem valor 1. Essa função utiliza uma abordagem recursiva para a realização do cálculo.
+Nesse segundo exemplo nós temos um fatorial recursivo que realiza o cálculo do fatorial do número passado por parâmetro e o retorna. O fatorial de um número é dado pelo produto de todos os números positivos menores ou iguais a esse número, excetuando-se 0, cujo fatorial tem valor 1. Essa função utiliza uma abordagem recursiva para a realização do cálculo.
 Essa função possui como parâmetros:
 number: Um inteiro que representa o número cujo fatorial será calculado
 Essa função possui como retorno:

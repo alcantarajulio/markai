@@ -10,8 +10,8 @@ discipline: Laboratório de Estrutura de Dados e Algoritmos
 Vamos a um passo a passo, pra da uma facilitada na compreensão: 
 <br><br>
 
-- Primeiro passo: Sempre consideremos o primeiro elemento do nosso array como ordenado.
-- Segundo passo: Comparamos o nosso elemento, com o seu anterior. Caso seja menor realizamos uma troca, as trocas so devem parar nos seguintes casos: nosso elemento chegou na posição zero do nosso array (então significa que já esta ordenado) ou o elemento anterior é maior que o elemento que está a ser comparado.
+- **Primeiro passo**: Sempre consideremos o primeiro elemento do nosso array como ordenado.
+- **Segundo passo**: Comparamos o nosso elemento, com o seu anterior. Caso seja menor realizamos uma troca, as trocas so devem parar nos seguintes casos: nosso elemento chegou na posição zero do nosso array (então significa que já esta ordenado) ou o elemento anterior é maior que o elemento que está a ser comparado.
 <br><br>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png">
 

@@ -7,7 +7,7 @@ a necessidade de ordenar os valores ali contidos. As funções abaixo
 implementam os algoritmos de ordenação mais comuns, sendo o Bubble
 Sort o único a ser cobrado durante a disciplina de Programação 1.
 Entretanto, na disciplina de Estrutura de Dados os outros algoritmos serão usados,
-mas geralmente feitos na linguagem Java
+mas geralmente feitos na linguagem Java.
 
 ## Bubble Sort:
 Ordena uma lista, em ordem crescente, usando o Bubble Sort.
@@ -39,7 +39,7 @@ Sort, possuindo eficiência muito semelhante. A estratégia utilizada
 para a ordenação consiste em selecionar, a cada iteração, o N-ésimo
 menor valor e inserí-lo na posição correta da lista. Desse modo, a
 lista de tamanho N estará completamente ordenada após N iterações.
-Como parâmetro a função recebe a lista que deve ser ordenada
+Como parâmetro a função recebe a lista que deve ser ordenada.
 
 <br>
 
@@ -65,7 +65,7 @@ meiro valor da lista à direita é movido para a lista à esquerda e
 inserido na posição adequada. Para que não seja necessário criar 
 novas listas, um valor-chave (key) é usado como delimitador entre
 as partições, sendo movido a cada iteração.
-Como parâmetro a função recebe uma lista a ser ordenada
+Como parâmetro a função recebe uma lista a ser ordenada.
 
 <br>
 
