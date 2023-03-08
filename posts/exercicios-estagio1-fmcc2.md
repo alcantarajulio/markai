@@ -35,43 +35,33 @@ Mostre que se *x* ou *y* forem inteiros pares, então *xy* é par.
 
 ## Questão 2 (Demonstração direta)
 Dê uma demonstração direta ao teorema *"Se um inteiro é divisível por 6, então duas vezes esse inteiro é divisível por 4"*.
-
+<br><br>
 - **i)** Como *n|6*, temos que *n = 6k*, para *k* inteiro;
 - **ii)** Atribuindo a condição do enunciado em ambos os lados da equação, temos:
-<p align="center"> 
-  <img src="https://latex.codecogs.com/gif.latex?%5Clarge%20%5Cfrac%7B2n%7D%7B4%7D%20%3D%20%5Cfrac%7B2%286k%29%7D%7B4%7D%20%3D%203k">
-</p>
+<br>
+  <img src="https://latex.codecogs.com/gif.latex?%5Clarge%20%5Cfrac%7B2n%7D%7B4%7D%20%3D%20%5Cfrac%7B2%286k%29%7D%7B4%7D%20%3D%203k" widht= "90" height="50">
 <br/>
 
 - **iii)** Por definição, a multiplicação entre inteiros resulta em um inteiro. Ou seja, existe um inteiro que multiplicado por *k* resultará em um *n*.
 
 ## Questão 3 (Demonstração por contraposição)
 Prove que o número *n* é um inteiro ímpar se, e somente se, 
-<p align="center"> 
-  <img src="https://latex.codecogs.com/gif.latex?%5Clarge%203n%20&plus;%205%20%3D%206k%20&plus;%208">
-</p>
-<br/>
+  <img src="https://latex.codecogs.com/gif.latex?%5Clarge%203n%20&plus;%205%20%3D%206k%20&plus;%208" widht="90" heigth="50">
 
 para algum inteiro *k*.
+<br><br>
 
 - **i)** Note que se trata de uma implicação bicondicional, deve-se provar ambos os lados da implicação:
   - *Se n é um inteiro ímpar. então 3n + 5 = 6k + 8 para algum inteiro k*;
   - *Se 3n + 5 = 6k + 8 para algum inteiro k, então n é um inteiro ímpar*.
 - **ii)** Podemos provar o primeiro caso por demosntração direta, substituindo *n*:
-<p align="center"> 
-  <img src="https://latex.codecogs.com/gif.latex?%5Clarge%203%282k%20&plus;%201%29%20&plus;%205%20%3D%206k%20&plus;%208">
-</p>
-<p align="center"> 
-  <img src="https://latex.codecogs.com/gif.latex?%5Clarge%206k%20&plus;%208%20%3D%206k%20&plus;%208">
-</p>
+<br><br>
+<img src="https://latex.codecogs.com/gif.latex?%5Clarge%203%282k%20&plus;%201%29%20&plus;%205%20%3D%206k%20&plus;%208" widht="90" heigth="50">
+<img src="https://latex.codecogs.com/gif.latex?%5Clarge%206k%20&plus;%208%20%3D%206k%20&plus;%208">
 
 - **iii)** Na segunda condição, temos que:
-<p align="center"> 
-  <img src="https://latex.codecogs.com/gif.latex?%5Clarge%20P%3A3n&plus;5%20%3D6k%20&plus;%208">
-</p>
-<p align="center"> 
-  <img src="https://latex.codecogs.com/gif.latex?%5Clarge%20Q%3A%20%5Ctextrm%7Bn%20eh%20impar%7D">
-</p>
+<img src="https://latex.codecogs.com/gif.latex?%5Clarge%20P%3A3n&plus;5%20%3D6k%20&plus;%208">
+<img src="https://latex.codecogs.com/gif.latex?%5Clarge%20Q%3A%20%5Ctextrm%7Bn%20eh%20impar%7D">
 
 - **iv)** Por contraposição, temos:
 <p align="center"> 

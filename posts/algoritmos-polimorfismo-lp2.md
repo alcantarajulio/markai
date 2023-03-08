@@ -2,8 +2,6 @@
 title: Polimorfismo
 discipline: Laboratório de Programação 2
 ---
-
-
 ## Polimofismo
 
 **Polimorfismo** é a característica única de linguagens orientadas a objetos que permite que diferentes objetos respondam a mesma mensagem cada um a sua maneira.

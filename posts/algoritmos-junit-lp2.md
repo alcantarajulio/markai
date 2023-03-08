@@ -43,8 +43,9 @@ A lista abaixo exemplifica bem como você pode planejar e executar seus testes:
 ## Arquitetura das classes no Junit 
 
 Para uma melhor compreensão de como o JUnit funciona é importante que entenda como suas classes estão organizadas dentro da API do framework 
-
-<img src ="https://www.devmedia.com.br/imagens/javamagazine/mpjuiiujfig05.jpg">
+<br><br>
+<img src ="https://www.devmedia.com.br/imagens/javamagazine/mpjuiiujfig05.jpg" 
+widht= "600" heoight="400">
 
 ## Classes
 

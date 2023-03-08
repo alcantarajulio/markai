@@ -19,11 +19,12 @@ Um algoritmo de **comparação** é um tipo de algoritmo de ordenação que lê 
 
 ## Tempo de Complexidade dos Algoritmos de Ordenação 
 
-- Best = Melhor 
-- Average = Médio
-- Worst = Pior
+- **Best** = Melhor 
+- **Average** = Médio
+- **Worst** = Pior
 
-<img src ="https://qph.cf2.quoracdn.net/main-qimg-463c2a83d2fbb0b581cd8904e72a0087">
+<img src ="https://qph.cf2.quoracdn.net/main-qimg-463c2a83d2fbb0b581cd8904e72a0087"
+widht="600" height="400">
 
 ## Fontes 
 

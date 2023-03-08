@@ -23,11 +23,11 @@ Por exemplo, o disco roxo foi o primeiro a ser inserido, porém será o último 
 
 ## Entendendo recursão 
 
-A imagem abaixo ilustra o passo a passo da implementação do algoritmo recusivo do fatorial. 
+A imagem abaixo ilustra o passo a passo da implementação do algoritmo recursivo do fatorial. 
 <br><br>
 <img src = "http://www.linhadecodigo.com.br/artigos/img_artigos/Ricardo_Alves/Java_Recursividade/image002.jpg">
 
-## Algoritmo do Fatorial recusivo em Java
+## Algoritmo do Fatorial recursivo em Java
 
 ```java 
 ackage material.recursao;

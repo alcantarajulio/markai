@@ -10,7 +10,7 @@ A **herança** é um mecanismo da Orientação a Objetos que permite criar novas
 Por exemplo, uma classe pode ter várias filhas, mas apenas uma mãe. É a chamada **herança** simples do java.
 
 <br><br>
-<img src ="https://www.alura.com.br/apostila-java-orientacao-objetos/assets/images/orientacaoobjetos/uml-heranca.png" >
+<img src ="https://www.alura.com.br/apostila-java-orientacao-objetos/assets/images/orientacaoobjetos/uml-heranca.png" widht="600" height="400">
 
 ## Classes
 

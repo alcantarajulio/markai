@@ -21,8 +21,7 @@ discipline: Laboratório de Estrutura de Dados e Algoritmos
 Abaixo está uma imagem de uma matriz que precisa ser classificada. Usaremos o algoritmo de classificação de bolhas para classificar esta matriz:
 <br><br>
 Exemplo de funcionamento do Bubble Sort:
-
-<img src="https://lh5.googleusercontent.com/_oLwPF5ZvaZZ4pGD-HvSUSw6nTwwHjUwcLpNigUvb24-PKNwjMUwXcWYWf2wp4HopzHkh9JVmZd_AFYP4HjSYelidbw4FRo1fHrWV3KxbFM13xlRLALb-y-EbLhEmln11lhwEZPV">
+<img src ="https://techdemic.com/wp-content/uploads/2017/08/BubbleSort.jpg" widght="600" height="400">
 
 ## Algoritmo do Bubble Sort em Java
 
@@ -44,5 +43,4 @@ array de retorno;
 1. <a href="https://blog.betrybe.com/tecnologia/bubble-sort-tudo-sobre/" target= "_blank" > Blog Betrybe </a>
 
 ## Autor
-
 - Post desenvolvido por Rayane Bezerra da Silva 

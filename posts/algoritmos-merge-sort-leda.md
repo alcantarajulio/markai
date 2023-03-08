@@ -10,7 +10,7 @@ O **merge sort**, ou ordenação por mistura, é um exemplo de algoritmo de orde
 Sua ideia básica consiste em Dividir (o problema em vários subproblemas e resolver esses subproblemas através da recursividade) e Conquistar (após todos os subproblemas terem sido resolvidos ocorre a conquista que é a união das resoluções dos subproblemas). Como o algoritmo Merge Sort usa a recursividade, há um alto consumo de memória e tempo de execução, tornando esta técnica não muito eficiente em alguns problemas. 
 <br><br>
 <br><br>
-<img src="https://static.wixstatic.com/media/e0d344_a53b1fe074f84bc2af25b7d95a00c958~mv2.png/v1/fill/w_600,h_274,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e0d344_a53b1fe074f84bc2af25b7d95a00c958~mv2.png">
+<img src="https://static.wixstatic.com/media/e0d344_a53b1fe074f84bc2af25b7d95a00c958~mv2.png/v1/fill/w_600,h_274,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e0d344_a53b1fe074f84bc2af25b7d95a00c958~mv2.png" widht="600" height="400">
 <br><br>
 Traduções para o português dos textos contidos na imagem:
 <br><br>
