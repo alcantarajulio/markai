@@ -13,6 +13,9 @@ export default function NavBar() {
     const router = useRouter()
     const activeColor = "#DBF228";
     useEffect(() => {
+        document.getElementById("home").style.color = "";
+        document.getElementById("disciplines").style.color = "";
+        document.getElementById("posts").style.color = "";
         let id = "";
         switch (router.route.split("/")[1]) {
             case "":

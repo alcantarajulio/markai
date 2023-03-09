@@ -1,4 +1,3 @@
-import NavBar from "@/components/NavBar";
 import Posts from "@/components/Posts";
 import { getAllDisciplinesPaths } from "@/services/discipline.service"
 import { getAllPostsByDiscipline } from "@/services/post.service";
@@ -15,10 +14,7 @@ import React from "react";
 export default function Page({ posts }) {
   return (
     <>
-      <div>
-        <Posts posts={posts} />
-        <NavBar />
-      </div>
+      <Posts posts={posts} />
     </>
   )
 }

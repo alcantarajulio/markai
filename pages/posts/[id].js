@@ -1,4 +1,3 @@
-import NavBar from "@/components/NavBar";
 import { getAllPostsPaths, getPost } from "@/services/post.service";
 import PostSingle from "@/components/PostSingle"
 import React from "react";
@@ -10,7 +9,6 @@ export default function Page({ post }) {
     return (
         <>
             <PostSingle post={post} />
-            <NavBar />
         </>
     )
 }

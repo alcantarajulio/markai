@@ -3,6 +3,7 @@ import "@/public/css/dracula.css";
 import "@fontsource/roboto";
 import React from "react";
 import Head from "next/head";
+import NavBar from "@/components/NavBar";
 
 // @ts-ignore
 export default function App({ Component, pageProps }) {
@@ -19,6 +20,7 @@ export default function App({ Component, pageProps }) {
                 <link rel="shortcut icon" href="https://kenbme.github.io/markai/favicon.ico" />
             </Head>
             <Component {...pageProps} />
+            <NavBar/>
         </>
     )
 }
