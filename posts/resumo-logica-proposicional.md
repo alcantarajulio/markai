@@ -8,8 +8,9 @@ discipline: Lógica para Computação
 ## Proposição
 
 Uma afirmação qualquer, que pode assumir valor Verdadeiro(*V*) **ou** Falso(*F*).
-
+<br><br>
 Exemplos: 
+<br><br>
 - Tamburetei é massa
 - Hoje está chovendo
 - Python é bom
@@ -23,8 +24,9 @@ Podemos representar proposições por uma letra *minúscula*, facilitando o uso,
 ## Conectivos Lógicos
 
 Usados para combinar duas ou mais proposições, e forma conjunto de proposições
-
+<br><br>
 Assumindo **p** e **q** como proposições:
+<br><br>
 
 **Símbolo** | **Palavra** | **Nome** | **Exemplo** 
 --- | --- | --- | --- |
@@ -37,8 +39,9 @@ Assumindo **p** e **q** como proposições:
 ## Tabela da Verdade
 
 Tabela lógica que determina os possíveis resultados(**V** ou **F**) da combinação de proposições lógicas.
-
-### Exemplo
+<br><br>
+Exemplo:
+<br><br>
 
 **p** | **q** | **p ∧ q**  | **p ∨ q** | **p → q** | **p ⇔ q** | **¬p** 
 :---: | :---:| :---: | :---: | :---: | :---: |  :---: |
@@ -48,33 +51,32 @@ F | V | F | V | F | F | V
 F | F | F | F | V | V | V
 
 ---
-
+<br><br>
 # Lógica Proposicional Semântica
 
 ## Vinculação semântica
 Se, para todos os valores nos quais as proposições da **premissa** são **verdade**, a **conclusão** também é **verdade**. Para verificar isso, usamos a tabela verdade
 
 premissa=V, conclucao=V
-
+<br><br>
 Exemplo:
 `A → B ⊨ ¬B → ¬A`
 
 ## Equivalência
 
 `p ≡ q`, se e somente se `p ⊨ q` e `q ⊨ p`.
+<br>
 
----
-
-# Lógica Proposicional Dedução 
+## Lógica Proposicional Dedução 
 
 É o processo para estabelecer de maneira rigorosa a validade dos argumentos, derivando a
 conclusão do argumento a partir das premissas usando um sistema de regras.
-
-
+<br><br>
 Do que é formado:
-
+<br><br>
 1. Um conjunto de regras de inferências
 2. Um formato para apresentar as provas e demonstrações
+<br><br>
 
 [Aqui](https://galdino.catalao.ufg.br/up/635/o/deducaonatural.pdf) tem explicando sobre isso de maneira resumida e mostrando as regras, com exemplos.
 
