@@ -34,7 +34,7 @@ export function readPostMarkdownFile(postPath) {
 
 /**
  * Gera o ID de um post.
- * @param {string} postPath - caminho do post.
+ * @param {string} postPath caminho do post.
  * @returns {string} postID.
  */
 function getPostId(postPath) {
@@ -77,36 +77,32 @@ function isValidPostData(postData) {
 /**
  * Verifica se post é válido.
  * @param {string} postDir 
- * @return {[boolean, Post]}
+ * @return {[boolean, Post]} retorna post se true, retorna err se false.
  */
 export function isValidPost(postDir) {
   try {
     if (!isValidPostDir(postDir)) {
-      console.error(chalk.red(`error: invalid archive (${postDir}).`));
-      throw new Error("");
+      throw new Error(`error: invalid archive (${postDir}).`);
     }
     const id = getPostId(postDir);
     if (id != slugify(id)) {
-      console.error(chalk.red(`error: post is not a slug (${postDir}).`));
-      throw new Error();
+      throw new Error(`error: post is not a slug (${postDir}).`);
     }
     const post = readPostMarkdownFile(postDir);
     const data = post.data;
     if (!isValidPostData(post.data)) {
-      console.error(chalk.red(`error: post header invalid (${postDir}).`));
-      throw new Error();
+      throw new Error(`error: post header invalid (${postDir}).`);
     }
     data.abr = abbreviation(post.data.discipline);
     const content = marked.parse(post.content).trim();
     if (content == "") {
-      console.error(chalk.red(`error: post content is empty (${postDir}).`));
-      throw new Error();
+      throw new Error(`error: post content is empty (${postDir}).`);
     }
     // @ts-ignore
     return [true, { id, data, content }];
   }
-  catch {
-    return [false, null];
+  catch (err) {
+    return [false, err];
   }
 }
 
@@ -118,13 +114,15 @@ export function getAllPosts() {
   /** @type {Post[]} */
   const posts = []
   fs.readdirSync(postsDir).map((postDir) => {
-    const [isValid, post] = isValidPost(postDir);
+    const [isValid, postOrErr] = isValidPost(postDir);
     if (isValid) {
-      const id = post.id;
-      const data = post.data;
-      const content = post.content;
+      const id = postOrErr.id;
+      const data = postOrErr.data;
+      const content = postOrErr.content;
       // @ts-ignore
       posts.push({ id, data, content })
+    } else {
+      console.error(chalk.red(postOrErr));
     }
   })
   posts.sort((a, b) => {
@@ -136,10 +134,7 @@ export function getAllPosts() {
     if (title1 > title2) {
       return 1;
     }
-    if (a.data.abr <= b.data.abr) {
-      return -1;
-    }
-    return 1;
+    return (a.data.abr <= b.data.abr) ? -1 : 1;
   })
   return posts;
 }

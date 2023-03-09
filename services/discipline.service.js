@@ -24,22 +24,20 @@ export function getAllDisciplines() {
     /** @type {Discipline[]} */
     const disciplines = [];
     fs.readdirSync(postsDir).map((postDir) => {
-        const [valid, post] = isValidPost(postDir);
+        const [valid, postOrErr] = isValidPost(postDir);
         if (valid) {
-            const { name, photo, period } = getDiscipline(post.data.discipline);
+            const { name, photo, period } = getDiscipline(postOrErr.data.discipline);
             if (!names.has(name)) {
                 names.add(name);
                 const slug = slugify(name);
                 disciplines.push({ slug, name, photo, period })
             }
+        } else {
+            console.error(chalk.red(postOrErr));
         }
     });
     disciplines.sort((a, b) => {
-        if (a.period <= b.period) {
-            return -1;
-        } else {
-            return 1;
-        }
+        return a.period <= b.period ? -1 : 1;
     });
     return disciplines;
 }
