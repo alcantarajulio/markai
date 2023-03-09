@@ -19,7 +19,9 @@ export default function App({ Component, pageProps }) {
                 <meta name="robots" content="index,follow" />
                 <link rel="shortcut icon" href="https://kenbme.github.io/markai/favicon.ico" />
             </Head>
-            <Component {...pageProps} />
+            <main>
+                <Component {...pageProps} />
+            </main>
             <NavBar/>
         </>
     )

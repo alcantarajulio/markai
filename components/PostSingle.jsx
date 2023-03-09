@@ -17,7 +17,7 @@ export default function Page({ post }) {
         hljs.highlightAll();
     }, []);
     return (
-        <main>
+        <>
             <div>
                 <span id="#top"></span>
                 <section className={styles.PostSingle}>
@@ -34,6 +34,6 @@ export default function Page({ post }) {
                 </section>
             </div>
             <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-        </main>
+        </>
     )
 }

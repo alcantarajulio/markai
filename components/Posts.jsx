@@ -13,18 +13,16 @@ import React from "react";
 export default function Posts({ posts }) {
     const router = useRouter();
     return (
-        <main>
-            <div>
-                <ul className={styles.Posts}>
-                    {posts.map((post) =>
-                        <li key={post.id}>
-                            <Link href={`/posts/${post.id}`}>
-                                <p>{post.title}{router.route == "/posts" ? ` (${post.abr})` : ""}</p>
-                            </Link>
-                        </li>)
-                    }
-                </ul>
-            </div>
-        </main>
+        <div>
+            <ul className={styles.Posts}>
+                {posts.map((post) =>
+                    <li key={post.id}>
+                        <Link href={`/posts/${post.id}`}>
+                            <p>{post.title}{router.route == "/posts" ? ` (${post.abr})` : ""}</p>
+                        </Link>
+                    </li>)
+                }
+            </ul>
+        </div>
     )
 }
