@@ -9,15 +9,15 @@ discipline: Estrutura de Dados e Algoritmos
 
 ## Propriedades
 
-- Todo nó possui cor **PRETA** ou **VERMELHA**
-- Todo folha NIL é *preta*
-- A raiz é *preta*
-- Todos os filhos de um nó *vermelho* são *pretos*
-- A altura de um filho **nunca** é mais que o dobro da altura de outro filho
-- Possui **black-height**
-    - Número de nós *pretos* encontrados em um caminho que leva de um nó a outro
-    - Não conta os nós NIL(folhas)
-    - Black-height da raíz é a Black-height da árvore
+- Todo nó possui cor **PRETA** ou **VERMELHA**.
+- Todo folha NIL é *preta*.
+- A raiz é *preta*.
+- Todos os filhos de um nó *vermelho* são *pretos*.
+- A altura de um filho **nunca** é mais que o dobro da altura de outro filho.
+- Possui **black-height**.
+    - Número de nós *pretos* encontrados em um caminho que leva de um nó a outro.
+    - Não conta os nós NIL(folhas).
+    - Black-height da raíz é a Black-height da árvore.
 
 ## Fontes 
 

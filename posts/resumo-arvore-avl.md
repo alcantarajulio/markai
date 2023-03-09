@@ -24,28 +24,28 @@ Operações de inserção e remoção podem desbalancear a árvore, para isso us
 
 ### Rotação
 
-- Muda a estrutura sem alterar a ordem dos elementos
-- Move um nó pra cima e um pra baixo
-- O fator de balanceamento dirá pra que lado rotacionar
+- Muda a estrutura sem alterar a ordem dos elementos.
+- Move um nó pra cima e um pra baixo.
+- O fator de balanceamento dirá pra que lado rotacionar.
 - Tipos:
     - Simples
-        - Ocorre quando o filho do nó desbalanceado estiver no mesmo sentido
+        - Ocorre quando o filho do nó desbalanceado estiver no mesmo sentido.
     - Dupla
-        - Ocorre quando o filho do nó desbalanceado estiver no sentido inverso
+        - Ocorre quando o filho do nó desbalanceado estiver no sentido inverso.
 
 - Casos
     - Left-Left
-        - Rotação Simples
-        - Raiz pesa pra esquerda e filho esquerdo pesa pra esquerda ou esta balanceado: rotação pra direita na raiz
+        - Rotação Simples.
+        - Raiz pesa pra esquerda e filho esquerdo pesa pra esquerda ou esta balanceado: rotação pra direita na raiz.
     - Right-Right
-        - Rotação Simples
-        - raiz pesa pra direita e filho pesa pra direita ou esta balanceado: rotação pra esquerda na raiz
+        - Rotação Simples.
+        - Raiz pesa pra direita e filho pesa pra direita ou esta balanceado: rotação pra esquerda na raiz.
     - Left-Right
-        - Rotação Dupla
-        - raiz pesa pra esquerda e filho esquerdo pesa pra direita: rotacao esquerda no filho e direita no pai
+        - Rotação Dupla.
+        - Raiz pesa pra esquerda e filho esquerdo pesa pra direita: rotação esquerda no filho e direita no pai.
     - Right-Left
-        - Rotação Dupla
-        - raiz pesa pra direita e filho direito pesa pra esquerda: rotacao direita no filho e esquerda no pai
+        - Rotação Dupla.
+        - Raiz pesa pra direita e filho direito pesa pra esquerda: rotação direita no filho e esquerda no pai.
 
 ## Fontes 
 
