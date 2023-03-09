@@ -74,4 +74,3 @@ precisam ser corrigidos no lab x+1 e seguintes. Do contrário continuarão sendo
 ## Autor 
 
 Post desenvolvido por Rayane Bezerra da Silva
-apenas para tesatr o push
