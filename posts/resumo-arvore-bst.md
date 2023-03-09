@@ -19,8 +19,8 @@ Se for menor o novo nó será inserido a esquerda do nó raiz senão será inser
 
 ### Busca
 
-O processo de busca é muito parecido com a busca binária em um vetor ordenado e, geralmente, é abordado tanto em forma interativa cosmo recursiva seguindo os seguintes passos:
-
+O processo de busca é muito parecido com a busca binária em um vetor ordenado e, geralmente, é abordado tanto em forma interativa como recursiva seguindo os seguintes passos:
+<br><br>
 • Começa pela raiz
 
 • Verifica se o valor do nó atual é igual, se for, a busca é finalizada. Se não:
@@ -32,35 +32,42 @@ O processo de busca é muito parecido com a busca binária em um vetor ordenado 
 ### Remoção
 
 A exclusão de um nó é um processo mais complexo. Para excluir um nó de uma árvore binária de busca, é preciso analisar três casos distintos para a exclusão:
-
+<br><br>
 **1º Remoção de um nó folha**
-
+<br><br>
 Este é o caso mais simples, basta remover o nó da árvore.
-
+<br><br>
 **2º Remoção de um nó com apenas 1 filho**
-
+<br><br>
 Neste caso, basta que o pai do nó a ser removido tenha como seu filho, o seu neto, ou seja, o filho do nó a ser removido.
+<br><br>
 
 **3º Remoção de um nó com 2 filhos**
-
+<br><br>
 Nesta situação, pode-se operar de duas maneiras diferentes. Pode-se substituir o valor do nó a ser retirado pelo valor sucessor (o nó mais à esquerda da subárvore direita) ou pelo valor antecessor (o nó mais à direita da subárvore esquerda), removendo-se aí o nó sucessor (ou antecessor).
 
 ### Percursos
 Considere que o nó inicial é a raiz
+<br><br>
 
 **Pré-ordem:**
+<br><br>
 
 1. Visita a nó
 2. Percorre a subárvore esquerda em pré-ordem
 3. Percorre a subárvore direita em pré-ordem
+<br><br>
 
 **Ordem Simétrica (ou em-ordem):**
+<br><br>
 
 1. Percorre a subárvore esquerda em ordem simétrica
 2. Visita a nó
 3. Percorre a subárvore direita em ordem simétrica
+<br><br>
 
 **Pós-ordem:**
+<br><br>
 
 1. Percorre a subárvore esquerda em pós-ordem
 2. Percorre a subárvore direita em pós-ordem
