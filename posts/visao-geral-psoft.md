@@ -50,8 +50,7 @@ precisam ser corrigidos no lab x+1 e seguintes. Do contrário continuarão sendo
 - Refatoração: Aperfeiçoando o Projeto de Código Existente
 - A Philosophy of Software Design
 
-## Dificulades Comuns
-
+## Dificuldades Comuns
 
 ### Meios de aprendizagem
 
