@@ -6,7 +6,7 @@ discipline: Estrutura de Dados e Algoritmos
 ## O que é?
 
 Árvore binária que possui as propriedades:
-
+<br><br>
 - Está completa até pelo menos seu *penúltimo nível*
 - Se o seu último nível não está completo, todos os nós do *último nível* deverão estar agrupados a *esquerda*
 - Possui dois tipos:
@@ -16,15 +16,17 @@ discipline: Estrutura de Dados e Algoritmos
 ## Representação
 
 Pode ser representada por uma estrutura de Array.
-
+<br><br>
 Exemplo de *Min-Heap*:
-![alt](https://codigocomcafe.files.wordpress.com/2010/09/heap1.png)
+<br><br>
+<img src="https://codigocomcafe.files.wordpress.com/2010/09/heap1.png" widght="600" height="400">
 
 Para obter pai, filhos usamos os índices do Array para obter, onde vai ser:
-
+<br><br>
 - `parent(i) return i/2`
 - `left-son(i) return 2i`
 - `right-son(i) return 2i + 2`
+<br><br>
 
 Pode verificar isso na imagem acima, pegando por exemplo **4** que está na posição **i=1**, para sabemos seu filho a esquerda, fazemos **2*i=2** que é o elemento **9**
 
