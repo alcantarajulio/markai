@@ -4,7 +4,9 @@ discipline: Paradigmas de Programação
 fixed: true
 ---
 
-## Projetos Antigos
+## Link
+
+## <a href="https://github.com/EduardaFarias/markai-codigos/tree/master/plp" target="_blank">Acesse aqui o repositório com códigos que podem ser úteis para a disciplina</a>
 
 - <p><a href="https://github.com/JuanBarros2/Calango" target="_blank">Calango</a> - O projeto que foi utilizado em 2017.1. Consiste em criar uma espécie de tamagotchi em que é possível colocar o bichinho para dormir, comer, tomar vacina, dar carinho e contém uma vida que decresce ao não receber atenção.</p>
 
