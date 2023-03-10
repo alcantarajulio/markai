@@ -6,7 +6,7 @@ discipline: Introdução à Computação
 ## Processador
  Tem como operações básicas: input, processing, output e storage.
   - UCP: Unidade Central de Processamento.
-      - Manupula direta ou indiretamente os dados
+      - Manipula direta ou indiretamente os dados
       - Executa microinstruções
   Dentre as funções do processador está a de controle, e a de processamento.
       - Processamento:
@@ -24,13 +24,13 @@ discipline: Introdução à Computação
    confiável porque algumas micro-instruções gastam mais de um ciclo para serem realizadas.
    
    - Registradores:
-   Memórias ultra rápidas que armazena dados temporários. A quantidade de bits processadores determina o tamanho do registrador.
+   Memórias ultra rápidas que armazenam dados temporários. A quantidade de bits dos processadores determina o tamanho do registrador.
    
    - Estratégias de Implementação
     - CISC: Complex Instruction Set Computer
         - Um grande conjunto de funções que implica em processador mais complexo e lento.
     - RISC: Reduced Instruction Set Computer
-        - Um conjunto menor de instruções que precisa de apenas um ciclo para ser processado.
+        - Um conjunto menor de instruções que precisa de apenas um ciclo para ser processada.
     - Híbrida:
         - Essencialmente CISC e internamente RISC.
 
@@ -55,8 +55,13 @@ discipline: Introdução à Computação
     - Capacidade: 8 a 64 bits
     - Volátil: Sim
     - Tecnologia: Semicondutores
+<<<<<<< HEAD
     - Temporariedade: Armazenamento Temporário.
     - Custo: Altíssimo.
+=======
+    - Temporiedade: Armazenamento Temporário.
+    - Custo: Altissimo.
+>>>>>>> refs/remotes/origin/main
   
   - Cache
   Evita gargalo entre registradores e memória principal.
@@ -64,8 +69,13 @@ discipline: Introdução à Computação
     - Capacidade: Varia
     - Volátil: Sim
     - Tecnologia: Circuitos eletrônicos (SRAM)
+<<<<<<< HEAD
     - Temporariedade: Armazenamento Temporário.
     - Custo: Alto
+=======
+    - Temporiedade: Armazenamento Temporário.
+    - Custo: Alt.
+>>>>>>> refs/remotes/origin/main
   
   - Memória Principal
   Memória básica do PC, onde programas e dados são executados.
