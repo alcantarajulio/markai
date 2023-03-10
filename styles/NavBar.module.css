@@ -17,6 +17,11 @@
     padding: 10px 0px;
 }
 
+.NavBar a:hover {
+    color: #DBF228;
+    transition: all 0.4s;
+}
+
 @media (min-width: 800px) {
     .NavBar {
         flex-direction: column;
