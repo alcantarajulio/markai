@@ -18,10 +18,15 @@ export default function Posts({ posts }) {
                 {posts.map((post) =>
                     <li key={post.id}>
                         <Link href={`/posts/${post.id}`}>
-                            <p>{router.route == "/posts" ? 
-                                <span className={styles.DisciplineAbbreviation}>{post.abr}</span> : ""}
-                                <span className={styles.PostTitle}>{post.title}</span>
-                            </p>
+                            {router.route == "/posts" ?
+                                <p>
+                                    <span className={styles.DisciplineAbbreviation}>{post.abr}</span>
+                                    <span className={styles.PostTitle}>{post.title}</span>
+
+                                </p>
+                                : <p>
+                                    <span className={styles.PostTitle} style={{ padding: "12px 0px" }}>{post.title}</span>
+                                </p>}
                         </Link>
                     </li>)
                 }
