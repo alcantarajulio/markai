@@ -6,7 +6,7 @@ discipline: Introdução à Computação
 ## Processador
  Tem como operações básicas: input, processing, output e storage.
   - UCP: Unidade Central de Processamento.
-      - Manupula direta ou indiretamente os dados
+      - Manipula direta ou indiretamente os dados
       - Executa microinstruções
   Dentre as funções do processador está a de controle, e a de processamento.
       - Processamento:
@@ -16,7 +16,7 @@ discipline: Introdução à Computação
   - Barramentos(Bus):
        - Caminhos fisicos que levam os dados. Existem 3 tipos de barramentos, são eles:
             1. Adress Bus: trafega posições de memória.
-            2. Data Bus: trafega dados para memória, processador ou perifericos.
+            2. Data Bus: trafega dados para memória, processador ou periféricos.
             3. Control Bus: trafega sinais de controle.
             - USB - Universal Serial Bus.
    - Relógio (Clock):
@@ -24,13 +24,13 @@ discipline: Introdução à Computação
    confiavél porque algumas micro-instruções gastam mais de um ciclo para serem realizadas.
    
    - Registradores:
-   Memórias ultra rápidas que armazena dados temporários. A quantidade de bits processadores determina o tamanho do registrador.
+   Memórias ultra rápidas que armazenam dados temporários. A quantidade de bits dos processadores determina o tamanho do registrador.
    
    - Estratégias de Implementação
     - CISC: Complex Instruction Set Computer
         - Um grande conjunto de funções que implica em processador mais complexo e lento.
     - RISC: Reduced Instruction Set Computer
-        - Um conjunto menor de instruções que precisa de apenas um ciclo para ser processado.
+        - Um conjunto menor de instruções que precisa de apenas um ciclo para ser processada.
     - Híbrida:
         - Essencialmente CISC e internamente RISC.
 
@@ -55,7 +55,7 @@ discipline: Introdução à Computação
     - Capacidade: 8 a 64 bits
     - Volátil: Sim
     - Tecnologia: Semicondutores
-    - Temporiedade: Armazenamento Temporario.
+    - Temporiedade: Armazenamento Temporário.
     - Custo: Altissimo.
   
   - Cache
@@ -63,8 +63,8 @@ discipline: Introdução à Computação
     - Tempo de acesso: 5 a 7 ns
     - Capacidade: Varia
     - Volátil: Sim
-    - Tecnologia: Circuitps eletrônicos (SRAM)
-    - Temporiedade: Armazenamento Temporario.
+    - Tecnologia: Circuitos eletrônicos (SRAM)
+    - Temporiedade: Armazenamento Temporário.
     - Custo: Alt.
   
   - Memória Principal
