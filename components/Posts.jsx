@@ -25,7 +25,7 @@ export default function Posts({ posts }) {
 
                                 </p>
                                 : <p>
-                                    <span className={styles.PostTitle} style={{ padding: "12px 0px" }}>{post.title}</span>
+                                    <span className={styles.PostTitle} style={{ padding: "12px 4px" }}>{post.title}</span>
                                 </p>}
                         </Link>
                     </li>)
