@@ -1,12 +1,13 @@
 .DisciplineAbbreviation {
     background-color: #052941;
-    padding: 12px;
     color: white;
+    border-radius: 4px 0px 0px 4px;
+    padding: 12px;
 }
 
 .PostTitle {
     margin-left: 4px;
-    padding: 12px 4px;
+    padding: 12px 0px;
 }
 
 .Posts li {
