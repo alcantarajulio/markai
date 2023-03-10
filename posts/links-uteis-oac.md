@@ -41,7 +41,3 @@ fixed: true
 ## Fontes 
 
 - <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias

@@ -77,6 +77,3 @@ Considere que o nó inicial é a raiz
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
 
-## Autor 
-
-Post desenvolvido por Eduarda Farias

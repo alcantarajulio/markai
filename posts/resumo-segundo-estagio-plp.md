@@ -202,9 +202,5 @@ A linguagem Haskell possui a implementação de uma função de mapeamento, cham
 
 <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
 
-## Autor 
-
-Post desenvolvido por Eduarda Farias
-
-## Nota da Autora
+## Nota 
 Olá, talvez você ache que algumas das imagens do post poderiam ter um tamanho mais adequado, e eu concordo, mas como o resumo não é meu e as imagens também não, para manter a qualidade das imagens optei por esses tamanhos, mas caso você saiba algum modo de aumentar sem perder a qualidade, fique a vontade para ajudar. :)

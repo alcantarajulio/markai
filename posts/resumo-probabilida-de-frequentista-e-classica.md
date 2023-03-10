@@ -84,7 +84,3 @@ P(A) = número de casos favoráveis a A / número de casos possíveis = #A / # �
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias 

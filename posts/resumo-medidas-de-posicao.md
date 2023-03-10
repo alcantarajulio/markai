@@ -20,7 +20,3 @@ Detonada por **md**, é o dado que ocupa posição central na série de observa�
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias 

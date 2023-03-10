@@ -117,7 +117,3 @@ Final (II) | - | [Link](https://drive.google.com/open?id=1uiHwNmNfMNIxKAdy5LltM1
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias

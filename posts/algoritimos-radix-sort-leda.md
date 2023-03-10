@@ -78,5 +78,3 @@ class RadixSort {
 ```
 ## Fontes 
 1. <a href="https://www.programiz.com/dsa/radix-sort" target="_blank">Programiz com Radix Sort</a>
-## Autor 
-- Post desenvolvido por Rayane Bezerra da Silva

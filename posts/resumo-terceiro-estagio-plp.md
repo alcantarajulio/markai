@@ -83,6 +83,3 @@ Podemos comparar valores de diferentes tipos usando a relação ”=” mas o re
 
 <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
 
-## Autor 
-
-Post desenvolvido por Eduarda Farias

@@ -16,10 +16,6 @@ fixed: true
 8. <a href="https://drive.google.com/file/d/1bPK7NaLy4oanz9htuYedWQd0B3HZCyxU/view?usp=sharing" target="_blank"> Laboratório Final </a>
 9. <a href="https://drive.google.com/file/d/1A_tAdEIQYad6eGnYS5ay6FWIMGK_spPp/view?usp=share_link" target="_blank"> Simulado da Prova 1 </a>
 
-## Fontes 
-
-1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
 ## Autor 
 
 Post desenvolvido por Rayane Bezerra da Silva 

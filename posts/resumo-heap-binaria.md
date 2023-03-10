@@ -42,7 +42,3 @@ Pode verificar isso na imagem acima, pegando por exemplo **4** que está na posi
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias 
