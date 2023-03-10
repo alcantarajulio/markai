@@ -6,13 +6,14 @@
 
 .PostTitle {
     margin-left: 4px;
+    padding: 12px 4px;
 }
 
 .Posts li {
     margin: 0 0 15px 0;
     padding: 0px;
-    border-radius: 3px;
-    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    border-radius: 4px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.09);
     transition: all 0.3s ease-out;
     list-style: none;
     background-color: white;
@@ -35,5 +36,6 @@
 }
 
 .Posts p {
-    padding: 12px 0px;
+    display: flex;
+    align-items: center;
 }

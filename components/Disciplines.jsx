@@ -16,7 +16,7 @@ export default function Disciplines({ disciplines }) {
                                 <img src={discipline.photo} alt="Imagem da disciplina" />
                                 <div className={styles.DisciplineBody}>
                                     <p>{discipline.name}</p>
-                                    <p className={styles.DisciplinePeriod}>{discipline.period}</p>
+                                    <p className={styles.DisciplinePeriod}>{discipline.period}º</p>
                                 </div>
                             </Link>
                         </li>)}
