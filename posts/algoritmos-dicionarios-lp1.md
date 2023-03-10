@@ -8,7 +8,7 @@ discipline: Laboratório de Programação 1
 O **dicionário** é uma coleção que serve para mapear pares de chave-valor. A chave pode ser qualquer tipo imutável, já o valor pode ser qualquer tipo de objetos do python.
 
 ### Exemplo:
-Agora, vamos lá, abra seu editor de códigos, e cole e execute o algoritmo abaixo.
+Agora, vamos lá, abra seu editor de códigos, cole e execute o algoritmo abaixo.
 
 <br>
 

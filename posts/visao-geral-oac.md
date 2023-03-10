@@ -43,11 +43,19 @@ A disciplina é um componente obrigatório do curso de Ciência da Computação,
 
 ## Dicas
 
+
+## Dificuldades Comuns
+### Atennção à disciplina
+
+No geral, os alunos passam a ter dificuldades na disciplina quando tem muitas faltas, não dão atenção às aulas e/ou não fazem os exercícios.
+
+<br></br>
+
 > Ainda não temos dicas para essa disciplina. Você pode nos ajudar com isso? (:
 
 ## Fontes 
 
-1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+- <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
 
 ## Autor 
 

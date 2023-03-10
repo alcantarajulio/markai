@@ -4,7 +4,7 @@ discipline: Laboratório de Estrutura de Dados e Algoritmos
 ---
 
 ## Radix Sort 
-O **Radix sort** utiliza o conceito de ordenação por contagem, porém ele realiza a contagem com apenas uma parte da representação do elemento, a qual é denominada raiz. o processo de contagem é realizado com esta parte várias vezes até que a representação total do elemento seja analisada.
+O **Radix sort** utiliza o conceito de ordenação por contagem, porém ele realiza a contagem com apenas uma parte da representação do elemento, a qual é denominada raiz. O processo de contagem é realizado com esta parte várias vezes até que a representação total do elemento seja analisada.
 
 
 ## Algoritmo do Radix Sort em Java 

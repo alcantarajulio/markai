@@ -4,8 +4,7 @@ discipline: Laboratório de Programação 1
 ---
 
 As **condicionais** são estruturas responsáveis por causar desvio de fluxo a partir do valor de uma expressão lógica. Em outras palavras, é o
-valor de uma condição (verdadeira ou falsa) que determinará se um blo-
-co de código será ou não executado. Em Python, as **condicionais** são **if**,
+valor de uma condição (verdadeira ou falsa) que determinará se um bloco de código será ou não executado. Em Python, as **condicionais** são **if**,
 **elif** e **else**.
 O **if** é uma estrutura condicional simples e sua sintaxe é da forma "if 
 (condição):".
@@ -44,7 +43,7 @@ caso a segunda também não seja verdadeira, ele não faz nada, porque não foi 
 Sendo assim, temos um comando condicional, o **else** será executado apenas se todas as condições anteriores forem falsas.
 
 
-Bem, agora, mãos a massa! Abra seu editor de texto e cole e execute o código do exemplo abaixo.
+Bem, agora, mãos a massa! Abra seu editor de texto, cole e execute o código do exemplo abaixo.
 
 ### Exemplo:
 

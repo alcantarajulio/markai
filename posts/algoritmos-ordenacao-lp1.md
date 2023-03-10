@@ -37,7 +37,7 @@ Ordena uma lista, em ordem crescente, usando o Selection Sort.
 O Selection Sort é, consideravelmente mais intuitivo que o Bubble
 Sort, possuindo eficiência muito semelhante. A estratégia utilizada
 para a ordenação consiste em selecionar, a cada iteração, o N-ésimo
-menor valor e inserí-lo na posição correta da lista. Desse modo, a
+menor valor e inseri-lo na posição correta da lista. Desse modo, a
 lista de tamanho N estará completamente ordenada após N iterações.
 Como parâmetro a função recebe a lista que deve ser ordenada.
 
@@ -60,8 +60,8 @@ Ordena uma lista, em ordem crescente, usando o Insertion Sort.
 O Insertion Sort é, consideravelmente mais eficiente que o Bubble
 Sort e o Selection Sort. Sua estratégia consiste em "particionar" a
 lista em duas, de modo que a lista à esquerda esteja ordenada, mas
-a lista à direita não. Com essa abordagem, a cada iteração, o pri-
-meiro valor da lista à direita é movido para a lista à esquerda e
+a lista à direita não. Com essa abordagem, a cada iteração, o primeiro valor
+ da lista à direita é movido para a lista à esquerda e
 inserido na posição adequada. Para que não seja necessário criar 
 novas listas, um valor-chave (key) é usado como delimitador entre
 as partições, sendo movido a cada iteração.
@@ -125,7 +125,7 @@ Ordena uma lista, em ordem crescente, utilizando
 o algoritmo Merge Sort.
 Baseado na estratégia de dividir-conquistar, o Merge Sort
 ordena uma lista de valores recursivamente. Durante
-cada chamada da funcao merge_sort(values, low, high), 
+cada chamada da função merge_sort(values, low, high), 
 a lista é dividida pela metade até que possua um único elemento 
 (este é caso base - trivialmente, se len(lista) == 1, a lista está ordenada). 
 Quando len(lista) == 1, a função merge(values, low, mid, high) começa a 
