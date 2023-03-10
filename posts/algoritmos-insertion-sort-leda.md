@@ -42,5 +42,3 @@ public static void insertionSort(int[] values) {
 1. <a href= "https://joaoarthurbm.github.io/eda/posts/insertion-sort/" target= "_blank" > Materias do professor João Arthur Brunet </a>
 - Estou dando os créditos (professor não me processe!!!! <3)
 
-## Autor 
-- Post desenvolvido por Rayane Bezerra da Silva.

@@ -15,6 +15,3 @@ print("Hello World!")
 
 Simples, não? 
 
-## Autor 
-
-Post desenvolvido por Eduarda Farias 

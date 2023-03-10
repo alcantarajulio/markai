@@ -68,7 +68,3 @@ print ("O fatorial de 15 é", recursive_factorial(15))
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias 

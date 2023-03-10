@@ -46,5 +46,3 @@ public static int[] countingSort(int[] A, int k) {
 1. <a href="https://pt.wikipedia.org/wiki/Counting_sort" target="_blank">Wikipédia Couting Sort</a>
 2. <a href="https://joaoarthurbm.github.io/eda/posts/ordenacao-linear/" target="_blank"> Ordenação Linear: Couting sort (João Arthur Brunet) </a>
 
-## Autor 
-- Post desenvolvido por Rayane Bezerra da Silva

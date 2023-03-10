@@ -20,7 +20,3 @@ Provavelmente você terá que instalar o Maven todas as vezes que for enviar pro
 ### Fontes 
 
 1. <a href= "https://pt.wikipedia.org/wiki/Apache_Maven" target="_blank"> Wikipédia</a>
-
-### Autores do Post
-
-- Rayane Bezerra da Silva 

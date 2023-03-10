@@ -92,7 +92,3 @@ public void merge(int[] v, int left, int middle, int right) {
 
 1. <a href="https://pt.wikipedia.org/wiki/Merge_sort" target="_blank"> Wikipédia Merge Sort</a>
 2. <a href="https://joaoarthurbm.github.io/eda/posts/merge-sort/" target="_blank"> Ordenação por Comparação: Merge Sort (João Athur Brunet)</a>
-
-## Autor
-
-- Post desenvolvido por Rayane Bezerra da Silva 

@@ -67,7 +67,3 @@ Uma vez que os roteiros de LEDA são fornecidos sem um conjunto de testes públi
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias

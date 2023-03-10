@@ -52,7 +52,4 @@ Os conteúdos de Álgebra Linear são extremamentes dependentes uns dos outros, 
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias
+lvido por Eduarda Farias

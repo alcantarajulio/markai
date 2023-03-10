@@ -35,4 +35,3 @@ O professor Adalberto Cajueiro possui um canal no Youtube com vídeos sobre os a
 
 <br>
 
-Post desenvolvido por Eduarda Farias 

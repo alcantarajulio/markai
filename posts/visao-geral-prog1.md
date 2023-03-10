@@ -75,7 +75,3 @@ Abordado na unidade 7 da disciplina, esse assunto também costuma gerar dificuld
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias 

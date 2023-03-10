@@ -34,6 +34,5 @@ public boolean buscaLinear(int [] array, int x , int indice){
 
 1. <a href="https://youtu.be/NzfscnQv00Q" target="_blank"> Exemplo de recursão - Busca Linear (Adalberto Cajueiro)</a>
 
-## Autor 
 
 

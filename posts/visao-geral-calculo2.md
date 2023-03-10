@@ -86,7 +86,3 @@ A grande quantidade de assuntos, fórmulas e regras gerais (para derivadas, inte
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias

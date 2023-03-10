@@ -347,6 +347,3 @@ public class PetShopTest {
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
 2. <a href="https://pt.wikipedia.org/wiki/JUnit" target="_blank" > Wikipedía</a>
 
-## Autor 
-
-Post desenvolvido por Rayane Bezerra da Silva 

@@ -52,7 +52,3 @@ Assim como em cálculo, uma nota abaixo da média no primeiro estágio é um gra
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias
