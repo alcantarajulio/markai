@@ -36,4 +36,4 @@ public boolean buscaLinear(int [] array, int x , int indice){
 
 ## Autor 
 
-- Post desenvolvido por Rayane Bezerra da Silva 
+

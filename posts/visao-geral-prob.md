@@ -44,6 +44,3 @@ Em alguns assuntos da disciplina você irá se deparar com o cálculo de integra
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
 
-## Autor 
-
-Post desenvolvido por Eduarda Farias 
