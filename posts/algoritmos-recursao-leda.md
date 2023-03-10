@@ -62,6 +62,3 @@ public class Fatorial {
 - <a href="http://www.linhadecodigo.com.br/artigo/3316/recursividade-em-java.aspx" target="_blank"> Linha de código </a>
 - <a href="https://www.google.com/search?q=introdu%C3%A7%C3%A3o+recusao+em+java&source=lmns&bih=958&biw=2560&client=ubuntu&hs=MoZ&hl=pt-BR&sa=X&ved=2ahUKEwjpmKP-u8f9AhW9jZUCHdmqAcYQ_AUoAHoECAEQAA" target ="_blank"> Pai dos burros </a>
 
-## Autor
-
-Post desenvolvido por Rayane Bezerra da Silva 

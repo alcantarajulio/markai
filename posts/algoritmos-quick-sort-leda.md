@@ -62,6 +62,3 @@ public static void quickSort(int[] values, int left, int right) {
 1. <a href="https://joaoarthurbm.github.io/eda/posts/quick-sort/" target="_blank">Ordenação por Comparação: Quick Sort</a>
 2. <a href="http://www.universidadejava.com.br/pesquisa_ordenacao/quick-sort/" target="_blank">Universidade Java pesquisa ordenação: Quick Sort</a>
 
-## Autor
-
-- Post desenvolvido por Rayane Bezerra da Silva

@@ -32,6 +32,4 @@ widht="600" height="400">
 2. <a href="https://www.devmedia.com.br/algoritmos-de-ordenacao-analise-e-comparacao/28261" target="_blank"> Algoritmo de ordenação análise e comparação</a>
 3. <a href="https://pt.wikipedia.org/wiki/Ordena%C3%A7%C3%A3o_por_compara%C3%A7%C3%A3o" target="_blank"> Wikipédia Ordenação por comparação</a>
 
-## Autor 
 
-- Post desenvolvido por Rayane Bezerra da Silva
