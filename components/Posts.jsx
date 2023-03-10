@@ -18,7 +18,10 @@ export default function Posts({ posts }) {
                 {posts.map((post) =>
                     <li key={post.id}>
                         <Link href={`/posts/${post.id}`}>
-                            <p>{post.title}{router.route == "/posts" ? ` (${post.abr})` : ""}</p>
+                            <p>{router.route == "/posts" ? 
+                                <span className={styles.DisciplineAbbreviation}>{post.abr}</span> : ""}
+                                <span className={styles.PostTitle}>{post.title}</span>
+                            </p>
                         </Link>
                     </li>)
                 }
