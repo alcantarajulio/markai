@@ -3,11 +3,12 @@
     color: white;
     border-radius: 4px 0px 0px 4px;
     padding: 12px;
+    width: 50px;
+    text-align: center;
 }
 
 .PostTitle {
     margin-left: 4px;
-    padding: 12px 0px;
 }
 
 .Posts li {
