@@ -16,6 +16,3 @@ Você deve usar as operações elementares antes de usar o teorema porque alguma
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
 
-## Autor 
-
-Post desenvolvido por Eduarda Farias 

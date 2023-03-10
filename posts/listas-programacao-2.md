@@ -71,7 +71,3 @@ Lab 07 | Não | [Link](https://docs.google.com/document/d/e/2PACX-1vQr1u6oM_Bms7
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias

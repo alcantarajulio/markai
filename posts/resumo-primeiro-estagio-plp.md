@@ -159,7 +159,3 @@ Um sequenciador é uma construção que transfere o controle para outro ponto do
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias

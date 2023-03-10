@@ -119,7 +119,3 @@ A partir daí, entramos na história recente da computação. Os smartphones, os
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-
-## Autor 
-
-Post desenvolvido por Eduarda Farias 
