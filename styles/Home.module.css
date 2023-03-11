@@ -1,5 +1,6 @@
 .Home h1 {
     padding-bottom: 10px;
+    text-align: center;
 }
 
 .Maintainers {
@@ -26,4 +27,16 @@
 
 .Notices img {
     width: 200px;
+}
+
+.Thank {
+    margin-top: 20px;
+}
+
+@media (min-width: 1000px) {
+    .Maintainers {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        justify-content: space-around;
+    }
 }
