@@ -321,7 +321,7 @@ Mario | Olivedos |
 
 Também conhecida como *minus* ou *except*, esta é uma operação de exclusão e utiliza a estrutura `R - S`, resultando numa nova relação com todas as tuplas que estão em **R**, mas não em **S**.
 
-Essa operação não é comutatitiva, ou seja, `R - S != S - R`.
+Essa operação não é comutativa, ou seja, `R - S != S - R`.
 
 #### Exemplo
 
@@ -346,7 +346,7 @@ Z <- R X S
 Onde:
 - **X:** Símbolo que representa a operação de produto cartesiano;
 - **Z:** Relação produzida a partir do produto cartesiano;
-- **R e S:** RElações participantes da operação.
+- **R e S:** Relações participantes da operação.
 
 **n° tuplas:** n° tuplas de R * n° tuplas de S;
 
@@ -448,7 +448,7 @@ NOVA_REL <- R * <condição1 AND condição2> S
 Onde:
 - **NOVA_REL:** Relação resultante;
 - **R e S:** Relações sobre as quais a operação será realzada;
-- *: Símblo da operação natural join;
+- *: Símbolo da operação natural join;
 - <**condição1 AND condição2**>: Condições que ditarão como será feita a seleção das tuplas     , chamado de `THETA_JOIN`.
 
 > :warning: **OBS:** Para que essa operação funcione é necessário que o nome dos atributos que vão ser comparados sejam iguais.
@@ -457,7 +457,7 @@ Onde:
 
 `Q ← R(A, B, C) * S(A, D, E)`
 
-A condição de junção ímplicita é *R.A* = *S.A* e o resultado será `Q(A, B, C, D, E)`.
+A condição de junção implícita é *R.A* = *S.A* e o resultado será `Q(A, B, C, D, E)`.
 
 ---
 ### DIVISION
@@ -577,7 +577,7 @@ Selecionar Nome, salário e a despesa totais, que é formada pela soma do preço
 RELACAO <- ρ(Nome, salário, despesas) (π Nome, Salário, Netflix + Aluguel (PESSOA))
 ```
 
-**RELACAO**
+**RELAÇÃO**
 <br></br>
 
 | Nome     | Salário | despesas |
@@ -601,7 +601,7 @@ Essa operação se estrutura da seguinte maneira:
 
 Onde:
 - <**grouping attributes**>: Atributos que servirão para fazer o agrupamento;
-- **I:** Símbolo da operação de Funçoẽs de agregação;
+- **I:** Símbolo da operação de Funções de agregação;
 - <**function list**>: Lista de tuplas (<`função`><`atributo`>), onde `função` é uma das funções permitidas (como SUM, AVERAGE, MAXIMUM, MINIMUM, COUNT) e `Atributo` é o atributo sobre o qual a função vai ser operada;
 - **(R):** Relação sobre a qual ocorrerá a operação.
 
@@ -628,7 +628,7 @@ Criar uma relação que seleciona a quantidade dos diferentes tipos preços da n
 
 O fechamento recursivo é uma operação em que existe um **relacionamento recursivo** entre as tuplas da mesma relação, como empregado e supervisor por exemplo. 
 
-&#9888;&#65039; **OBS:** Essa operação não é possível de ser implementada com operações básicas da álgebra realacional, todavia, é implementada na linguagem SQL.
+&#9888;&#65039; **OBS:** Essa operação não é possível de ser implementada com operações básicas da álgebra relacional, todavia, é implementada na linguagem SQL.
 
 <br></br>
 
@@ -651,13 +651,13 @@ DEPARTMENT ⋈ Mgr_ssn = Ssn EMPLOYEE
 
 > obs: O símbolo acima possui perninhas dependendo do tipo, mas não achei do tamanho correto
 
-O outer join pode ser dividido em 3 variasções:
+O outer join pode ser dividido em 3 variações:
 
 - **LEFT OUTER JOIN:** As tuplas da relação à esquerda que não possuem par são associados a valores *NULL*, enquanto as tuplas que não possuem par na relação a direito são descartadas;
 
 - **RIGHT OUTER JOIN:** Mesma ideia do `left outer join`, porém, nesse caso as tuplas da relação à direita que não possuem par são associados a valores *NULL*, enquanto as tuplas que não possuem par na relação a esquerda são descartadas; 
 
-- **FULL OUTER JOIN** Tanto as tuplas da relação a direita, quanto as tuplas da relação a esquerda que não possuirem um par quando for realizada a operação de `join` são associados a valores *NULL*.
+- **FULL OUTER JOIN** Tanto as tuplas da relação a direita, quanto as tuplas da relação a esquerda que não possuírem um par quando for realizada a operação de `join` são associados a valores *NULL*.
 
 **Exemplos:**
 

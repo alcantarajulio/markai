@@ -28,7 +28,7 @@ Um valor que identifica unicamente cada linha (entidade). Nota-se que na relaç�
 Relação | Tabela |
 Tupla | Linha |
 Atributo | Cabeçalho da coluna |
-Domínio | Todos os valores possiveis da coluna |
+Domínio | Todos os valores possíveis da coluna |
 Esquema | Definição da tabela |
 Estado da relação | Povoamento de uma tabela |
 
@@ -53,7 +53,7 @@ Na matemática, uma tupla é um conjunto ordenado de valores representado por `<
 `r(R) = {t1, t2, ..., tn}` onde *ti* é uma n-tupla.
 `ti = <v1, v2, ..., vn>` onde cada vj ∈ dom(Aj).
 
-## Retrições (*Constraints*)
+## Restrições (*Constraints*)
 
 As restrições (*constraints*) são utilizadas para determinar quais valores serão (ou não) permitidos no banco de dados. Entre os principais tipos de *constraints* estão:
 
@@ -71,7 +71,7 @@ Por definição, todas as tuplas (linhas) são distintas, ou seja, não podem ex
 
 ##### *Super Key*
 
-Qualquer conjunto de atributos que seja capaz de identificar unicamente todas as tuplas da relação é chamado de *super key*. Toda relação tem pelo menos uma *SK*. Note que a *SK* pode incluir atributos redudantes ou inúteis para identificar unicamente cada tupla.
+Qualquer conjunto de atributos que seja capaz de identificar unicamente todas as tuplas da relação é chamado de *super key*. Toda relação tem pelo menos uma *SK*. Note que a *SK* pode incluir atributos redundantes ou inúteis para identificar unicamente cada tupla.
 
 ##### Key
 
