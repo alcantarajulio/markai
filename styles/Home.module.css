@@ -33,6 +33,14 @@
     margin-top: 20px;
 }
 
+@media (min-width: 800px) {
+    .Maintainers {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        justify-content: space-around;
+    }
+}
+
 @media (min-width: 1000px) {
     .Maintainers {
         display: grid;
