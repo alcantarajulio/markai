@@ -73,7 +73,7 @@ Em que:
 `N`, representa a população.
 `n`, representa a quantidade de elementos retirados ao acaso.
 
-De maneira mais verborrágica, podemos traduzir essa fórmula, no seguinte, dada uma população de `N` objetos, sabemos que `K` contém um atributo A e `N-K` possuem um B. Desses objetos `n` são escolhidos ao acaso, sem reposição, e queremos saber a probabilidade de `k` elementos dessa amostra possuirem o atributo A.
+De maneira mais verborrágica, podemos traduzir essa fórmula, no seguinte, dada uma população de `N` objetos, sabemos que `K` contém um atributo A e `N-K` possuem um B. Desses objetos `n` são escolhidos ao acaso, sem reposição, e queremos saber a probabilidade de `k` elementos dessa amostra possuírem o atributo A.
 
 Propriedades:
 

@@ -206,7 +206,7 @@ Dada a função:
 </p>
 
 ## Questão 6
-Uma variável aleatória *x* tem distribuição triangular no intervalor [0, 1] se fua *f.d.p.* for dada por:
+Uma variável aleatória *x* tem distribuição triangular no intervalo [0, 1] se for *f.d.p.* for dada por:
 
 <p align="center"> 
   <img src="https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%5Csmall%20f%28x%29%20%3D%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%200%2C%20%26%20x%20%3C%200%20%5C%5C%20Cx%2C%20%26%200%5Cleq%20x%20%5Cleq%20%5Cfrac%7B1%7D%7B2%7D%20%5C%5C%20C%281-x%29%2C%20%26%20%5Cfrac%7B1%7D%7B2%7D%20%5Cleq%20x%20%5Cleq%201%20%5C%5C%200%2C%20%26%20x%20%3E%201%20%5Cend%7Bmatrix%7D%5Cright.">
@@ -288,7 +288,7 @@ Suponha que estamos atirando dardos num alvo circular de raio 10cm, e seja *x* a
   <img src="https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%5Csmall%20F%281%29%20%3D%20P%28x%5Cleq%201%29%20%3D%200%2C01">
 </p>
 
-**b)** Mostre que a probabilidade de acertar qualquer círculo concêntrico é proporcional â sua área.
+**b)** Mostre que a probabilidade de acertar qualquer círculo concêntrico é proporcional à sua área.
 
 **Resolução:**
 

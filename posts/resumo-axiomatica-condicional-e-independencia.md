@@ -39,10 +39,10 @@ Feito com base neste [slide](https://drive.google.com/file/d/16xZUxh5myoZMejHGkd
 - P(A / B) = P(A ∩ B) / P(B).
 
 ### A cada evento A C Ω associamos dois números.
-- P(A), a probabilidade não condionada de A, chamada de probabilidade ***A PRIORI*** de A.
+- P(A), a probabilidade não condicionada de A, chamada de probabilidade ***A PRIORI*** de A.
 - P(A / B), a probabilidade condicionada de A, desde que algum outro evento B (para qual P(B) > 0) tenha ocorrido, chamando-se de probabilidade ***A POSTERIORI*** de A dado B.
 - [Propriedades](#Propriedades)
-- As propriedades condionais satisfazem os axiomas das propriedades comuns.
+- As propriedades condicionais satisfazem os axiomas das propriedades comuns.
 
 
 ### Regra do produto de probabilidades

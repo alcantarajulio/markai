@@ -3,7 +3,7 @@ title: Medidas de Dispersão
 discipline: Introdução à Probabilidade
 ---
 
-Feito com basse nesse [slide](https://www.dropbox.com/s/5byiyz93n9fr0gj/Aula%205_Medidas_Dispers%C3%A3o.pdf?dl=0)
+Feito com base nesse [slide](https://www.dropbox.com/s/5byiyz93n9fr0gj/Aula%205_Medidas_Dispers%C3%A3o.pdf?dl=0)
 
 
 ## Desvio médio
@@ -44,7 +44,7 @@ O **desvio padrão** de *x*, *dp(x)*, é definido como:
   <img src="https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%5Clarge%20Cv%28x%29%3D%5Cfrac%7Bdp%28x%29%7D%7B%5Cbar%7Bx%7D%7DX100">
 </p>
 
-  - Um critério de decisão sobre a representividade ou não da média, pode ser dada pela seguinte linha de corte:
+  - Um critério de decisão sobre a representatividade ou não da média, pode ser dada pela seguinte linha de corte:
     - Se ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cfn_cm%20%5Csmall%20Cv%28x%29%5Cgeq%200.5) , a média **não** é representativa;
     - Se ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cfn_cm%20%5Csmall%20Cv%28x%29%3C%200.5) , a média é representativa.
 

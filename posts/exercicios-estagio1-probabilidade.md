@@ -119,7 +119,7 @@ O número de divórcios numa certa idade, de acordo com a duração do casamento
   <img src="https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%5Csmall%20%5Cbar%7Bx%7D%20%5Csimeq%206%2C97">
 </p>
 
-**c)** Encontre a variância e o desvio padrâo de duração de casamentos.
+**c)** Encontre a variância e o desvio padrão de duração de casamentos.
 
 **Resolução**
   - Para a variância, usaremos a seguinte fórmula:
@@ -151,7 +151,7 @@ Uma companhia de seguros analisou a frequência com que 2000 segurados usaram o 
 **Não usaram o hospital** | 900 | 850 | 1750
 **Total** | 1000 | 1000 | 2000
 
-**a)** Calcule a proporção de homens entre os indíviduos que usaram o hospital.
+**a)** Calcule a proporção de homens entre os indivíduos que usaram o hospital.
 
 **Resolução**
   - Para isto, vamos usar regra de três simples:
@@ -170,7 +170,7 @@ Uma companhia de seguros analisou a frequência com que 2000 segurados usaram o 
 **c)** O uso do hospital independe do sexo do segurado? Justifique a sua resposta utilizando uma medida adequada de associação.
 
 **Resolução**
-  - Para isto, precisamos encontrar o coeficiente de associação *T*, que é dado pela fórumla:
+  - Para isto, precisamos encontrar o coeficiente de associação *T*, que é dado pela fórmula:
   <p align="center">
   <img src="https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%5Csmall%20T%20%3D%20%5Csqrt%7B%5Cfrac%7B%5Cfrac%7Bx%5E2%7D%7Bn%7D%7D%7B%28r-1%29%28s-1%29%7D%7D">
 </p>

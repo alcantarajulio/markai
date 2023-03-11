@@ -91,7 +91,7 @@ Abstrações que operam de maneira uniforme sobre valores de tipos diferentes.
 
 - Polimorfismo Ad hoc: abstração atua sobre um número finito de tipos não relacionados, mas se comporta diferentemente dependendo do tipo
 	* Sobrecarga: Um identificador é sobrecarregado se ele é aplicável a mais de uma operação, a sobrecarga só funciona se o compilador consegue distinguir a operação a ser chamada usando somente informações de tipo
-	* Coerção: Conversão implícita de tipo, realizada automaticamente quando o contexto intático exige
+	* Coerção: Conversão implícita de tipo, realizada automaticamente quando o contexto sintático exige
 
 - Polimorfismo Universal: Uma única abstração atua de maneira uniforme sobre uma família de tipos.
 	* Inclusão: Um tipo pode ter subtipos, que herdam as operações do tipo original, uma única abstração opere de maneira uniforme sobre um família de tipos representada através de uma relação de subtipos, ou seja, a subclasse verifica se ela tem ou não um método com
@@ -127,7 +127,7 @@ Tempo de vida de uma variável é o intervalo de tempo entre a sua criação (al
 ![escopo_c](https://i.imgur.com/8JGCljo.png)
 
 ### Expressões vs Comandos:
-- Expressões: lêem estados e computam valores
+- Expressões: leem estados e computam valores
 - Comandos modificam estados, podendo ser:
 	* Atribuições: Modificação direta do valor/estado de uma variável, podendo ser:
 		* Atribuição simples: x = y + 1;

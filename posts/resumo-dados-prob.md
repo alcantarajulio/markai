@@ -28,7 +28,7 @@ Alguns conceitos fundamentais.
     - ***Qualitativa***: Valores referentes a qualidade, atributo ou categoria
         - *Nominais*: Apresentam apenas aspecto qualitativo.
         - *Ordinais*: Apresentam uma categoria com ordenação natural.
-    - ***Quantitativa***: Valores númericos
+    - ***Quantitativa***: Valores numéricos
         - *Discretas*: Obtidas a partir do procedimento de **contagem**.
         - *Contínuas*: Obtidas a partir do procedimento de **mensuração**.
 
@@ -76,7 +76,7 @@ Adequado para variáveis *quantitativas nominais* mas também pode ser usado par
 
 #### Construção
 
-Este  gráfico  é  caracterizadopor  um  círculo  (de  raio  arbitrário)  representando  opercentual  **total**  dos  dados,  o  qual  é  dividido  em  **fatias** que  correspondem,  proporcionalmente,  às  frequências  comque  as  categorias  (ou  valores)  da  variável  ocorrem.
+Este  gráfico  é  caracterizado por  um  círculo  (de  raio  arbitrário)  representando  o percentual  **total**  dos  dados,  o  qual  é  dividido  em  **fatias** que  correspondem,  proporcionalmente,  às  frequências  com que  as  categorias  (ou  valores)  da  variável  ocorrem.
 
 ### Histograma
 
@@ -84,7 +84,7 @@ Adequado para representar dados em classes.
 
 #### Construção
 
-Este  gráfico  é  uma  adaptaçãodo  gráfico  de  colunas:  as  bases  das  colunas  correspondemaos  intervalos  de  classes  e  as  alturas  são  proporcionais  àsfrequências  absolutas  (***ni***),  relativas  (***fi***)  ou  densidades  defrequências  (***ni/∆i*** ou ***fi/∆i***)  de  cada  classe.
+Este  gráfico  é  uma  adaptação do  gráfico  de  colunas:  as  bases  das  colunas  correspondem aos  intervalos  de  classes  e  as  alturas  são  proporcionais  às frequências  absolutas  (***ni***),  relativas  (***fi***)  ou  densidades  de frequências  (***ni/∆i*** ou ***fi/∆i***)  de  cada  classe.
 
 ## Fontes 
 
