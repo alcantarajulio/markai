@@ -88,4 +88,3 @@ Um desempenho abaixo da média na primeira prova pode afetar bastante a motivaç
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
-o por Eduarda Farias
