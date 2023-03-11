@@ -3,8 +3,8 @@
     color: white;
     border-radius: 4px 0px 0px 4px;
     padding: 12px;
-    width: 50px;
     text-align: center;
+    width: 64px;
 }
 
 .PostTitle {
@@ -38,6 +38,7 @@
 }
 
 .Posts p {
-    display: flex;
+    display: grid;
+    grid-template-columns: auto auto;
     align-items: center;
 }
