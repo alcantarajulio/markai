@@ -8,6 +8,7 @@ export default function Home() {
                 <h1>Markai</h1>
                 <p>Site para estudantes de Computação na UFCG</p>
                 <img src="https://kenbme.github.io/markai/img/mai-fundo-branco.png" alt="Markai Logo" />
+                <p style={{color: "blue"}}>O código do projeto será aberto segunda-feira</p>
             </section>
             <section>
                 <h1>Principais contribuidores</h1>
