@@ -18,5 +18,4 @@ fixed: true
 - [Simulador de FPGA](https://github.com/Icaro-Lima/LabarcFPGASimulatorDesktop)
 - [Simulador de circuitos elétricos](https://www.tinkercad.com)
 - [Tradutor de binário para RISC-V assembly](https://github.com/pserey/risc-v-binary-translator)
-
-[Link](https://drive.google.com/file/d/1yShekxnQBUcdMiMw9m9-htxPhMFetQGj/view?usp=sharing) | **Resumo sobre componentes de circuitos para a primeira parte da disciplina** 
+- [Resumo sobre componentes de circuitos para a primeira parte da disciplina](https://drive.google.com/file/d/1yShekxnQBUcdMiMw9m9-htxPhMFetQGj/view?usp=sharing)

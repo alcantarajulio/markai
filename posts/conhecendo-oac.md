@@ -45,7 +45,7 @@ A disciplina é um componente obrigatório do curso de Ciência da Computação,
 
 
 ## Dificuldades Comuns
-### Atennção à disciplina
+### Atenção à disciplina
 
 No geral, os alunos passam a ter dificuldades na disciplina quando tem muitas faltas, não dão atenção às aulas e/ou não fazem os exercícios.
 

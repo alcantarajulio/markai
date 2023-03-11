@@ -5,7 +5,7 @@ discipline: Laboratório de Organização e Arquitetura de Computadores
 
 ## O que vamos fazer nesse exercício?
 
-Vamos implementarum circuito controlador de uma máquina copiadora.
+Vamos implementar um circuito controlador de uma máquina copiadora.
 
 ##  Entradas
 
