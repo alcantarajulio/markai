@@ -16,7 +16,7 @@
 }
 
 .Disciplines li:hover {
-    transform: scale(1.05); 
+    transform: scale(1.05);
 }
 
 .Disciplines li:last-of-type {
@@ -66,7 +66,7 @@
     }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1100px) {
     .Disciplines {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
