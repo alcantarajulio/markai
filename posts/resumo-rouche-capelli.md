@@ -5,7 +5,7 @@ discipline: Álgebra Linear
 
 O teorema de Rouché-Capelli em um determinado sistema nos diz que:
 
-### 1 - Se o Posto da Matriz dos Coeficientes for igual ao Posto da Matriz Ampliada e for igual ao número de incógnitas, então esse sistema admite unica solução.
+### 1 - Se o Posto da Matriz dos Coeficientes for igual ao Posto da Matriz Ampliada e for igual ao número de incógnitas, então esse sistema admite única solução.
 ### 2 - Se o Posto da Matriz dos Coeficientes for igual ao Posto da Matriz Ampliada e for menor que número de incógnitas, então esse sistema admite infinitas soluções.
 ### 3 - Se o Posto da Matriz dos Coeficientes for diferente do Posto da Matriz Ampliada, então esse sistema não admite solução.
 

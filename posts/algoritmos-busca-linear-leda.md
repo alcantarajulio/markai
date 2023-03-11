@@ -5,7 +5,7 @@ discipline: Laboratório de Estrutura de Dados e Algoritmos
 
 ## Busca Linear Recursiva
 
-Na **busca linear** temos um dado array, com n posições e queremos verfificar se um determinado elemento está ou não contido no nosso array. Logo teremos que percorrer todo array de forma recursiva até encontrar ou não o elemento desejado. 
+Na **busca linear** temos um dado array, com n posições e queremos verificar se um determinado elemento está ou não contido no nosso array. Logo teremos que percorrer todo array de forma recursiva até encontrar ou não o elemento desejado. 
 <br><br>
 
 Logo abaixo, temos uma implementação em java do algoritmo de **busca linear** recursiva, para maior compreensão: 

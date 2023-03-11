@@ -14,9 +14,9 @@ discipline: Estrutura de Dados e Algoritmos
 - Balanceamento
     - A altura das sub-árvores diferem no máximo em 1
     - Fator de balanceamento **FB = height(left)-height(right)**, se for:
-        - $<$ 0 a árvore pesa para a direita
-        - $>$ 0 a árvore pesa para a esquerda
-        - = 0 a árvore está balanceada
+        - FB < 0 a árvore pesa para a direita
+        - FB > 0 a árvore pesa para a esquerda
+        - FB = 0 a árvore está balanceada
   
 ## Implementação
 
