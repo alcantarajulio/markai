@@ -1,6 +1,7 @@
 ---
 title: Links Úteis Para a Disciplina
 discipline: Laboratório de Organização e Arquitetura de Computadores 
+fixed: true
 ---
 
 ## Como saber sua Nota
