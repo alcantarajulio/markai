@@ -22,7 +22,6 @@ export default function Posts({ posts }) {
                                 <p>
                                     <span className={styles.DisciplineAbbreviation}>{post.abr}</span>
                                     <span className={styles.PostTitle}>{post.title}</span>
-
                                 </p>
                                 : <p>
                                     <span className={styles.PostTitle} style={{ padding: "12px 4px" }}>{post.title}</span>

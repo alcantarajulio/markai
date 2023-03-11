@@ -55,13 +55,8 @@ discipline: Introdução à Computação
     - Capacidade: 8 a 64 bits
     - Volátil: Sim
     - Tecnologia: Semicondutores
-<<<<<<< HEAD
     - Temporariedade: Armazenamento Temporário.
     - Custo: Altíssimo.
-=======
-    - Temporiedade: Armazenamento Temporário.
-    - Custo: Altissimo.
->>>>>>> refs/remotes/origin/main
   
   - Cache
   Evita gargalo entre registradores e memória principal.
@@ -69,13 +64,8 @@ discipline: Introdução à Computação
     - Capacidade: Varia
     - Volátil: Sim
     - Tecnologia: Circuitos eletrônicos (SRAM)
-<<<<<<< HEAD
     - Temporariedade: Armazenamento Temporário.
     - Custo: Alto
-=======
-    - Temporiedade: Armazenamento Temporário.
-    - Custo: Alt.
->>>>>>> refs/remotes/origin/main
   
   - Memória Principal
   Memória básica do PC, onde programas e dados são executados.
