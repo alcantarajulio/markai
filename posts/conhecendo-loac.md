@@ -33,7 +33,7 @@ fixed: true
 ## Dicas
 
 - Não Acumule atividades
-- Vise sempre focar em exercíos que valem mais centavos
+- Vise sempre focar em exercícios que valem mais centavos
 - Quando fizer algum circuito no tinkercad, evite ao máximo mexer nele de novo. Uma vez pronto, nem abra mais o modo de edição, pois isso vai atualizar a data do seu circuito e isso vai te colocar no final da fila de correção.
 - Foque em Falstad e FPGA
 - Reproduza quaisquer circuitos que ver na aula de OAC. Basta refazê-los em Falstad e enviar
