@@ -7,7 +7,7 @@ fixed: true
 ## Ementa
 
 - Introdução ao Maven 
-- Revisao de Java
+- Revisão de Java
 - Tipos genéricos
 - Comparator
 - Testes Junit
@@ -27,7 +27,7 @@ fixed: true
 - Introdução a listas encadeadas 
 - Listas Encadeadas simples (interativa)
 - Listas duplamente encadeadas (iterativa)
-- Listas encadeadas - Recusivas
+- Listas encadeadas - Recursivas
 - Tabela Hash
 - Endereçamento fechado
 - Endereçamento aberto
@@ -53,12 +53,12 @@ A avaliação é baseada em diferentes tipos de exercícios:
 
 - Cada roteiro vale 10 e a nota é calculada assim, 40% teste e os outros 60% design.
 
-- Cada roteiro tem uma data limite para ser entregue, e antes que pergute " posso entregar o roteiro depois da data limite?". Não, voce não pode, a nao ser que o professor extenda o prazo, as vezes eles fazem essa caridade por nós (betinho o maior que temos). 
+- Cada roteiro tem uma data limite para ser entregue, e antes que pergute " posso entregar o roteiro depois da data limite?". Não, você não pode, a não ser que o professor estenda o prazo, as vezes eles fazem essa caridade por nós (betinho o maior que temos). 
 
 - Sim, no final a nota do roteiro é soma de todos os roteiros, dividido pelo total. 
 
 - Exercícios individuais sobre determinado assunto visto em Estrutura de Dados e Algoritmos
-- São feitos ao todo 4 Roteiros de revisão que não valem nota, e 10 roteiros valaendo nota. 
+- São feitos ao todo 4 Roteiros de revisão que não valem nota, e 10 roteiros valendo nota. 
 
 <br> 
 75% da nota, corresponde a provas individuais.

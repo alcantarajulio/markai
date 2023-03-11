@@ -5,7 +5,7 @@ discipline: Estrutura de Dados e Algoritmos
 
 ## O que é?
 
-É uma estrutura de dados que arranja objetos em ordem linear. Cada objeto é chamado de nó e eles são interligados através de ponteiros. Cada nó contém uma referência para o proximo nó da lista até que seu proximo seja *null* (ou *NIL*), o que indicará o final da lista.
+É uma estrutura de dados que arranja objetos em ordem linear. Cada objeto é chamado de nó e eles são interligados através de ponteiros. Cada nó contém uma referência para o próximo nó da lista até que seu próximo seja *null* (ou *NIL*), o que indicará o final da lista.
 
 As principais características são a alocação dinâmica (sem limite de tamanho), a ordenação determinada por ponteiros e o acesso de forma sequencial. Essa estrutura aceita duas formas de representação: a lista ligada simples e a lista duplamente ligada. Na simples, os nós possuem apenas um apontador para o seu próximo elemento. Na lista duplamente ligada os nós possuem dois ponteiros: um pra o elemento anterior e outro para o próximo elemento.
 
