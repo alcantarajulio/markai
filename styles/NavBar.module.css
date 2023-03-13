@@ -25,7 +25,11 @@
 @media (min-width: 800px) {
     .NavBar {
         flex-direction: column;
-        width: 64px;
+        width: 88px;
         height: 100%;
+    }
+
+    .NavBar a {
+        font-size: 40px;
     }
 }

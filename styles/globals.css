@@ -36,7 +36,7 @@ span {
 @media (min-width: 800px) {
     main {
         max-width: 100%;
-        margin: 0 0 0 64px;
+        margin: 0 0 0 88px;
     }
 
     main>div {
