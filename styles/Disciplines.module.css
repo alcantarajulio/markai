@@ -72,3 +72,19 @@
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
+
+@media (min-width: 1400px) {
+    .Disciplines li {
+        max-width: 380px;
+    }
+
+    .Disciplines img {
+        height: 380px;
+        width: 380px;
+    }
+
+    .Disciplines a {
+        height: 380px;
+        width: 380px;
+    }
+}
