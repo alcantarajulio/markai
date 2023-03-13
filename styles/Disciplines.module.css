@@ -3,12 +3,13 @@
     flex-direction: column;
     align-items: center;
     justify-items: center;
+    row-gap: 20px;
 }
 
 .Disciplines li {
-    margin: 0px 0px 20px 0px;
+    margin: 0;
     list-style: none;
-    max-width: 300px;
+    width: 340px;
     border-radius: 3px;
     box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.14);
     transition: all 0.3s ease-out;
@@ -28,8 +29,8 @@
 }
 
 .Disciplines img {
-    height: 300px;
-    width: 300px;
+    height: 340px;
+    width: 340px;
     object-fit: cover;
     border-radius: 4px 4px 0px 0px;
 }
@@ -37,8 +38,8 @@
 .Disciplines a {
     display: flex;
     flex-direction: column;
-    height: 300px;
-    width: 300px;
+    height: 340px;
+    width: 340px;
     color: black;
     border-radius: 4px;
 }
@@ -47,6 +48,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.DisciplineBody p {
+    font-size: 18px;
 }
 
 .DisciplinePeriod {
@@ -59,14 +64,14 @@
     align-items: center;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 850px) {
     .Disciplines {
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
 }
 
-@media (min-width: 1100px) {
+@media (min-width: 1200px) {
     .Disciplines {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
@@ -75,16 +80,16 @@
 
 @media (min-width: 1400px) {
     .Disciplines li {
-        max-width: 380px;
+        width: 400px;
     }
 
     .Disciplines img {
-        height: 380px;
-        width: 380px;
+        height: 400px;
+        width: 400px;
     }
 
     .Disciplines a {
-        height: 380px;
-        width: 380px;
+        height: 400px;
+        width: 400px;
     }
 }
