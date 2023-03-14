@@ -4,10 +4,11 @@
     width: 100%;
     position: fixed;
     bottom: 0;
+    height: 56px;
 }
 
 .NavBar a {
-    font-size: 32px;
+    font-size: 36px;
     text-align: center;
     width: 100%;
     color: white;
