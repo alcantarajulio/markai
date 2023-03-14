@@ -1,21 +1,22 @@
 .DisciplineAbbreviation {
+    display: flex;
     background-color: #052941;
     color: white;
     border-radius: 4px 0px 0px 4px;
-    padding: 12px;
-    text-align: center;
-    width: 64px;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
 }
 
 .PostTitle {
-    padding: 4px;
+    padding: 16px;
 }
 
 .Posts li {
-    margin: 0 0 15px 0;
-    padding: 0px;
+    margin: 0 0 20px 0;
     border-radius: 4px;
-    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.09);
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.05);
     transition: all 0.3s ease-out;
     list-style: none;
     background-color: white;
@@ -39,6 +40,6 @@
 
 .Posts p {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-auto-flow: column;
     align-items: center;
 }

@@ -10,8 +10,8 @@
     margin: 0;
     list-style: none;
     width: 340px;
-    border-radius: 3px;
-    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.14);
+    border-radius: 4px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.05);
     transition: all 0.3s ease-out;
     background-color: white;
 }
@@ -48,10 +48,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.DisciplineBody p {
-    font-size: 18px;
 }
 
 .DisciplinePeriod {

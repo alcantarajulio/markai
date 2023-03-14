@@ -17,6 +17,7 @@ main>div {
     max-width: 1400px;
     margin-right: auto;
     margin-left: auto;
+    font-size: 20px;
 }
 
 img {
@@ -27,10 +28,26 @@ li {
     margin-left: 20px;
 }
 
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    font-size: 24px;
+}
+
 p,
 li,
-span {
-    font-size: 16px;
+span,
+a {
+    font-size: 20px;
 }
 
 @media (min-width: 800px) {

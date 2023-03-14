@@ -9,14 +9,15 @@
 }
 
 .PostSingle>h2 {
+    display: block;
     margin-top: 10px;
     text-align: center;
-    font-size: 24px;
-    text-decoration: overline;
+    border-top: 4px solid black;
 }
 
-.PostSingle >h2 > a {
+.PostSingle>h2>a {
     color: #015C53;
+    font-size: 28px;
 }
 
 .PostSingle>div {
@@ -39,12 +40,12 @@
 }
 
 .PostSingle>div h1 {
-    font-size: 30px;
+    font-size: 32px;
 }
 
 .PostSingle>div h2 {
     padding: 15px 0px;
-    font-size: 24px;
+    font-size: 28px;
 }
 
 .PostSingle>div h3,
@@ -52,7 +53,7 @@
 .PostSingle>div h5,
 .PostSingle>div h6 {
     padding: 10px 0px;
-    font-size: 18px;
+    font-size: 24px;
 }
 
 .PostSingle li {
@@ -64,6 +65,7 @@
     border-collapse: collapse;
     background-color: white;
     font-weight: normal;
+    font-size: 20px;
 }
 
 .PostSingle table strong {
@@ -85,7 +87,7 @@
 
 .PostSingle pre code {
     display: block;
-    font-size: 16px;
+    font-size: 20px;
     margin: 10px 0px;
     scrollbar-width: 0;
 }
@@ -94,9 +96,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 1px 10px;
+    padding: 0px 10px;
     color: black;
-    max-width: 190px;
+    width: 220px;
     margin-left: auto;
     background-color: #015C53;
     color: white;
@@ -104,5 +106,5 @@
 }
 
 .Contribute svg {
-    font-size: 54px;
+    font-size: 80px;
 }
