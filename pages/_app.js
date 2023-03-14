@@ -1,21 +1,12 @@
 import "@/styles/globals.css";
 import "@/public/css/dracula.css";
 import "@fontsource/roboto";
-import React, { useEffect } from "react";
+import React from "react";
 import Head from "next/head";
 import NavBar from "@/components/NavBar";
-import ReactGA from 'react-ga';
-
-const TRACKING_ID = "G-6C5Y2VR40E";
-ReactGA.initialize(TRACKING_ID);
 
 // @ts-ignore
 export default function App({ Component, pageProps }) {
-    useEffect(() => {
-        ReactGA.pageview(window.location.pathname);
-        console.log(window.location.pathname);
-    });
-
     return (
         <>
             <Head>
@@ -31,7 +22,7 @@ export default function App({ Component, pageProps }) {
             <main>
                 <Component {...pageProps} />
             </main>
-            <NavBar />
+            <NavBar/>
         </>
     )
 }
