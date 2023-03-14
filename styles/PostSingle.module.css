@@ -92,6 +92,10 @@
     scrollbar-width: 0;
 }
 
+.Contribute {
+    padding-top: 20px;
+}
+
 .Contribute a {
     display: flex;
     align-items: center;
