@@ -1,6 +1,6 @@
 ---
 title: Listas de Exercícios e Provas
-discipline: Teoria da Computaçãofi
+discipline: Teoria da Computação
 fixed: true
 ---
 
