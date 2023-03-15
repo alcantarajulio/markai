@@ -6,13 +6,23 @@ fixed: true
 
 ## O que você vai estudar nessa disciplina?
 
-- Análise Exploratória de Dados
-- Probabilidade
-- Probabilidade Condicional
-- Teorema de Bayes
-- Variáveis Aleatórias Discretas e Contínuas
-- Valor Esperado e Variância
-- Modelos Probabilísticos para Variáveis Discretas e Contínuas
+- Introdução à Estatistica.
+- Tabelas e gráficos para dados não agrupados
+- Tabelas para dados agrupados em classes. Histograma.
+- Medidas de posição. (média, moda e mediana).
+- Medidas de dispersão : variância, desvio padrão e coeficiente de variação.
+- Análise bidimensional para duas variáveis qualitativas.
+- Análise Bidimensional para duas variáveis quantitativas.
+- Teoria das probabilidades: introdução, conceitos básicos e operações entre eventos.
+- Abordagem clássica para definir probabilidade. Combinações simples.
+- Abordagem axiomática para definir probabilidade.
+- Probabilidade condicional. Teorema do produto. Independência.
+- Variáveis aleatórias discretas (v.a.d.).
+- Esperança e variância de uma v.a.d.: definições e propriedades.
+- Modelo de Bernoulli e Modelo Binomial.
+- Modelo Geométrico e Modelo de Poisson.
+- Variáveis aleatórias contínuas (v.a.c.): definição e exemplos.
+- Esperança e variância de uma v.a.c.: definição e propriedades.
 
 ## O que esperar?
 
@@ -42,5 +52,6 @@ Em alguns assuntos da disciplina você irá se deparar com o cálculo de integra
 
 ## Fontes 
 
+1. <a href= "https://sites.google.com/uaest.ufcg.edu.br/probabilidade/p%C3%A1gina-inicial?authuser=0" target="_blank" > Site oficial de Probabilidade</a>
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
 
