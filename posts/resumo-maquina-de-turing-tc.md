@@ -34,7 +34,7 @@ Uma linguagem pode ser **Turing-reconhecível** ou **Turing-decidível** se exis
 
 ## Variações
 
-As **variações** de máquinas de Turing são ambundantes, mas todas reconhecem a mesma classe de linguagens, diz-se então que possuem a mesma **robustez**. Um exemplo simples que permite a percepção dessa característica é garantir ao cabeçote a capacidade de permanecer parado durante uma transição. Ainda que seja uma nova capacidade, ela não adiciona poder à máquina de Turing, dado que seria possível realizar as mesmas tarefas com duas transições distintas.
+As **variações** de máquinas de Turing são abundantes, mas todas reconhecem a mesma classe de linguagens, diz-se então que possuem a mesma **robustez**. Um exemplo simples que permite a percepção dessa característica é garantir ao cabeçote a capacidade de permanecer parado durante uma transição. Ainda que seja uma nova capacidade, ela não adiciona poder à máquina de Turing, dado que seria possível realizar as mesmas tarefas com duas transições distintas.
 
 ### Calculadora de Função
 
@@ -56,7 +56,7 @@ Assim como nos autômatos finitos, a adição do não-determinismo não represen
 
 Informalmente, um enumerador é uma máquina de Turing com um *"impressora"* acoplada, através da qual são impressas as cadeias que são aceitas. O enumerador irá imprimir a lista de todas as cadeias que compõem sua linguagem, porém, essa listagem não segue nenhuma ordem específica e não está livre de repetições, o que pode levar a um tempo de processamento infinito.
 
-Sua característica mais importante é que uma linguaguem é Turing-reconhecível se, e somente se, existir um enumerador que a enumere.
+Sua característica mais importante é que uma linguagem é Turing-reconhecível se, e somente se, existir um enumerador que a enumere.
 
 ## Algoritmos
 

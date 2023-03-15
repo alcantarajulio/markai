@@ -9,11 +9,11 @@ Esse tópico concentra-se em demonstrar que problemas são solucionáveis ou nã
 
 Você pode pensar que não é útil saber quais problemas o computador não consegue resolver, mas você verá que isso o ajudará a concentrar seus esforços na simplificação e alteração de problemas que você sabe que não são resolvíveis para todos os casos. Além disso, isso o ajuda a compreender melhor a computação, uma vez que você entende seus limites.
 
-## Linguagens Decidiveis
+## Linguagens Decidíveis
 
 Uma linguagem é dita **decidível**, se existe uma máquina de turing que a decide. Isto significa que existe um programa que consegue resolver o problema, e para cada entrada do mesmo, consegue retornar um resultado, seja ele de aceitação ou de rejeição (você pode pensar em uma exceção, por exemplo). Lembre-se que em uma máquina de turing, um dos possíveis estados é não responder nada e assim ficar em loop, quando uma linguagem é decidível, esse cenário **nunca** ocorre.
 
-O livro busca representar os problemas decidiveis, por meio de linguagens, isso porque, como desde o ínicio da disciplina estamos fazendo autômatos para o reconhecimento das mesmas, então será fácil pra você se a mesma linha de raciocínio for seguida, mas cada linguagem citada abaixo equivale a um problema e o autômato(também conhecido como programa), a solução.
+O livro busca representar os problemas decidíveis, por meio de linguagens, isso porque, como desde o início da disciplina estamos fazendo autômatos para o reconhecimento das mesmas, então será fácil pra você se a mesma linha de raciocínio for seguida, mas cada linguagem citada abaixo equivale a um problema e o autômato(também conhecido como programa), a solução.
 
 Para provar que uma linguagem é decidível, só precisamos discutir, qual seria o procedimento necessário para resolver o problema, geralmente, usando pseudo-código, esse tópico diferente dos outros não exigirá a criação dos autômatos.
 
@@ -23,10 +23,10 @@ Para provar que uma linguagem é decidível, só precisamos discutir, qual seria
 
 Num primeiro momento, um polinômio com uma única raiz pode parecer não decidível. Já que, quando temos um polinômio com múltiplas raízes, por exemplo, caso em que precisamos testar usando a abordagem de **força bruta**, corre-se o risco do computador ficar executando indefinidamente, o que faz com que o problema não seja decidível. No entanto, no caso de um polinômio com uma única raiz inteira, conseguimos fazer ele ser decídivel, porque podemos limitar a quantidade de casos que precisamos testar.
 
-O [teorema das raizes racionais](https://pt.wikipedia.org/wiki/Teorema_das_ra%C3%ADzes_racionais) afirma que se o polinômio possui uma raiz, ela está entre dois valores, e assim a procura tem fim. Dessa forma, conseguimos afirmar que o problema é decidível, uma vez que também conseguiremos responder quando o polinômio não tem uma raiz, diferentemente do problema inicial.
+O [teorema das raízes racionais](https://pt.wikipedia.org/wiki/Teorema_das_ra%C3%ADzes_racionais) afirma que se o polinômio possui uma raiz, ela está entre dois valores, e assim a procura tem fim. Dessa forma, conseguimos afirmar que o problema é decidível, uma vez que também conseguiremos responder quando o polinômio não tem uma raiz, diferentemente do problema inicial.
 
 Um questionamento que pode surgir é:
-> "Se eu tiver um polinômio com múltiplas variavéis e conseguir manipular a equação de modo a tornar ele em função de uma única, o problema será decidivel?"
+> "Se eu tiver um polinômio com múltiplas variáveis e conseguir manipular a equação de modo a tornar ele em função de uma única, o problema será decidivel?"
 
 A resposta é **sim**. Entende por quê? Seria possível usar o programa anterior pra resolver o novo.
 
@@ -66,7 +66,7 @@ O que fazemos é utilizar propriedades de conjuntos, pense no seguinte, se os do
 Então, usamos isso ao nosso favor. Isso pode ser transcrito como:  
 `L(C) = [L(A) inter ~L(B)] U [~L(A) inter L(B)] = vazio`
 
-Do primeiro capítulo, vimos que os autômatos são fechados para todas as operações, então tendo em mão o autômato da linguagem C, basta executarmos o autômato do teste da vacuidade, se o mesmo aceita, aceitaremos e se o mesmo rejeita, rejeitaremos. A linguagem consegue ser decídivel, porque apenas manipulamos os estados do autômato, não simulamos uma execução com infinitas palavras, devido a isso conseguimos garantir a resposta.
+Do primeiro capítulo, vimos que os autômatos são fechados para todas as operações, então tendo em mão o autômato da linguagem C, basta executarmos o autômato do teste da vacuidade, se o mesmo aceita, aceitaremos e se o mesmo rejeita, rejeitaremos. A linguagem consegue ser decidível, porque apenas manipulamos os estados do autômato, não simulamos uma execução com infinitas palavras, devido a isso conseguimos garantir a resposta.
 
 ## Linguagens Reconhecíveis
 
@@ -80,7 +80,7 @@ Um vídeo muito legal para entender esse assunto é [este](https://www.youtube.c
 
 Para provar que isso não é possível usamos um tipo de **prova por contradição**, iniciamos assumindo que é possível indicar se um programa para ou não e chegaremos a uma contradição, nos levando a concluir que nossa afirmação era falsa. Suponha que existe um programa **H**, que atua como um oráculo, que prevê o futuro, no caso desse programa ele recebe outro e consegue prever se o programa da entrada para ou não. Agora suponha que existe outro programa **D**, que é como um disseminador de **fake news**, ao receber um programa ele passa pra **H** e diz exatamente o contrário que **H** disse. Então se **H** disse que o programa para, ele dirá que não para, e vice-versa.
 
-Agora imagine o cenário em que **D** passa ele mesmo como entrada, como ele recebe um programa como entrada, isso é possível. Essa ideia pode parecer estranha, mas é isso que um compilador faz, ele é um programa que recebe outro como entrada. Ao passar **D** como entrada, **H** poderia afirmar que **D** para, mas como **D** sempre afirma o contrário, ele diria que não para. É aqui que chegamos na contradição, se existe um programa **H** que consegue afirmar que o problema para, ele deveria ser coerente com o resultado apontado por **D**, como **D** afirma que para e não para ao mesmo tempo, pelo **príncipio do terceiro excluído**, isso é uma contradição, logo, podemos concluir que H não existe.
+Agora imagine o cenário em que **D** passa ele mesmo como entrada, como ele recebe um programa como entrada, isso é possível. Essa ideia pode parecer estranha, mas é isso que um compilador faz, ele é um programa que recebe outro como entrada. Ao passar **D** como entrada, **H** poderia afirmar que **D** para, mas como **D** sempre afirma o contrário, ele diria que não para. É aqui que chegamos na contradição, se existe um programa **H** que consegue afirmar que o problema para, ele deveria ser coerente com o resultado apontado por **D**, como **D** afirma que para e não para ao mesmo tempo, pelo **princípio do terceiro excluído**, isso é uma contradição, logo, podemos concluir que H não existe.
 
 
 
@@ -88,14 +88,14 @@ Agora imagine o cenário em que **D** passa ele mesmo como entrada, como ele rec
 
 **`A(mt) = { <M, w> | M é uma mt e m aceita w }`**
 
-Para esse problema, agimos de modo similar, ao que foi feito com os autômatos, atuamos simulado a execução dessa máquina, se nossa maquina M aceita, aceitamos e se ela rejeita, rejeitamos. O problema é que como temos a saida indefinida, isto é, um loop, o programa ficará executando indefinidamente e como vimos que não conseguimos prever se o programa para ou não do tópico anterior, esse problema também é apenas reconhecível.
+Para esse problema, agimos de modo similar, ao que foi feito com os autômatos, atuamos simulado a execução dessa máquina, se nossa maquina M aceita, aceitamos e se ela rejeita, rejeitamos. O problema é que como temos a saída indefinida, isto é, um loop, o programa ficará executando indefinidamente e como vimos que não conseguimos prever se o programa para ou não do tópico anterior, esse problema também é apenas reconhecível.
 
 
 ### Máquina de Turing e a Vacuidade
 
 **`Vazio(mt) = { <M> | M é uma mt e L(m) = vazio }`**
 
-A ideia por trás da prova é reduzir esse problema a uma variação da **A(mt)** que sabemos que é indecídivel. Se a linguagem é vazia, ele não aceita nenhuma palavra. Então se ele aceita pelo menos uma, deixa de ser vazia e não pertence a nossa linguagem.
+A ideia por trás da prova é reduzir esse problema a uma variação da **A(mt)** que sabemos que é indecidível. Se a linguagem é vazia, ele não aceita nenhuma palavra. Então se ele aceita pelo menos uma, deixa de ser vazia e não pertence a nossa linguagem.
 
 Testamos para esse caso base, em que a linguagem só tem uma única palavra, e vemos que não conseguimos responder nem mesmo nele. Criamos uma variação da máquina anterior, adicionando alguns estados iniciais que verificam se a palavra passada é diferente da que nossa linguagem possui, se ela for, rejeitamos, caso contrário, colocamos ela pra executar na máquina anterior. No entanto, mais uma vez, recaímos no problema de se determinar se a máquina para ou não. E como não conseguimos assegurar o nosso estado de negação, concluímos que ela é reconhecível.
 
@@ -115,17 +115,17 @@ Devido a esse fato, se tivermos uma linguagem apenas reconhecível, ao fazermos 
 
 Ao fazermos a interseção de uma linguagem reconhecível com outra reconhecível, obtemos outra reconhecível, já que como as duas garantem o sim, a interseção não alterará essa propriedade e a resultante ainda terá esse comportamento.
 
-### Linguagem decídivel U Linguagem decidível
+### Linguagem decidível U Linguagem decidível
 
-Ao fazermos a união de duas decidíveis, estamos obtendo todo o conjunto de linguagens que garantem o sim e o não e unindo a ele mesmo, logo o resultado é uma linguagem decídivel também.
+Ao fazermos a união de duas decidíveis, estamos obtendo todo o conjunto de linguagens que garantem o sim e o não e unindo a ele mesmo, logo o resultado é uma linguagem decidível também.
 
 ### Linguagem reconhecível U Linguagem decidível
 
-Ao fazermos a união de uma reconhecível com uma decidível, acabamos por obter uma reconhecível, isto se dá, porque se nos depararmos com o caso em que ambas as linguagens rejeitam a palavra, poderíamos continuar executando indefinidamente no caso da primeira, logo a linguaguem garante apenas a aceitação.
+Ao fazermos a união de uma reconhecível com uma decidível, acabamos por obter uma reconhecível, isto se dá, porque se nos depararmos com o caso em que ambas as linguagens rejeitam a palavra, poderíamos continuar executando indefinidamente no caso da primeira, logo a linguagem garante apenas a aceitação.
 
 ### Linguagem reconhecível ∩ Linguagem decidível
 
-Apesar de uma delas ser decídivel, se nos depararmos com o caso da primeira receber uma palavra que não pertence a lingugagem também executaríamos indefinidamente, como no caso anterior, e portanto, a linguagem resultante é reconhecível.
+Apesar de uma delas ser decidível, se nos depararmos com o caso da primeira receber uma palavra que não pertence a linguagem também executaríamos indefinidamente, como no caso anterior, e portanto, a linguagem resultante é reconhecível.
 
 
 ## Fontes 
