@@ -4,9 +4,9 @@ import "@fontsource/roboto";
 import React, { useEffect } from "react";
 import Head from "next/head";
 import NavBar from "@/components/NavBar";
-import ReactGA from "react-ga";
+import ReactGA from "react-ga4";
 
-const TRACKING_ID = "UA-197467415-2";
+const TRACKING_ID = "G-H1PTTLC229";
 ReactGA.initialize(TRACKING_ID);
 
 // @ts-ignore
@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }) {
     useEffect(() => {
         const pathname = window.location.pathname;
         if (pathname.startsWith("/markai")) {
-            ReactGA.pageview(pathname);
+            ReactGA.send({ hitType: "pageview", page: pathname, title: pathname });
         }
     })
     return (
