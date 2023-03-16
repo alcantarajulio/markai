@@ -1,4 +1,4 @@
-import styles from "@/styles/PostSingle.module.css"
+import styles from "@/styles/PostSingle.module.scss"
 import React, { useEffect } from "react";
 import { AiOutlineGithub } from "react-icons/ai";
 import hljs from "highlight.js";

@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "@/styles/404.module.css";
+import styles from "@/styles/404.module.scss";
 
 export default function _404() {
     return (

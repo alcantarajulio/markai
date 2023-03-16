@@ -1,4 +1,4 @@
-import styles from "@/styles/Disciplines.module.css";
+import styles from "@/styles/Disciplines.module.scss";
 import Link from "next/link";
 import React from "react";
 

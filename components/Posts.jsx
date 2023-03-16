@@ -1,4 +1,4 @@
-import styles from "@/styles/Posts.module.css";
+import styles from "@/styles/Posts.module.scss";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import React from "react";
