@@ -12,7 +12,10 @@ ReactGA.initialize(TRACKING_ID);
 // @ts-ignore
 export default function App({ Component, pageProps }) {
     useEffect(() => {
-        ReactGA.pageview(window.location.pathname);
+        const pathname = window.location.pathname;
+        if (pathname.startsWith("/markai")) {
+            ReactGA.pageview(pathname);
+        }
     })
     return (
         <>
