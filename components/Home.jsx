@@ -7,8 +7,8 @@ export default function Home() {
             <section className={styles.Notices}>
                 <h1>Markai</h1>
                 <p>Site para estudantes de Computação na UFCG</p>
-                <img src="https://kenbme.github.io/markai/img/mai-fundo-branco.png" alt="Markai Logo" />
-                <p style={{color: "blue"}}>O código do projeto será aberto sexta-feira, existem mudanças sendo feitas no momento</p>
+                <img src="https://kenbme.github.io/markai/static/img/mai-fundo-branco.png" alt="Markai Logo" />
+                <p style={{color: "blue"}}>Código aberto para todos, agora você pode contribuir! :D</p>
             </section>
             <section>
                 <h1>Principais contribuidores</h1>

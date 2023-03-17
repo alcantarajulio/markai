@@ -1,5 +1,5 @@
 import "@/styles/globals.scss";
-import "@/public/css/dracula.css";
+import "@/public/static/css/dracula.css";
 import "@fontsource/roboto";
 import React, { useEffect } from "react";
 import Head from "next/head";
@@ -13,7 +13,8 @@ ReactGA.initialize(TRACKING_ID);
 export default function App({ Component, pageProps }) {
     useEffect(() => {
         const pathname = window.location.pathname;
-        if (pathname.startsWith("/markai")) {
+        const href = window.location.href;
+        if (href.startsWith("https://kenbme.github.io/markai")) {
             ReactGA.send({ hitType: "pageview", page: pathname, title: pathname });
         }
     })
