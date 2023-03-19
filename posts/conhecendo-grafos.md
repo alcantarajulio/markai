@@ -55,45 +55,25 @@ fixed: true
 
 ## O que esperar?
 
-A disciplina é pautada em apresentar a teoria que embasa todo o estudo e as aplicações dos grafos na Ciência da Computação, porém não está focada apenas em aspectos teóricos. Também são apresentadas ferramentas para o desenvolvimento de aplicações, visualização e fixação dos conceitos ministrados. São estas:
-- [yEd](https://www.yworks.com/products/yed)
-  - Esta é a primeira ferramenta que o aluno tem contato, com ela é possível construir vários tipos de representações, dos tipos de grafos mais simples até um dos mais complexos principalmente em termos de visualização.
+Introduzir conceitos básicos da Teoria dos Grafos. Apresentar problemas que podem ser representados por grafos. Apresentar algoritmos importantes para a solução de problemas mais conhecidos.
+A disciplina funciona com a disponibilização antecipada de materiais variados para consulta antes de cada aula (sala de aula invertida), aulas interativas com resolução de exercícios, atividades avaliativas individuais realizadas no momento da aula, e em grupo realizadas de forma remota. Todo o material elaborado para a disciplina será disponibilizado para acesso remoto e download através do ambiente virtual de aprendizagem (Google Classroom).
 
-- [API JgraphT](https://jgrapht.org/)
-  - É uma API desenvolvida em Java e que traz todos os conceitos estudados modelados e em sua grande maioria implementados e disponíveis para uso. Ao usá-la é possível enxergar resultados e aplicações práticas dos conceitos expostos em sala de aula
+- [NetworkX](https://networkx.org/documentation/networkx-3.0/)
+    - Essa ferramenta trará algumas facilidades além de uma ligação mais direta com outras disciplinas como estatisticas e conexão com o Neo4J. é bem parecido com a API JGraphT, mas bem poderoso e pode ser uilizado facilmente em diferentes IDEs.
 
 - [Neo4J e Cypher](https://neo4j.com/sandbox/)
   - O Neo4j é um sistema de gerenciamento e armazenamento de dados através de grafos (graph database).
   - Cypher é uma linguagem de consulta semelhante a SQL que se baseia no uso de padrões de nós e relacionamentos em um grafo.
 
-## Materiais de estudo
-
-### Exercícios Práticos
-
-### 2019.1
-
-| EP | Link | Dados | Formulário de Entrega |
-| :--: | :--: | :--: |  :--: |
-| 01 | [Link](https://drive.google.com/file/d/1RDnO3Oe4bah7ijkNVO54T-Bv1vtAGeyV/view?usp=sharing) | [Astrounautas](https://drive.google.com/file/d/10PoT2zxZgzKRjEtOdieZxtfiwGf_xyRh/view?usp=sharing) | [Link](./20191/exerciciosPraticos/ep01-formulario.md) |
-| 02 | [Link](https://drive.google.com/file/d/1mAb_FhvmZRej2upXWcPFINjflpypuYC0/view?usp=sharing) | [E-mails](https://drive.google.com/file/d/1_K2UBDmcTBnnTPZbBsf1p135W74ocokS/view?usp=sharing) | [Link](./20191/exerciciosPraticos/ep02-formulario.md) |
-| 03 | [Link](https://drive.google.com/file/d/1j8RQdKZAUD0oZEEwmstDoa_wSMapNEXd/view?usp=sharing) | Nenhum | [Link](./20191/exerciciosPraticos/ep03-formulario.md) |
-| 04 | [Link](https://drive.google.com/file/d/1ba0pF3vM96kF2A1lecDjDu3XZTWoovbX/view?usp=sharing) | [Compras](https://drive.google.com/file/d/1tmkXP5bc17Wr5Jjr-KRHO3z6aT6gQ2p9/view?usp=sharing) e [Pessoas](https://drive.google.com/file/d/18osrFtjt0qivSP68p5TX5rrrKYu86YbP/view?usp=sharing) | [Link](./20191/exerciciosPraticos/ep04-formulario.md) |
-
 ## Avaliação
 
-Não há provas na disciplina, a avaliação é realizada através de:
+A avaliação será feita com base em 3 tipos de exercícios acadêmicos:
 
-- **MTI** - Minitestes teóricos individuais (escritos).
+  -  Exercício Individual (EI) - Questões sobre o conteúdo das aulas teóricas, conforme indicado na programação de aulas, a serem respondidas em aulas presenciais (4,0 pontos cada)
+  -  Exercício em Grupo (EG) - Questões ou código referente ao conteúdo das aulas teóricas ou práticas a serem respondidas em grupo de 4-5 integrantes em aulas presenciais (3,0 pontos cada)
+  -  Exercício de Programação em Grupo (EP) - Exercícios de programação a serem respondidos em grupo de 4-5 integrantes de forma remota (3,0 pontos cada)
 
-- **MTG** - Minitestes teóricos (escritos) em grupo de 3 a 4 integrantes.
-
-- **EPG** - Exercícios práticos em grupo, que consiste na resolução de problemas utilizando a teoria ministrada e a(s) ferramenta(s) disponibilizada(s).
-O EPG é dividido em duas etapas, a primeira etapa é realizada em sala, onde o planejamento da solução é feito, registrado e entregue à professora, a segunda etapa consiste na implementação da solução propriamente dita.
-
-A nota é **acumulativa** e calculada da seguinte maneira:
-- **Média:** ((MTG1+MTI1+MTG2) + (MTI2+MTG3+MTG4) + (MTI3+MTG5+MTG6) + (EPG1+EPG2+EPG3+EPG))/4
-
-Ao final da disciplina o aluno terá aprendido conceitos e algoritmos importantes que o tornarão capaz de desenvolver aplicações eficientes para resolução, representação e otimização de problemas utilizando grafos.
+**Média** = ( (Soma de 6 Eis), 22 é o valor máximo) + Soma(3EGs e 3EPs) ) / 4
 
 
 ## Dicas
@@ -142,14 +122,12 @@ Dificuldades de cada ferramenta que a disciplina faz uso:
 - [yEd](https://www.yworks.com/products/yed)
    - Não há grandes dificuldades com o uso do yEd pois ele é mais utilizado para a construção visual de grafos e conceitos.
 
-- [API JgraphT](https://jgrapht.org/)
-    - Na maioria dos casos, os alunos sentem mais dificuldades com a API JgraphT, usada para auxiliar na manipulação e resolução de problemas envolvendo grafos. É uma biblioteca que possui uma boa documentação, porém, não há grande disponibilidade de tutoriais e materiais de fácil acesso, por isso é muito importante que o aluno use todos os materiais disponibilizados e também o repositório da disciplina como fonte de consulta.
-
     - Inicialmente, há dificuldades para instalar as dependências da JgraphT junto ao [repositório da disciplina](https://github.com/pdlmachado/GraphTheory-JGraphT), mas o aluno não deve se preocupar, pois a própria professora disponibiliza um tutorial para explicar como proceder.
 
 - [Neo4J e a linguagem Cypher](https://neo4j.com/sandbox/)
    - Embora Neo4J e Cypher sejam ótimas ferramentas, possuem certa dificuldade de utilização, por causa da escassez de materiais disponíveis na internet. Recomenda-se então que você siga o material da disciplina com o auxílio de algumas informações no site do Neo4J e procure informações com os monitores, caso precisar. 
 
 ## Fontes 
-
-1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+  -  <a href= "https://github.com/EduardaFarias" target="_blank"> Eduarda Farias </a>
+  
+  - <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>

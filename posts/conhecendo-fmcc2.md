@@ -11,7 +11,6 @@ fixed: true
 - Divisibilidade
 - Inteiros e números primos
 - Aplicações da Teoria dos Números
-- Noções de álgebra vetorial
 - Grupos
 - Anéis, corpos e polinômios
 - Detecção e correção de erros
@@ -28,6 +27,8 @@ Além de prepará-lo para outras disciplinas da graduação, os conhecimentos tr
 - As provas são bastante semelhantes às listas de exercícios propostos, portanto, vale a pena dedicar-se a solucioná-las como ferramenta de estudo.
 
 - Com uma ementa consideravelmente longa e fortemente teórica, é importante estudar com frequência para manter-se acompanhando a disciplina e ter tempo hábil para sanar eventuais dúvidas. 
+
+- Uma das três notas é obtida através de um trabalho, portanto, se dedicar no trabalho é uma ótima forma de ter uma nota boa, além disso, uma nota boa no trabalho pode ajudar a equilibrar sua nota caso tenha tirado notas mais baixas nas duas provas.
 
 ## Material de Estudo
 
@@ -51,5 +52,6 @@ O primeiro estágio é o que tem mais assuntos a serem estudados, ou seja, é im
 Assim como em cálculo, uma nota abaixo da média no primeiro estágio é um grande fator de desistência da cadeira. Não se deixe abalar por conta disso, é totalmente possível se recuperar no segundo estágio.
 
 ## Fontes 
+- <a href= "https://github.com/EduardaFarias" target="_blank"> Eduarda Farias </a>
 
-1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+- <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>

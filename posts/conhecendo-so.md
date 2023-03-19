@@ -27,6 +27,9 @@ Na disciplina de Sistemas Operacionais você entenderá melhor como se conectam 
 * O Tanenbaum cobre bastante do assunto e é possível ter uma boa base o lendo.
 * Anotar tudo o que falado pelo professor é impossível. Tente prestar atenção no que ele está falando e anotar apenas o que ele anota no quadro. Além disso, releia suas anotações com uma certa frequência, lembrando a sequência que ele explicou e tentando conectar bem os pontos.
 
+## Dificuldades
+Apesar não se cobrar presença nas aulas, estar presente ajuda bastante, pois o conteúdo não é cobrado apenas como está no livro base (Tanenbaum), mas também há conteúdo adicional de UNIX que nem sempre está presente no livro. Use suas faltas com sabedoria.
+
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>

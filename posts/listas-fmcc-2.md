@@ -25,6 +25,8 @@ fixed: true
 8 | Anéis | [Link](https://drive.google.com/file/d/1yYCW35xfu_dCjVLTmrQBiXl57uhUf4bs/view?usp=sharing) |
 9 | Matrizes | [Link](https://drive.google.com/file/d/1S5n4ckAtVb81Wn2RUMqWrcviRvxw76Uw/view?usp=sharing) |
 
+<br></br>
+
 ### 2019.1
 **Lista** | **Assunto** | **Link**  |
 :---: | :---: | :---: |
@@ -38,6 +40,8 @@ fixed: true
 8 | Anéis | [Link](https://drive.google.com/open?id=1oUYbo2vYGoOZNyl_8H5GJwjatq2vA6uP) |
 9 | Matrizes | [Link](https://drive.google.com/open?id=1abXUOgOHQdX8a2DrU6Qkh8ZXegAydJ0x) |
 
+<br></br>
+
 ### 2020.1
 **Lista** | **Assunto** | **Link**  |
 :---: | :---: | :---: |
@@ -46,6 +50,40 @@ fixed: true
 3 | Recursividade e Relações de Recorrência | [Link](https://drive.google.com/file/d/1oK6cGDA0pzEKTwmWXY0UQrghu4xToOJV/view) |
 4 | Congruências e Aritmética Modular| [Link](https://drive.google.com/file/d/1sLuioaRHx3q_u2-Fnhq5LRmZBJcfgmLn/view) |
 
+<br></br>
+
+### 2022.1
+
+| **Lista** | **Assunto**                                  | **Link**                                                                                                                                                             |
+|:---------:|:--------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1         | Técnicas de Demonstração                     | <a href= "https://drive.google.com/file/d/1eydG8OWuBij6Qrm6OlaBMDXrI4VNQSXC/view?usp=sharing" target="_blank"> Link </a>                                             |
+| 1.1       | Técnicas de Demonstração                     | <a href= "https://docs.google.com/document/d/16LE4uzuxYPdp8wDRlqwVH0rXaNWdeMimW2ERQgfDutY/edit?usp=sharing" target="_blank"> Link </a>                               |
+| 2         | Indução e Recursividade                      | <a href= "https://docs.google.com/document/d/1uFgEELENIgBgzKn799nd2dZslo7OPwWTYL0rHM-maBc/edit?usp=sharing" target="_blank"> Link </a>                               |
+| 2.1       | Indução                                      | <a href= "https://docs.google.com/document/d/1ACGqNXnUkgLciVY29htYZLkluQyTyhYVmacS6PCl5x4/edit?usp=sharing" target="_blank"> Link </a>                               |
+| 3         | Números Inteiros                             | <a href= "https://drive.google.com/file/d/19AGu0AvgYoBdhNBthcRmdkgOCQNK82a0/view?usp=sharing" target="_blank"> Link </a>                                             |
+| 4         | Números Primos e MDC                         | <a href= "https://docs.google.com/document/d/1EGX_tqbRzmI1KxhpjVMTQPGicD8eS0vQQjmKv7GX-0o/edit?usp=sharing" target="_blank"> Link </a>                               |
+| 5         | Relações de Recorrência                      | <a href= "http://www.ic.uff.br/~ueverton/files/aulasFMC/Gabarito%20-%20Recurs%C3%A3o%20e%20Rela%C3%A7%C3%A3o%20de%20Recorr%C3%AAncia.pdf" target="_blank"> Link </a> |
+| 6         | Classes de Congruências e Aritmética Modular | <a href= "https://docs.google.com/document/d/1Q8PW_HCOfYW-8iY5vcYhVLpupdLZ-oyXza8CT1J5yog/edit" target="_blank"> Link </a>                                           |
+| 7         | Grupos                                       | <a href= "https://docs.google.com/document/d/1tKOscXUqmBzO5AuQcUGdUvCjfl6QXlzPkU4M95yPDcA/edit?usp=sharing" target="_blank"> Link </a>                               |
+| 8         | Anéis                                        | <a href= "https://docs.google.com/document/d/1n8SYnyoQjia1ZGTt6STQ-odM9rkDO6kMjhJHRL8j_q8/edit?usp=sharing" target="_blank"> Link </a>                               |
+| 8.1       | Anéis                                        | <a href= "https://docs.google.com/document/d/1J5bllQTPH-6BJpvfPpPtTLQr3i6iKxMeWszXIZ-EuRs/edit?usp=sharing" target="_blank"> Link </a>                               |
+| 8.2       | Anéis                                        | <a href= "https://docs.google.com/document/d/1LTLaUDa11XzlJalW5hNkpmSq2OFIgto_3ra5EV0N2DE/edit?usp=sharing" target="_blank"> Link </a>                               |
+
+
+## Provas 2022.1
+| **Prova**  | **Reposição** | **Link**                                                                                                                 |
+|:----------:|:-------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| 1º Estágio | Não           | <a href= "https://drive.google.com/file/d/18nOzHPQ9hYNYeEEHxjHTDnijmO9DGWXR/view?usp=sharing" target="_blank"> Link </a> |
+
+<br></br>                                                
+
 ## Fontes 
 
 1. <a href= "https://github.com/OpenDevUFCG/Tamburetei" target="_blank"> Tamburetei </a>
+
+2. <a href= "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwicvoCu5ej9AhWPHbkGHT-oDjMQFnoECBIQAQ&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Feanes-pereira-987580111&usg=AOvVaw37Y5OgGOCAwUuHPLvCIvDE" target="_blank"> Eanes Torres </a>
+
+3. <a href= "https://github.com/EduardaFarias" target="_blank"> Eduarda Farias </a>
+
+ 
+
