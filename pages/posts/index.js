@@ -37,9 +37,9 @@ export default function Page({ posts, disciplinesAbr }) {
     return (
       <>
         {(() => {
-          let rows = [<option value={""}></option>];
+          let rows = [<option key={""} value={""}></option>];
           disciplinesAbr.forEach(abr => {
-            rows.push(<option value={abr}>{abr}</option>);
+            rows.push(<option key={abr} value={abr}>{abr}</option>);
           });
           return rows;
         })()}

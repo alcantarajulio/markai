@@ -34,9 +34,9 @@ export default function Page({ disciplines, periods }) {
     return (
       <>
         {(() => {
-          let rows = [<option value={""}></option>];
+          let rows = [<option key={""} value={""}></option>];
           periods.forEach(i => {
-            rows.push(<option value={i}>{i}º</option>);
+            rows.push(<option key={i} value={i}>{i}º</option>);
           });
           return rows;
         })()}
