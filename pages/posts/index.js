@@ -49,8 +49,8 @@ export default function Page({ posts, disciplinesAbr }) {
 
   return (
     <>
-      <div style={{ padding: "16px 16px", margin: 0 }}>
-        <select style={{ padding: "8px", border: "2px solid black" }} onChange={(e) => filterPostsByDiscipline(e)}>
+      <div style={{ padding: "16px 8px 0 8px", margin: "0 auto"}}>
+        <select style={{ padding: "12px 4px", border: "2px solid black", width: "100%", fontSize: "16px" }} onChange={(e) => filterPostsByDiscipline(e)}>
           {options()}
         </select>
       </div>
