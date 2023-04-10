@@ -33,6 +33,18 @@ export default function App({ Component, pageProps }) {
             <main>
                 <Component {...pageProps} />
             </main>
+            <footer>
+                <section>
+                    <div>
+                        <p>Copyright © 2023 Kenned Barbosa</p>
+                    </div>
+                </section>
+                <section>
+                    <div>
+                        <p>Existem conteúdos retirados do <a href="https://tamburetei.opendevufcg.org/">Tamburetei</a> (ver fontes do post)</p>
+                    </div>
+                </section>
+            </footer>
             <NavBar />
         </>
     )

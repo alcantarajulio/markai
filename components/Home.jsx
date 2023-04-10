@@ -8,7 +8,6 @@ export default function Home() {
                 <h1>Markai</h1>
                 <p>Site para estudantes de Computação na UFCG</p>
                 <img src="https://kenbme.github.io/markai/static/img/mai-fundo-branco.png" alt="Markai Logo" />
-                <p style={{color: "blue"}}>Código aberto para todos, agora você pode contribuir! :D</p>
             </section>
             <section>
                 <h1>Principais contribuidores</h1>
@@ -30,9 +29,16 @@ export default function Home() {
                     </div>
                 </div>
             </section>
-            <section className={styles.Thank}>
+            <section className={styles.Why}>
+                <h1>Porque existe o Markai?</h1>
                 <div>
-                    <h1>Agradeço também a todos que deram seu feedback durante o desenvolvimento deste projeto!</h1>
+                    <div><img src="https://cdn0.iconfinder.com/data/icons/entypo/92/help-512.png" alt="Ponto de interrogação" /></div>
+                    <div>
+                        <ul>
+                            <li>Ajudar estudantes</li>
+                            <li>Descentralização do open-source</li>
+                        </ul>
+                    </div>
                 </div>
             </section>
         </div>

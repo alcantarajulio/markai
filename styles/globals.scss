@@ -8,16 +8,32 @@
 
 body {
     font-family: "Roboto";
+
+    background-color: black;
+}
+
+main {
     background-color: #FAFAFA;
 }
 
 main>div {
     padding: 20px;
-    margin-bottom: 56px;
     max-width: 1400px;
     margin-right: auto;
     margin-left: auto;
     font-size: 20px;
+}
+
+footer {
+    margin-bottom: 56px;
+    text-align: center;
+    padding: 12px;
+    background-color: black;
+    color: #FAFAFA;
+}
+
+footer>section {
+    padding: 0px 4px;
 }
 
 img {
@@ -53,6 +69,10 @@ a {
 @media (min-width: 800px) {
     main {
         max-width: 100%;
+        margin: 0 0 0 88px;
+    }
+
+    footer {
         margin: 0 0 0 88px;
     }
 

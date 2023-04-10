@@ -46,7 +46,7 @@ export default function Page({ disciplines, periods }) {
 
   return (
     <>
-      <div style={{ padding: "0px 16px", margin: 0, marginTop: "16px" }}>
+      <div style={{ padding: "16px 16px", margin: 0 }}>
         <select style={{ padding: "8px", border: "2px solid black" }} onChange={(e) => filterDisciplineByPeriod(e)}>
           {options()}
         </select>

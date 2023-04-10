@@ -29,8 +29,30 @@
     width: 200px;
 }
 
-.Thank {
-    margin-top: 20px;
+.Why h1 {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.Why img {
+    width: 96px;
+}
+
+.Why>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Why ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Why li {
+    margin-left: 8px;
+    padding: 4px;
 }
 
 @media (min-width: 800px) {
