@@ -30,7 +30,7 @@ export default function Home() {
                 </div>
             </section>
             <section className={styles.Why}>
-                <h1>Porque existe o Markai?</h1>
+                <h1>Por que existe o Markai?</h1>
                 <div>
                     <div><img src="https://cdn0.iconfinder.com/data/icons/entypo/92/help-512.png" alt="Ponto de interrogação" /></div>
                     <div>
