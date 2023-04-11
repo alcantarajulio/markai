@@ -1,3 +1,4 @@
+import Layout from "@/components/Layout";
 import Posts from "@/components/Posts";
 import { getAllPosts } from "@/services/post.service"
 import React, { useState } from "react";
@@ -48,14 +49,14 @@ export default function Page({ posts, disciplinesAbr }) {
   }
 
   return (
-    <>
-      <div style={{ padding: "16px 8px 0 8px", margin: "0 auto"}}>
-        <select style={{ padding: "12px 4px", border: "2px solid black", width: "100%", fontSize: "16px" }} onChange={(e) => filterPostsByDiscipline(e)}>
+    <Layout>
+      <div style={{ padding: "0px 8px 20px 8px", margin: "0 auto"}}>
+        <select style={{ padding: "12px 4px", border: "2px solid black", width: "100%", fontSize: "16px", backgroundColor:"white" }} onChange={(e) => filterPostsByDiscipline(e)}>
           {options()}
         </select>
       </div>
       <Posts posts={postsFiltered} />
-    </>
+    </Layout>
   )
 }
 
