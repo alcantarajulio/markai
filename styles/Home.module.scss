@@ -1,10 +1,12 @@
 .Home h1 {
-    padding-bottom: 10px;
     text-align: center;
 }
 
+.Home>section>div {
+    padding: 12px 0px;
+}
+
 .Maintainers {
-    margin-top: 20px;
     text-align: center;
 }
 
@@ -27,11 +29,6 @@
 
 .Notices img {
     width: 200px;
-}
-
-.Why h1 {
-    padding-bottom: 10px;
-    text-align: center;
 }
 
 .Why img {
@@ -68,5 +65,9 @@
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         justify-content: space-around;
+    }
+
+    .Maintainers>div {
+        margin-bottom: 0px;
     }
 }
